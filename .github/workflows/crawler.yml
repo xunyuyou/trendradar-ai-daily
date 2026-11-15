@@ -1,12 +1,12 @@
 name: Get Hot News
 
 # Lightweight self-owned scheduler. No 7-day trial check, no secrets, no Pages required.
-# UTC 0/4/12 = Beijing 08:00 / 12:00 / 20:00. Three runs per day keeps the repo active
+# UTC 0-14/2 = Beijing 08:00-22:00 every 2 hours (8 runs/day). Keeps the repo active
 # (avoids GitHub's 60-day scheduled-workflow auto-disable) with far less load than hourly.
 
 on:
   schedule:
-    - cron: '0 0,4,12 * * *'
+    - cron: '0 0-14/2 * * *'
   workflow_dispatch:
   push:
     branches: [master]
