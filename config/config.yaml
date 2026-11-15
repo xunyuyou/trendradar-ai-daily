@@ -112,9 +112,6 @@ rss:
   - id: techcrunch-ai
     name: TechCrunch AI
     url: https://techcrunch.com/category/artificial-intelligence/feed/
-  - id: venturebeat-ai
-    name: VentureBeat AI
-    url: https://venturebeat.com/category/ai/feed/
   - id: the-verge
     name: The Verge
     url: https://www.theverge.com/rss/index.xml
@@ -130,24 +127,12 @@ rss:
   - id: deepmind-blog
     name: Google DeepMind
     url: https://deepmind.google/blog/rss.xml
-  - id: arxiv-cs-ai
-    name: arXiv cs.AI
-    url: https://export.arxiv.org/rss/cs.AI
-  - id: arxiv-cs-cl
-    name: arXiv cs.CL
-    url: https://export.arxiv.org/rss/cs.CL
   - id: producthunt
     name: Product Hunt
     url: https://www.producthunt.com/feed
-  - id: 36kr
-    name: 36氪
-    url: https://36kr.com/feed
   - id: sspai
     name: 少数派
     url: https://sspai.com/feed
-  - id: jiqizhixin
-    name: 机器之心
-    url: https://www.jiqizhixin.com/rss
 report:
   mode: daily
   display_mode: platform
