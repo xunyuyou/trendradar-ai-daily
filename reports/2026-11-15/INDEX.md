@@ -1,6 +1,10 @@
 # 2026-11-15 全球 AI 热点快照索引
 
 ## 推荐读取：精简纯文本（已过滤，仅来源/排名/时间/标题/链接）
+- https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/reports/2026-11-15/2007.txt
+- https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/reports/2026-11-15/2011.txt
+- https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/reports/2026-11-15/2022.txt
+- https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/reports/2026-11-15/2031.txt
 - https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/reports/2026-11-15/2204.txt
 
 ## 完整 HTML 报告（仅当精简文本不可用时读取）
