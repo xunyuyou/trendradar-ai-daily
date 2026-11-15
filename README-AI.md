@@ -14,26 +14,21 @@
 
 ## 公开报告地址（供 WorkBuddy 读取，无需认证）
 
-最新报告（root）：
+**精简纯文本（推荐）**：由 `scripts/export_digest.py` 从已过滤的 HTML 报告提取，
+仅保留来源 / 排名 / 时间 / 标题 / 链接，体积约为 HTML 的 1/9（22 KB vs 210 KB），适合云端 Agent 读取。
+
+    https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/reports/YYYY-MM-DD/INDEX.md
+    https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/reports/YYYY-MM-DD/HHMM.txt
+
+`INDEX.md` 是固定路径索引，列出当天全部精简文本与 HTML 快照链接；读它即可，
+**不要调用 GitHub 目录 API**（匿名请求会触发 403 限流）。
+
+完整 HTML 报告（仅当精简文本不可用时使用）：
 
     https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/index.html
-
-稳定的最新报告：
-
     https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/output/html/latest/daily.html
 
-当天各时段归档（目录列表 API，把日期换成当天）：
-
-    https://api.github.com/repos/xunyuyou/trendradar-ai-daily/contents/reports/YYYY-MM-DD
-    https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/reports/YYYY-MM-DD/HHMM.html
-
-纯文本快照：
-
-    https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/output/txt/YYYY-MM-DD/HHMM.txt
-
-浏览器直接看（GitHub Pages 未启用，可用 GitHub 的 HTML 预览或下载后打开）：
-
-    https://github.com/xunyuyou/trendradar-ai-daily/blob/master/index.html
+注意：`output/txt/` 下是**未过滤的全量热榜**，不要读取。
 
 ## 维护
 

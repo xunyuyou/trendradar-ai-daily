@@ -55,17 +55,25 @@ jobs:
           mkdir -p "reports/$DAY"
           if [ -f index.html ]; then
             cp index.html "reports/$DAY/$TIME.html"
-            echo "Archived reports/$DAY/$TIME.html"
+            # Compact digest: ONLY keyword-filtered items (source / rank / time / title / url)
+            uv run python scripts/export_digest.py \
+              --html index.html --out "reports/$DAY/$TIME.txt" \
+              --date "$DAY" --time "$TIME"
           else
             echo "::warning::index.html was not generated"
           fi
-          # Fixed-path index so downstream agents need no GitHub API (avoids anonymous rate limits)
+          # Fixed-path index; downstream agents read compact .txt first (no GitHub API, no huge HTML)
           {
             echo "# $DAY 全球 AI 热点快照索引"
             echo
-            echo "最新汇总: https://raw.githubusercontent.com/${{ github.repository }}/master/index.html"
+            echo "## 推荐读取：精简纯文本（已过滤，仅来源/排名/时间/标题/链接）"
+            for f in $(ls -1 "reports/$DAY"/*.txt 2>/dev/null | sort); do
+              n=$(basename "$f")
+              echo "- https://raw.githubusercontent.com/${{ github.repository }}/master/reports/$DAY/$n"
+            done
             echo
-            echo "当天各时段快照（按时间先后）:"
+            echo "## 完整 HTML 报告（仅当精简文本不可用时读取）"
+            echo "最新汇总: https://raw.githubusercontent.com/${{ github.repository }}/master/index.html"
             for f in $(ls -1 "reports/$DAY"/*.html 2>/dev/null | sort); do
               n=$(basename "$f")
               echo "- https://raw.githubusercontent.com/${{ github.repository }}/master/reports/$DAY/$n"
