@@ -59,6 +59,18 @@ jobs:
           else
             echo "::warning::index.html was not generated"
           fi
+          # Fixed-path index so downstream agents need no GitHub API (avoids anonymous rate limits)
+          {
+            echo "# $DAY 全球 AI 热点快照索引"
+            echo
+            echo "最新汇总: https://raw.githubusercontent.com/${{ github.repository }}/master/index.html"
+            echo
+            echo "当天各时段快照（按时间先后）:"
+            for f in $(ls -1 "reports/$DAY"/*.html 2>/dev/null | sort); do
+              n=$(basename "$f")
+              echo "- https://raw.githubusercontent.com/${{ github.repository }}/master/reports/$DAY/$n"
+            done
+          } > "reports/$DAY/INDEX.md"
 
       - name: Commit reports
         run: |
