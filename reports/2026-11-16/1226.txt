@@ -1,0 +1,160 @@
+# 全球 AI 热点精简数据 2026-11-16 1226 (Asia/Shanghai)
+# 来源: 已按 AI 关键词过滤的报告 | 热榜 139 条 | RSS 14 条
+# 字段: 来源 | 排名 | 时间 | 标题 | 链接
+
+## 热榜（已过滤）
+[AI 热点] #1 | 12:26 | Qwen4-Max 以 63.20% 准确率位列 Vals Index 第11名，成中国模型之首 | https://aihot.news/items/zt7810nj5l9s393h7gugnqp34
+[AI 热点] #2 | 12:26 | 通义千问发布 Qwen4 Max，Intelligence Index 较 Qwen3.8 Max 高 9 分且成本更低 | https://aihot.news/items/r9e7azie93xzxxdf6yyd1jmqe
+[AI 热点] #3 | 12:26 | 卡兹克解析 AI 手搓几百K纯HTML 3D世界：Three.js 与程序化生成如何实现极限压缩 | https://aihot.news/items/mkrkzap1dpb14npw28k8rdbu4
+[AI 热点] #4 | 12:26 | Qwen4-Max 上线 OpenRouter | https://aihot.news/items/ctfpwvhoir5aihk9mrmp2atb6
+[AI 热点] #5 | 12:26 | Qwen4-Max 以 1674 分位列 Image-to-WebDev Arena 第 6，较 Qwen3.8-Max 提升 35 分 | https://aihot.news/items/edv1rm7wuqkit214bljvck5fh
+[AI 热点] #7 | 12:26 | 阿里巴巴发布 Qwen4 Max，Artificial Analysis 评测 Intelligence Index 得 43 分 | https://aihot.news/items/tbsk6xevx1zi89yv43zzv70fa
+[AI 热点] #8 | 12:26 | Qwen4-Max 登顶 Agent Arena 中国模型第一，阿里巴巴升至全球第五实验室 | https://aihot.news/items/my21gpu54w5efhqcj52vt8qdx
+[AI 热点] #9 | 12:26 | Qwen4 Max 上线 OpenRouter，定价降至 $1.50/M 输入和 $4.50/M 输出 | https://aihot.news/items/kayo9z0n8de1s6jeoey8mb8w0
+[AI 热点] #10 | 12:26 | 千问 Qwen4 Max 上线 OpenRouter | https://aihot.news/items/g1tkcxsif940li9583loiq951
+[AI 热点] #11 | 12:26 | Arena 实测 Qwen4-Max：与 Opus、GPT、Kimi 对比 3D 场景、游戏与网页设计 | https://aihot.news/items/lwm5arpx4igijefecen2o53sa
+[AI 热点] #12 | 12:26 | 千问发布 Qwen4-Max，Unsloth 预告更小的 Qwen4 开源模型即将推出 | https://aihot.news/items/ilw9pjl6arxr6k675xds3mpmz
+[AI 热点] #13 | 12:26 | Qwen4-Max 以 1750 分位列 Code Arena WebDev 第 6 名 | https://aihot.news/items/k2yu9dc1syzyxg39e723hj5tj
+[AI 热点] #14 | 12:26 | Arena：Qwen4-Max 以 1750 分登 Code Arena WebDev 第 6 名 | https://aihot.news/items/epq3pj0n24437nyrd6ahe3t6b
+[AI 热点] #15 | 12:26 | Qwen4-Max 登顶 Agent Arena 中国模型榜首，Alibaba 排名升至总榜第14 | https://aihot.news/items/kzt8bjcin243qefkuiq49c2i6
+[AI 热点] #16 | 12:26 | 阿里通义千问 Qwen4-Max 正式上线：2.4 万亿参数 MoE 架构，任务成本降低超 60% | https://aihot.news/items/rbqagropgog0neudf5pnqzgv9
+[AI 热点] #17 | 12:26 | 腾讯公布总办 LinkTime 播客原文，号召所有业务面向 AI 时代再创业 | https://aihot.news/items/hpiadnis9pig12p7pj6hngkra
+[AI 热点] #18 | 12:26 | Qwen4-Max 发布，token 用量较 Qwen3.8-Max 明显下降 | https://aihot.news/items/wbrb6jftms3l8k7c8xunse5b1
+[AI 热点] #19 | 12:26 | Qwen 发布 Qwen4-Max：MoE 架构、原生视觉与 1M token 上下文窗口 | https://aihot.news/items/nyprun70jveiyetdmcvotqaod
+[AI 热点] #20 | 12:26 | Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力 | https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh
+[AI 热点] #21 | 12:26 | Anthropic CEO 阿莫迪与戴蒙对谈：算力是最深层的商业难题 | https://aihot.news/items/tp3usld98o471jwtkrvnf2qy6
+[AI 热点] #22 | 12:26 | 借鉴 Claude 常驻智能体指南的省 token 提示词技巧 | https://aihot.news/items/f9pp7cfr02m516vx5o7tvgznc
+[AI 热点] #23 | 12:26 | Apple 联合 OpenEvidence 推出健康 AI 研究应用 | https://aihot.news/items/zbsq0moefs0rtdvuvu68ms1qq
+[AI 热点] #24 | 12:26 | Apple 联合 OpenEvidence 启动 Health AI Usage Study，招募至多 20 万人评估健康 AI 工具 | https://aihot.news/items/j7l7laq9yc7tbbynorzk9etko
+[AI 热点] #25 | 12:26 | Claude Fable 5.2 不调用图像模型，用 Python 代码模拟真实画笔逐笔作画 | https://aihot.news/items/mc0spd5j68n84jb96dj0euekq
+[AI 热点] #26 | 12:26 | 物理学家 Nathaniel Craig 分享与 GPT-6 Astra 协作构建标准模型候选格点定义 | https://aihot.news/items/r2drdjeh4ko7zsue9vym19m79
+[AI 热点] #27 | 12:26 | Genie One 技能（Skills）使用指南：把团队工作流教给 AI | https://aihot.news/items/yf7cyhl79y5d0u9oube5hiw13
+[AI 热点] #29 | 12:26 | AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板 | https://aihot.news/items/izdx1kuppob6c65ghvmyeal38
+[AI 热点] #30 | 12:26 | Google DeepMind 与哥伦比亚大学提出 BTTF 框架，用 SQL 数据库让智能体调试芯片仿真 | https://aihot.news/items/yhcgx912dsvdcowy44a5efl6b
+[MKT新闻] #2 | 12:26 | BANK OF JAPAN policymaker TAKATA said 2026 marks a new phase and attention should shift to rising inflation. | https://mktnews.net/flashDetail.html?id=01a1e292-0548-7bbc-abf0-4b663a5affdd
+[MKT新闻] #3 | 12:26 | Takata, a Bank of Japan Policy Board member, said the central bank should evaluate banks' lending stance and corporate financing conditions after each rate hike. | https://mktnews.net/flashDetail.html?id=01a1e291-5d28-7bbc-abf0-446b08a379f8
+[MKT新闻] #4 | 12:26 | Bank of Japan policy board member Takata said the BOJ remains in the process of raising policy rates as it seeks to normalize policy to respond to shifts in global monetary and fiscal settings. | https://mktnews.net/flashDetail.html?id=01a1e290-3a57-7bbc-abf0-3f235c70bd2f
+[MKT新闻] #5 | 12:26 | Bank of Japan policy board member Takata said the risk of a pronounced near-term slowdown in Japan's economy has eased. | https://mktnews.net/flashDetail.html?id=01a1e28f-acde-7bbc-abf0-33082bd187e2
+[MKT新闻] #6 | 12:26 | HSBC downgraded NVIDIA (NVDA.O) to Hold and cut its PT to $170 from $365. | https://mktnews.net/flashDetail.html?id=01a1e28e-7d72-7bbc-abf0-2fe917ad931d
+[MKT新闻] #7 | 12:26 | Takata, a Bank of Japan policy board member, said the Bank of Japan must demonstrate to markets its determination to prevent prices from deviating upward. | https://mktnews.net/flashDetail.html?id=01a1e28d-ea57-7bbc-abf0-2095157ee59f
+[MKT新闻] #8 | 12:26 | TAKATA, a Bank of Japan policy board member, said early-November stock market volatility was linked to global AI stocks, but he expects AI investment to remain broadly robust. | https://mktnews.net/flashDetail.html?id=01a1e28d-b1dd-7bbc-abf0-1fa45eb8fb09
+[MKT新闻] #9 | 12:26 | Bank of Japan policy board member Takata said the central bank has entered a new phase and needs to be flexible when adjusting policy interest rates. | https://mktnews.net/flashDetail.html?id=01a1e28d-7e41-7bbc-abf0-144a3dd8b42a
+[MKT新闻] #10 | 12:26 | Bank of Japan policy board member Takata said the cumulative effects of policy rate increases will take time to materialize. | https://mktnews.net/flashDetail.html?id=01a1e28d-1f63-7bbc-abf0-0dfd0593f365
+[MKT新闻] #11 | 12:26 | Bank of Japan Policy Board member TAKATA said if rate hikes harm corporate behavior, the BOJ could regard that as having reached the neutral rate and consider possible rate cuts. | https://mktnews.net/flashDetail.html?id=01a1e28c-d77e-7bbc-abf0-0696eee22e8f
+[MKT新闻] #12 | 12:26 | Officials in Russia's Krasnodar region said drone wreckage caused a fire at an industrial facility. | https://mktnews.net/flashDetail.html?id=01a1e28c-090b-7bbc-abef-fb419b77900f
+[MKT新闻] #13 | 12:26 | Bank of Japan policy board member Takata said changes in equity, real estate and FX markets are key factors in assessing financial conditions. | https://mktnews.net/flashDetail.html?id=01a1e28b-f0ce-7bbc-abef-f1d398581233
+[MKT新闻] #14 | 12:26 | Bank of Japan policy board member Takata said Japan's financing conditions remain accommodative. | https://mktnews.net/flashDetail.html?id=01a1e28b-d4fb-7bbc-abef-eb559f417289
+[MKT新闻] #15 | 12:26 | Bank of Japan policy board member Takata said the central bank should, after assessing domestic financial conditions and the global backdrop, act swiftly to raise interest rates. | https://mktnews.net/flashDetail.html?id=01a1e28b-94cf-7bbc-abef-e1098e6b6e23
+[MKT新闻] #16 | 12:26 | TAKATA, a Bank of Japan policy board member, said the BOJ should not target reaching the expected neutral rate nor be constrained by any specific band of market expectations when considering further rate hikes. | https://mktnews.net/flashDetail.html?id=01a1e28b-4529-7bbc-abef-dd0fc627c6f4
+[MKT新闻] #17 | 12:26 | Bank of Japan policy board member Takata said the BOJ must adjust its policy framework and move interest rates to an appropriate level as soon as possible. | https://mktnews.net/flashDetail.html?id=01a1e28a-7e7f-7bbc-abef-d617f104ad80
+[MKT新闻] #18 | 12:26 | Takata, a policy board member at the Bank of Japan, said H2 of fiscal 2026 may see inflationary pressure. | https://mktnews.net/flashDetail.html?id=01a1e28a-09c0-7bbc-abef-cad1bb618586
+[MKT新闻] #20 | 12:26 | Bank of Japan policy board member Takata said a data-dependent approach is needed when considering rate hikes. | https://mktnews.net/flashDetail.html?id=01a1e287-dbbb-7bbc-abef-bc929e1de4ff
+[MKT新闻] #21 | 12:26 | WSJ reports the Trump administration will add NVIDIA to an AI "national champion" list. | https://mktnews.net/flashDetail.html?id=01a1e287-4b75-7bbc-abef-b0baa5f123ba
+[MKT新闻] #23 | 12:26 | TAKATA, a BANK OF JAPAN policy board member, said Japan's policy rate has finally approached a neutral range. | https://mktnews.net/flashDetail.html?id=01a1e286-ff23-7bbc-abef-a79957cfef8b
+[MKT新闻] #24 | 12:26 | BOJ policy board member Takata said recent developments are one reason why a rate hike is currently necessary. | https://mktnews.net/flashDetail.html?id=01a1e286-cb0f-7bbc-abef-98e44f4946e2
+[MKT新闻] #25 | 12:26 | BOJ policy board member Takata said recent FX market participants are focusing on both nominal and real interest-rate differentials, so it is necessary to monitor price developments transmitted via the exchange rate. | https://mktnews.net/flashDetail.html?id=01a1e286-c516-7bbc-abef-921a26db2d20
+[MKT新闻] #26 | 12:26 | Toyota launches fully driverless commercial service using seventh-generation BZ4X Robotaxi. | https://mktnews.net/flashDetail.html?id=01a1e285-e500-7bbc-abef-8c4c6affb0d8
+[MKT新闻] #27 | 12:26 | Bank of Japan policy board member Takata said current price rises are more likely to trigger second-round effects. | https://mktnews.net/flashDetail.html?id=01a1e285-d954-7bbc-abef-86096e618d4a
+[MKT新闻] #28 | 12:26 | Pony.ai (02026.HK) and Toyota launch seventh-generation bZ4X Robotaxi in a fully driverless commercial service. | https://mktnews.net/flashDetail.html?id=01a1e284-76ec-7bbc-abef-79ad4eff0f05
+[掘金] #4 | 12:26 | 太牛了！这AI做出来的游戏，居然还能变现！ | https://juejin.cn/post/7707235507143491624
+[掘金] #6 | 12:26 | 掘金用量重要更新来了!全新本地 AI 网关正式上线：一站式掌控你的模型、用量与工具!TRAE用量支持 | https://juejin.cn/post/7706396464942972954
+[掘金] #8 | 12:26 | 大一独立开发鸿蒙原生 AI Agent：聊聊我为什么死磕端侧模型与“技术平权” | https://juejin.cn/post/7707128656847536162
+[掘金] #11 | 12:26 | 井道无信号、满手黑机油，我们如何用 DeepSeek V4 打造不“犯浑”的电梯维保 Agent？ | https://juejin.cn/post/7707639689457582106
+[掘金] #15 | 12:26 | AI 能把页面写出来，为什么改个需求就开始崩？ | https://juejin.cn/post/7707227810214346786
+[掘金] #17 | 12:26 | 一天一个开源项目（第259篇）：Modern Web Guidance —— Chrome 团队给 AI 编码 Agent 的「现代 Web 最佳实践」外挂 | https://juejin.cn/post/7707533858106884115
+[掘金] #20 | 12:26 | AI Agent 时代前端项目怎么组织：按页面纵向切块，替代按类型分层目录 | https://juejin.cn/post/7707452568733499418
+[掘金] #22 | 12:26 | 代码越来越便宜，判断力越来越贵：AI 时代的 Android 架构与协程避坑指南 | https://juejin.cn/post/7707957158462357546
+[掘金] #23 | 12:26 | AI Agent 子智能体协作实战：怎样用好 Subagent 分工与省 Token｜Oil Book | https://juejin.cn/post/7707927071724486665
+[掘金] #26 | 12:26 | DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付” | https://juejin.cn/post/7708058421904392242
+[掘金] #29 | 12:26 | Gemini 4 Hydrogen：发布即全量，但 Flash 的低价时代结束了 | https://juejin.cn/post/7707532087125966858
+[掘金] #30 | 12:26 | 用《实践论》分析前沿部署工程师：AI时代听见炮声的人 | https://juejin.cn/post/7707483315461537846
+[FreeBuf] #2 | 12:26 | FBI披露黑客利用ARTEX AI Agents发起攻击，不到三小时即可获取特权访问 | https://www.freebuf.com/articles/ai-security/512581.html
+[FreeBuf] #3 | 12:26 | Cursor披露10月安全事件溯源结果，Fireworks AI密钥泄露致Claude Code扩展被植后门 | https://www.freebuf.com/news/512563.html
+[FreeBuf] #10 | 12:26 | 越狱版DeepSeek AI Agent入侵欧洲电信商；Anthropic发布Claude Mythos 5.2 | FreeBuf周报 | https://www.freebuf.com/articles/512365.html
+[FreeBuf] #11 | 12:26 | OpenAI发布Daybreak，将AI Agent引入安全测试与漏洞修复流程 | https://www.freebuf.com/articles/development/512454.html
+[FreeBuf] #13 | 12:26 | OpenAI推出两款AI网络安全工具，可自动化渗透测试与漏洞修复 | https://www.freebuf.com/news/512428.html
+[FreeBuf] #16 | 12:26 | AI Agent 蜜罐实战：从部署到捕获一次自动化攻击的完整记录 | https://www.freebuf.com/articles/vuls/512175.html
+[FreeBuf] #17 | 12:26 | 给大模型加一道墙：LLM 防火墙架构设计与攻防实测 | https://www.freebuf.com/articles/vuls/512173.html
+[FreeBuf] #18 | 12:26 | FreeBuf早报 | AI黑客框架运行于公网；微软研究人员展示AI Agent隐蔽后门技术 | https://www.freebuf.com/news/512170.html
+[FreeBuf] #19 | 12:26 | AI安全事件检测与响应：怎么知道你的LLM应用正在被攻击 | https://www.freebuf.com/articles/vuls/512167.html
+[Hacker News] #2 | 12:26 | Qwen4-Max | https://news.ycombinator.com/item?id=50513215
+[Hacker News] #5 | 12:26 | Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack | https://news.ycombinator.com/item?id=50512441
+[Hacker News] #6 | 12:26 | What's Next for Nvidia? | https://news.ycombinator.com/item?id=50512235
+[Hacker News] #11 | 12:26 | WebGL Flight Simulator with seed generated terrain | https://news.ycombinator.com/item?id=50510296
+[Hacker News] #16 | 12:26 | A short explainer on how El Niño works [video] | https://news.ycombinator.com/item?id=50509308
+[Hacker News] #22 | 12:26 | Understanding Positional Embeddings in Modern LLMs | https://news.ycombinator.com/item?id=50506376
+[Hacker News] #25 | 12:26 | Artificial Intelligence for the Z80 | https://news.ycombinator.com/item?id=50485275
+[Hacker News] #29 | 12:26 | Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video] | https://news.ycombinator.com/item?id=50463399
+[金十数据] #4 | 12:26 | 据华尔街日报：特朗普政府将把英伟达列入人工智能“国家领军企业”名单。 | https://flash.jin10.com/detail/20261116120434073800
+[金十数据] #9 | 12:26 | 丰田推出基于第七代BZ4X Robotaxi的全无人驾驶商业服务。 | https://flash.jin10.com/detail/20261116120302172800
+[金十数据] #11 | 12:26 | 小马智行(02026.HK)与丰田推出第七代bZ4X Robotaxi全无人驾驶商业化服务。 | https://flash.jin10.com/detail/20261116120128669800
+[金十数据] #12 | 12:26 | 金十数据整理：每日人工智能动态汇总（11月16日） | https://flash.jin10.com/detail/20261116120100873800
+[金十数据] #16 | 12:26 | 中国与东盟宣布将2027年定为人工智能合作年。 | https://flash.jin10.com/detail/20261116115647077800
+[金十数据] #25 | 12:26 | 河南：探索发布一批物流领域人工智能大模型 | https://flash.jin10.com/detail/20261116114930354800
+[V2EX] #3 | 12:26 | 用 ai 开发了一个记账系统，开源了 | https://www.v2ex.com/t/1257375
+[V2EX] #5 | 12:26 | 让 AI 处理你的 github issue | https://www.v2ex.com/t/1257369
+[V2EX] #7 | 12:26 | 做了一个带 AI 助手的聊天工具 Talky，客户端已开源，欢迎试用 | https://www.v2ex.com/t/1257362
+[V2EX] #8 | 12:26 | Hairpin：发布我为自己开发的小工具，找回被 MacBook 刘海挡住的菜单栏图标 | https://www.v2ex.com/t/1257353
+[V2EX] #11 | 12:26 | 没有 ai 的日子真难受 | https://www.v2ex.com/t/1257340
+[IT之家] #1 | 12:26 | 国家统计局：人工智能快速发展带动电子、电气机械等行业需求回升、价格上涨 | https://www.ithome.com/1/027/602.htm
+[IT之家] #6 | 12:26 | 算力承压：曝 DeepSeek 应用及网页端实施限额，长对话与日额度双双受限 | https://www.ithome.com/1/027/597.htm
+[IT之家] #11 | 12:26 | 华为麒麟 9050 系列芯片智能音视频处理情报公开：低延迟 AI 异构协同计算、率先支持 H.266 解码 | https://www.ithome.com/1/027/574.htm
+[IT之家] #17 | 12:26 | 奥睿科推出 FlashMem FM9800 固态硬盘，配备 pSLC AI Cache 区域 | https://www.ithome.com/1/027/552.htm
+[财联社 电报] #2 | 12:26 | 财联社11月16日电，中国与东盟宣布将2027年定为人工智能合作年。 | https://api3.cls.cn/share/article/2535117?os=web&sv=7.7.5&app=
+[财联社 电报] #9 | 12:26 | 河南：探索发布一批物流领域人工智能大模型 | https://api3.cls.cn/share/article/2535107?os=web&sv=7.7.5&app=
+[财联社 电报] #21 | 12:26 | 因算力不足，DeepSeek对App/网页版限额使用 | https://api3.cls.cn/share/article/2535076?os=web&sv=7.7.5&app=
+[财联社 电报] #25 | 12:26 | 国家统计局：人工智能快速发展带动电子、电气机械等行业需求回升、价格上涨 | https://api3.cls.cn/share/article/2535066?os=web&sv=7.7.5&app=
+[华尔街见闻 最新] #3 | 12:26 | 付鹏：AI叙事退潮叠加关税变量，铜价或回归2022—2023年区间【付鹏说8】 | https://wallstreetcn.com/premium/articles/3785993?layout=wscn-layout
+[华尔街见闻 最新] #4 | 12:26 | 高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23% | https://wallstreetcn.com/articles/3785994
+[华尔街见闻 最新] #20 | 12:26 | AI设备商的利润，究竟是靠技术赚来的，还是靠缺货赚来的？ | https://wallstreetcn.com/member/articles/3785883
+[华尔街见闻 最新] #27 | 12:26 | 本周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报 | https://wallstreetcn.com/articles/3785932
+[财联社 深度] #6 | 12:26 | 系好安全带！“超级大空头”敲警钟：AI火热行情正被三大风险环伺 | https://www.cls.cn/detail/2535055
+[财联社 深度] #8 | 12:26 | 压根就没有“AI就业末日”？最新研究：到2030年，将净创造170万岗位！ | https://www.cls.cn/detail/2535011
+[财联社 深度] #20 | 12:26 | Anthropic超级IPO本周“出鞘” 美股AI信仰面临最严苛大考？ | https://www.cls.cn/detail/2534894
+[财联社 深度] #23 | 12:26 | 市场风险偏好下行红利走强，AI应用赛道酝酿轮动修复 | https://www.cls.cn/detail/2534911
+[华尔街见闻 快讯] #4 | 12:26 | 日本央行委员高田创：一旦加息开始对企业行为产生不利影响，日本央行即可将其视为政策利率已达到中性水平的信号，并开始考虑潜在的降息。  我认为日本央行正处于一个新阶段，无论在加息还是降息方面都需要做出灵活应对。  尽管如此，我认为政策利率上调的累积效应显现仍需时日。  尽管11月初股市出现主要与全球AI相关股票有关的动荡，但我认为AI投资总体上仍将保持稳健。 | https://wallstreetcn.com/livenews/3200402
+[华尔街见闻 快讯] #7 | 12:26 | 特朗普政府将把英伟达等20多家企业列入人工智能“国家领军企业”名单。  亚马逊、微软、OpenAI和Anthropic也将获得该认证。  特朗普政府的国家领军企业将获得芯片出口快速审批。  特朗普政府预计将于下周发布AI相关声明。（华尔街日报） | https://wallstreetcn.com/livenews/3200398
+[华尔街见闻 快讯] #9 | 12:26 | 中国与东盟宣布将2027年定为人工智能合作年。（新华社） | https://wallstreetcn.com/livenews/3200394
+[联合早报] #7 | 12:26 | 黄仁勋丑闻引发人工智能“玩梗”热潮 | https://www.zaochenbao.com/news/world/202611/1685622.html
+[联合早报] #8 | 12:26 | 观点：黄仁勋下台会成为人工智能泡沫破裂的开端吗 | https://www.zaochenbao.com/news/opinion/202611/1685621.html
+[联合早报] #17 | 12:26 | 英媒：美国及盟友同意联手保护AI供应链 防范中国影响 | https://www.zaochenbao.com/news/politics/202611/1685612.html
+[GitHub] #9 | 12:26 | elementalsouls /      Claude-BugHunter | https://github.com/elementalsouls/Claude-BugHunter
+[GitHub] #11 | 12:26 | tradermonty /      claude-trading-skills | https://github.com/tradermonty/claude-trading-skills
+[GitHub] #12 | 12:26 | NVIDIA /      SkillEvaluator | https://github.com/NVIDIA/SkillEvaluator
+[少数派] #17 | 12:26 | 你不知道的客户端开发：AI 时代下的选型、原生与借力 | https://sspai.com/post/117713
+[少数派] #20 | 12:26 | 社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替 | https://sspai.com/post/118317
+[少数派] #23 | 12:26 | TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验 | https://sspai.com/post/118122
+[财联社热门] #6 | 12:26 | 券商晨会精华：持续看好国产算力产业链 | https://www.cls.cn/detail/2534832
+[快讯通] #7 | 12:26 | 据华尔街日报：特朗普政府将把英伟达列入人工智能“国家领军企业”名单。 | https://www.fastbull.com/cn/fastshort/4355663_1_1
+[快讯通] #15 | 12:26 | 据华尔街日报：特朗普政府将于下周宣布人工智能相关消息。 | https://www.fastbull.com/cn/fastshort/4355653_212_1
+[Steam] #7 | 12:26 | AION 2 | https://store.steampowered.com/app/3393110/AION_2/
+[Steam] #17 | 12:26 | Tom Clancy's Rainbow Six Siege | https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/
+[腾讯新闻 综合早报] #9 | 12:26 | 创投资本“转向”：撤离具身智能，回流半导体 | https://view.inews.qq.com/a/20261115A05L9E00
+[腾讯新闻 综合早报] #15 | 12:26 | 韩国一“超高分”考生承认偷用AI 青瓦台紧急商议对策 | https://view.inews.qq.com/a/20261115A0BYNZ00
+[参考消息] #1 | 12:26 | 好莱坞呼吁加强对AI技术使用管理 | https://ckxxapp.ckxx.net/pages/2026/11/15/a58126080af74f28b8322cb83a296e48.html
+[虫部落] #2 | 12:26 | 免费的两个月GPT plus会员要么？ | https://www.chongbuluo.com/thread-25170-1-1.html
+[法布财经 头条] #4 | 12:26 | 英伟达是做什么的？从GPU到AI基础设施，看懂它的赚钱方式 | https://www.fastbull.com/cn/news-detail/4387587_1
+[知乎] #5 | 12:26 | 如何看待 2026 年 11 月 15 日 deepseek 关于对话上限长度的调整？ | https://www.zhihu.com/question/2105339969564827779
+[卫星通讯社] #6 | 12:26 | 媒体：美国及盟友拟联手保护AI供应链，防范中国影响 | https://sputniknews.cn/20261116/1074124714.html
+[百度热搜] #8 | 12:26 | DeepSeek算力不足 | https://www.baidu.com/s?wd=DeepSeek%E7%AE%97%E5%8A%9B%E4%B8%8D%E8%B6%B3
+[B站热搜] #8 | 12:26 | 当9个AI玩全面战争模拟器 | https://search.bilibili.com/all?keyword=%E5%BD%939%E4%B8%AAAI%E7%8E%A9%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89%E6%A8%A1%E6%8B%9F%E5%99%A8
+[靠谱新闻] #19 | 12:26 | 美国及盟友达成协议保护人工智能供应链 | https://kaopu.news/story/2026-11-16/us-allies-agree-protect-ai-supply-chain-40d0d4
+[ProductHunt] #19 | 12:26 | Planana AI | https://www.producthunt.com/products/planana-ai
+[今日头条] #19 | 12:26 | DeepSeek搜索一次半分钱意味着什么 | https://www.toutiao.com/trending/7708251488228917798/
+[贴吧] #22 | 12:26 | LCK选手AI性转视频走红韩网 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91&topic_id=28369800
+
+## 国际媒体与官方博客 RSS（已过滤，无排名）
+[Hacker News] #- | 11-16 10:53 | Tell HN: HN is being scraped for emails to scam | https://news.ycombinator.com/item?id=50513451
+[Hacker News] #- | 11-16 10:14 | Qwen4-Max | https://qwen.ai/blog?id=qwen4-max
+[TechCrunch AI] #- | 11-16 09:30 | Apple launches new app to study how people use AI for health | https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/
+[The Verge] #- | 11-16 09:26 | Apple’s new study looks to improve the effectiveness of AI health tools | https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools
+[Hacker News] #- | 11-16 08:21 | Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack | https://forum.torproject.org/t/security-release-0-4-9-17/22454
+[Hacker News] #- | 11-16 07:55 | What's Next for Nvidia? | https://steveblank.com/2026/11/15/whats-next-for-nvidia/
+[TechCrunch AI] #- | 11-16 07:30 | Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market | https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/
+[TechCrunch AI] #- | 11-16 05:56 | Is bad news for Jensen Huang also bad news for the AI industry? | https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/
+[The Verge] #- | 11-16 05:05 | Vulcan rocket fails, destroying 40 Amazon Leo satellites | https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites
+[The Verge] #- | 11-16 04:43 | Jensen Huang might be plotting a return and more of the latest Nvidia drama | https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed
+[Hacker News] #- | 11-16 04:20 | WebGL Flight Simulator with seed generated terrain | https://baron.by.dai.studio/
+[The Verge] #- | 11-16 03:15 | Congress wants to tighten export rules on AI chips after Nvidia spy scandal | https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china
+[Hacker News] #- | 11-16 02:23 | A short explainer on how El Niño works [video] | https://www.youtube.com/watch?v=7_JF3etiAv8
+[The Verge] #- | 11-15 21:57 | The Sony Aibo was a robot revolution dressed like a dog | https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history
