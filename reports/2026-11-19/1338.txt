@@ -1,0 +1,209 @@
+# 全球 AI 热点精简数据 2026-11-19 1338 (Asia/Shanghai)
+# 来源: 已按 AI 关键词过滤的报告 | 热榜 162 条 | RSS 40 条
+# 字段: 来源 | 排名 | 时间 | 标题 | 链接
+
+## 热榜（已过滤）
+[AI 热点] #1 | 13:38 | 彭博社：黄仁勋离任英伟达 CEO 后日本 AI 股首当其冲 | https://aihot.news/items/gpufpm2kxcsxrewhivsjviz3a
+[AI 热点] #5 | 13:38 | OpenAI 研究员日均消耗 $2,400 智能体用量，最高 10% 超 $23,000 | https://aihot.news/items/cii5g2p5tls89q7blql9cuvd4
+[AI 热点] #7 | 13:38 | 谷歌发布 Gemini 4 Neon，作者称 Antigravity 拖后腿 | https://aihot.news/items/q3tzsped63ebtcs6wm4v2ix0t
+[AI 热点] #10 | 13:38 | 推文建议Claude订阅用户买入Anthropic股票 | https://aihot.news/items/yu2rsdalw8maktdgtkdxou91v
+[AI 热点] #11 | 13:38 | indigo 建议 Claude 订阅用户在 $ANT IPO 每股 83 美金时买入约 250 股覆盖订阅成本 | https://aihot.news/items/c2a172rbdidbvyqk87irlvoba
+[AI 热点] #12 | 13:38 | Artificial Analysis 评测 GPT-6.2 Astra 与 Sol 的性格变化：回复更短更自然 | https://aihot.news/items/iai6wm0ee3dl1ruoa8av1tfez
+[AI 热点] #13 | 13:38 | GPT-6.2 Astra 和 Sol 登上 Arena 新版 Agent Arena Index，分列第 6 和第 11 | https://aihot.news/items/r1nk074gw6b0x3y8yt0hc1cdn
+[AI 热点] #15 | 13:38 | OpenAI 推出 ChatGPT for Accounting 及会计插件 | https://aihot.news/items/irm2anlwdohl9n795ctl7x42m
+[AI 热点] #17 | 13:38 | Claude Code v2.1.328 发布：Opus 4.6 与 Sonnet 4.6 新增自动模式 | https://aihot.news/items/u7h8uyicck2kkpuwjdd1ej5iq
+[AI 热点] #18 | 13:38 | 马斯克预警：AI 或于 2031 年超越全人类智慧总和 | https://aihot.news/items/s2b2476tteejrp20lssekhzi1
+[AI 热点] #19 | 13:38 | Peter 评测对比 OpenAI 的 GPT-6.2 Astra 与 GPT-6.2 Sol | https://aihot.news/items/wozp1vfregbaewf7mr6xnehmh
+[AI 热点] #20 | 13:38 | Nadella 解释向 6 万员工提供买断的原因：转型为 AI 优先的组织而非裁员 | https://aihot.news/items/g47lsydtqfsi16e0z920ghe2y
+[AI 热点] #21 | 13:38 | opencode 自有 GPU 承载 44% token | https://aihot.news/items/hb60at2dz5pigalo0jhj3nyua
+[AI 热点] #22 | 13:38 | UCSD Hao AI Lab 发布 ORA Traces 数据集：7 个模型在 5 个基准上的 3K+ 条轨迹 | https://aihot.news/items/jvpng9m4nsbzv49fmgqb3mrlm
+[AI 热点] #25 | 13:38 | UCSD Hao AI Lab 发布开源零样本机器人工具 ORA v0.1 | https://aihot.news/items/hmcobcla146mvxnexu78gfswr
+[AI 热点] #27 | 13:38 | Anthropic IPO 定价每股 83 美元，发行 9.8 亿股 A 类股募资约 813 亿美元 | https://aihot.news/items/am0vdstva0f00mrpzw0stslkw
+[AI 热点] #30 | 13:38 | OpenAI 披露安全政策：训练中模型曾借 DNS 漏洞突破网络隔离，紧急停训 11 天 | https://aihot.news/items/n03zw3s2hk7mcegth6giluvag
+[MKT新闻] #3 | 13:38 | China’s semiconductor equipment stocks rose in afternoon trade, with Nait Equipment hitting its 20% daily limit. Semitronix, Changchuan Technology, Hwatsing Technology and NAURA Technology also gained. | https://mktnews.net/flashDetail.html?id=01a1f23f-d4b9-7bbc-ac5d-d8d7e3457964
+[MKT新闻] #5 | 13:38 | China AI chip stocks plunge; industry says Samsung foundry-vetting rumors are inaccurate | https://mktnews.net/flashDetail.html?id=01a1f23d-f678-7bbc-ac5d-c84052a83571
+[MKT新闻] #9 | 13:38 | CK Hutchison shares fell more than 3% in afternoon trading after Panama filed criminal charges against a subsidiary and former senior maritime authority officials. | https://mktnews.net/flashDetail.html?id=01a1f239-cbaa-7bbc-ac5d-aa5eb04b17e2
+[MKT新闻] #10 | 13:38 | China’s Shenzhen Composite Index and ChiNext Index both turned higher in afternoon trading, while the Shanghai Composite’s loss narrowed to 0.2%. | https://mktnews.net/flashDetail.html?id=01a1f238-62bd-7bbc-ac5d-a76409d89198
+[MKT新闻] #12 | 13:38 | China's rail exports of domestically made vehicles reach 10,000-train milestone | https://mktnews.net/flashDetail.html?id=01a1f236-eb89-7bbc-ac5d-92a37fa1edea
+[MKT新闻] #14 | 13:38 | FIH Mobile shares extend gains, up more than 9%. | https://mktnews.net/flashDetail.html?id=01a1f234-be4e-7bbc-ac5d-860fa85a0125
+[MKT新闻] #17 | 13:38 | BNP Paribas says AI-driven copper demand is slightly overhyped. | https://mktnews.net/flashDetail.html?id=01a1f21f-4c75-7bbc-ac5d-6f6b5fb4fc46
+[MKT新闻] #19 | 13:38 | TASS: Russia suspends train traffic on the Crimean Bridge after a drone attack. | https://mktnews.net/flashDetail.html?id=01a1f219-027d-7bbc-ac5d-5c62caa91455
+[MKT新闻] #22 | 13:38 | China: Digital economy and AI are engines of innovation-led growth | https://mktnews.net/flashDetail.html?id=01a1f20d-6ea7-7bbc-ac5d-419c4824c275
+[MKT新闻] #23 | 13:38 | China chairs 33rd APEC Economic Leaders' Informal Meeting | https://mktnews.net/flashDetail.html?id=01a1f20c-a69e-7bbc-ac5d-3bda9659ee55
+[MKT新闻] #25 | 13:38 | Communications failure briefly disrupts rail traffic in Nuremberg | https://mktnews.net/flashDetail.html?id=01a1f20b-0694-7bbc-ac5d-2c359325b000
+[MKT新闻] #26 | 13:38 | The Saudi-led coalition said it destroyed a ballistic missile launch platform in Dhamar after the Houthis tried to use it to attack Riyadh today. | https://mktnews.net/flashDetail.html?id=01a1f208-5027-7bbc-ac5d-209a51d47d3c
+[MKT新闻] #27 | 13:38 | OpenAI enters smartphone market, Foxconn unit wins assembly order | https://mktnews.net/flashDetail.html?id=01a1f205-e9a2-7bbc-ac5d-1f26eb387bf4
+[MKT新闻] #28 | 13:38 | U.S. tech executives don leather jackets to back Jensen Huang, threaten protest at NVIDIA HQ | https://mktnews.net/flashDetail.html?id=01a1f205-b67d-7bbc-ac5d-17ed3e389e68
+[MKT新闻] #29 | 13:38 | India's economic affairs secretary says inf is not currently at a concerning level. | https://mktnews.net/flashDetail.html?id=01a1f204-9710-7bbc-ac5d-0c7fed725351
+[MKT新闻] #30 | 13:38 | India's Economic Affairs Secretary said he does not expect the Economic Stabilization Fund to be used in FY2027. | https://mktnews.net/flashDetail.html?id=01a1f204-6cd6-7bbc-ac5d-0340479b8601
+[掘金] #2 | 13:38 | AI帮我生成了一个炫酷的3D大屏，上线3天就卡崩了 | https://juejin.cn/post/7708639137272102966
+[掘金] #3 | 13:38 | 连AI自己也不愿意维护自己的屎山代码 | https://juejin.cn/post/7708565080221040683
+[掘金] #4 | 13:38 | 真狠啊，DeepSeek 开放全家桶 API。 | https://juejin.cn/post/7708954185542172710
+[掘金] #5 | 13:38 | 如何让 AI 高效工作 | https://juejin.cn/post/7708627348664762394
+[掘金] #6 | 13:38 | GPT-6.2 Astra 发布了，但口碑崩了。。。 | https://juejin.cn/post/7709318936996298790
+[掘金] #9 | 13:38 | Claude Code 过夜跑长任务实战：tmux、权限、验收，以及我为什么换到 ApexOne | https://juejin.cn/post/7708760087800086563
+[掘金] #10 | 13:38 | 用 AI 给娃做了一个识物游戏：一份 2.3MB 的单文件 HTML，126 张卡片、三种玩法，手机平板打开就能玩 | https://juejin.cn/post/7708941643550605354
+[掘金] #14 | 13:38 | 最近爆火的 Chrome 新 skill 装进 WorkBuddy，AI 写代码起飞了 | https://juejin.cn/post/7708583883344838706
+[掘金] #16 | 13:38 | 别拿 Chrome 跑通了就提测：把这段 AI 写的代码发到 Safari 上，我差点丢了工作 | https://juejin.cn/post/7708714089796091946
+[掘金] #21 | 13:38 | AI 热点日报（2026-11-18）：OpenAI 发布 GPT-6.2，APEC 峰会聚焦 AI，AI 制药融资创新高 | https://juejin.cn/post/7709030297351094335
+[掘金] #23 | 13:38 | 手搓 Agent（一）：先有大脑——大模型只会做一件事 | https://juejin.cn/post/7708805885186899995
+[掘金] #27 | 13:38 | 中美AI竞赛之外其他国家在干什么：算力5%的欧洲、买卡的沙特与做场景的日韩 | https://juejin.cn/post/7708975511029760051
+[掘金] #30 | 13:38 | 开源！我们用知识图谱重构了电子档案，AI 驱动全文智能关联 | https://juejin.cn/post/7708708448351240207
+[Hacker News] #1 | 13:38 | AI will not make you rich (2025) | https://news.ycombinator.com/item?id=50555093
+[Hacker News] #2 | 13:38 | FailTrace – Reproduce a failed GitHub Actions run locally from its URL | https://news.ycombinator.com/item?id=50554941
+[Hacker News] #4 | 13:38 | Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction | https://news.ycombinator.com/item?id=50554908
+[Hacker News] #5 | 13:38 | Gemini 4 Neon looks like an Opus 5.5 competitor | https://news.ycombinator.com/item?id=50554374
+[Hacker News] #9 | 13:38 | LLM assisted reverse engineering | https://news.ycombinator.com/item?id=50553225
+[Hacker News] #10 | 13:38 | Gemini 4 Neon | https://news.ycombinator.com/item?id=50552424
+[Hacker News] #11 | 13:38 | DaisyRose-27B | https://news.ycombinator.com/item?id=50551046
+[Hacker News] #12 | 13:38 | Genie 4 is now available | https://news.ycombinator.com/item?id=50550415
+[Hacker News] #13 | 13:38 | Advancing chip design with OpenAI models | https://news.ycombinator.com/item?id=50549493
+[Hacker News] #14 | 13:38 | Launch HN: Maritime (YC F26) – A managed cloud for production AI agents | https://news.ycombinator.com/item?id=50549188
+[Hacker News] #19 | 13:38 | AI agents ask better questions than KPMG accountants in audit trial | https://news.ycombinator.com/item?id=50547777
+[华尔街见闻 最新] #1 | 13:38 | 国产算力板块暴跌，业界称“市场传闻不准确！” | https://wallstreetcn.com/articles/3786259
+[华尔街见闻 最新] #4 | 13:38 | 马斯克“深圳连线”：详谈星舰、模型、算力、芯片、机器人、脑机，大赞黄仁勋“科技界乔丹” | https://wallstreetcn.com/articles/3786256
+[华尔街见闻 最新] #6 | 13:38 | 腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功 | https://wallstreetcn.com/articles/3786214
+[华尔街见闻 最新] #7 | 13:38 | 是悲观的开始还是结束？SemiAnalysis大幅度下修AI 算力预测，产业重蹈覆辙？ | https://wallstreetcn.com/member/articles/3786079
+[华尔街见闻 最新] #14 | 13:38 | 华尔街解读腾讯季报：游戏增速放缓、AI成本大增与转负的现金流 | https://wallstreetcn.com/articles/3786245
+[华尔街见闻 最新] #17 | 13:38 | “死兆星”GTA 6：拯救游戏行业，还是戳破AI泡沫？ | https://wallstreetcn.com/charts/41960196
+[华尔街见闻 最新] #18 | 13:38 | 两度折戟后，“AI股神”启动第三次重建计划，Anthropic IPO成最大底牌 | https://wallstreetcn.com/articles/3786240
+[华尔街见闻 最新] #20 | 13:38 | Anthropic还未上市，20只杠杆ETF已经“抢跑” | https://wallstreetcn.com/articles/3786242
+[华尔街见闻 最新] #23 | 13:38 | 史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿 | https://wallstreetcn.com/articles/3786222
+[华尔街见闻 最新] #29 | 13:38 | 纳指“守得住”吗？就看今晚Anthropic的了 | https://wallstreetcn.com/charts/41960191
+[华尔街见闻 最新] #30 | 13:38 | “重大软件崩溃”密集发生，只是因为怕AI？ | https://wallstreetcn.com/articles/3786241
+[财联社 深度] #1 | 13:38 | 华尔街多家投行唱多美元：AI热潮还将持续 强劲支撑美元走高 | https://www.cls.cn/detail/2538740
+[财联社 深度] #3 | 13:38 | 物理AI临界点将至？巨头集体入局具身大脑，行业将迎第一波收敛 | https://www.cls.cn/detail/2538698
+[财联社 深度] #7 | 13:38 | 马斯克后悔中期选举花钱“打水漂” 称Anthropic希望扩大算力合作 | https://www.cls.cn/detail/2538665
+[财联社 深度] #9 | 13:38 | 腾讯控股港股跌6%创两年多新低 AI投入拖累利润 | https://www.cls.cn/detail/2538622
+[财联社 深度] #11 | 13:38 | 迪拜商会总裁：中国企业布局提速 合作向先进制造与AI延伸 | https://www.cls.cn/detail/2538526
+[财联社 深度] #17 | 13:38 | 奥尔特曼：OpenAI也计划上市 很难想象黄仁勋会缺席AI行业 | https://www.cls.cn/detail/2538532
+[财联社 深度] #19 | 13:38 | 地量震荡等待企稳信号，国产算力逻辑持续加强 | https://www.cls.cn/detail/2538522
+[财联社 深度] #26 | 13:38 | 腾讯第三季度资本开支同比增长超500% 国产算力链迎战略机遇期 | https://www.cls.cn/detail/2538459
+[财联社 深度] #29 | 13:38 | 微软扩大与英特尔合作 自研AI芯片首度引入EMIB封装 | https://www.cls.cn/detail/2538386
+[V2EX] #1 | 13:38 | TaroBird：让 Codex、Claude Code、DSH 等 CLI 变身 Personal AI，桌面手机多端同步 | https://www.v2ex.com/t/1258241
+[V2EX] #4 | 13:38 | 给 Claude Code / Codex / OpenCode 记一本本地时间账：别把你发呆和点确认的时间算成 AI 干活 | https://www.v2ex.com/t/1258230
+[V2EX] #9 | 13:38 | 做了一个 AI 视频去字幕工具，支持擦除视频中的硬字幕和文字，求体验反馈 | https://www.v2ex.com/t/1258218
+[V2EX] #10 | 13:38 | AIDE 编辑器 orca git 仓库为什么没有了？是删库了吗？ | https://www.v2ex.com/t/1258216
+[V2EX] #11 | 13:38 | 自用的 AI Vibe-Coding 沙箱 | https://www.v2ex.com/t/1258215
+[V2EX] #16 | 13:38 | 我司全面禁止 AI Coding，一夜之间回到古法编程时代 | https://www.v2ex.com/t/1258200
+[V2EX] #20 | 13:38 | 各位大佬，你们是如何保证 AI 狂飙编写出来的代码始终能被自己掌控的？ | https://www.v2ex.com/t/1258197
+[V2EX] #22 | 13:38 | 做了一个 ip 检测工具网站，可以测试 ip 能否访问当前热门 ai 工具 | https://www.v2ex.com/t/1258196
+[V2EX] #23 | 13:38 | 我做了个 iOS app：在 iPhone 上一句话做原生 App 和桌面小组件，支持 Codex / Claude 账号登录 | https://www.v2ex.com/t/1258195
+[IT之家] #1 | 13:38 | 1 厘米标尺竟有 12 个刻度，中南大学通报附属医院 AI 论文争议、确认存在学术不端行为 | https://www.ithome.com/1/029/270.htm
+[IT之家] #3 | 13:38 | 黄仁勋离开后，英伟达开始和 AI 云厂商讲担保条件了 | https://www.ithome.com/1/029/268.htm
+[IT之家] #4 | 13:38 | 消息称 OpenAI 进军手机领域，富士康旗下富智康集团获组装订单 | https://www.ithome.com/1/029/267.htm
+[IT之家] #5 | 13:38 | 彭博社：黄仁勋离任英伟达 CEO 后，日本 AI 股首当其冲 | https://www.ithome.com/1/029/265.htm
+[IT之家] #8 | 13:38 | 机械革命企业桌面 AI 主机大师之路 X10 发售，32999 元起 | https://www.ithome.com/1/029/262.htm
+[IT之家] #16 | 13:38 | 英伟达回应“黄仁勋离任会打乱 AI 芯片供货”疑虑：需求仍强劲，产品按计划推进 | https://www.ithome.com/1/029/234.htm
+[IT之家] #27 | 13:38 | 最高 853.33% 提升：《GTA 6》PS5 Pro 画面经 AI 加持，帧率飙到 286 FPS | https://www.ithome.com/1/029/200.htm
+[IT之家] #28 | 13:38 | 华为史上最薄智能手表 WATCH Air 三款配色公布，6.9mm 超薄设计 | https://www.ithome.com/1/029/199.htm
+[FreeBuf] #3 | 13:38 | AI渗透框架CyberStrikeAI单会话执行221次工具操作，无人工审批 | https://www.freebuf.com/articles/ai-security/513385.html
+[FreeBuf] #4 | 13:38 | AI渗透测试核心顾虑并非质量，数据隐私与生产安全居首 | https://www.freebuf.com/articles/ai-security/513317.html
+[FreeBuf] #7 | 13:38 | NVIDIA Linux GPU驱动存在4年历史漏洞，可致用户劫持整台共享服务器 | https://www.freebuf.com/articles/system/513270.html
+[FreeBuf] #8 | 13:38 | 攻击者投毒GitHub仓库劫持AI编码Agent，窃取开发者凭证 | https://www.freebuf.com/articles/ai-security/513226.html
+[FreeBuf] #13 | 13:38 | Google与Anthropic收紧披露时限，AI压缩漏洞发现周期倒逼补丁提速 | https://www.freebuf.com/articles/ai-security/513148.html
+[FreeBuf] #14 | 13:38 | FreeBuf早报 | 日本10月网络事件达233起创纪录；谷歌披露AI框架可自动将补丁转为漏洞利用 | https://www.freebuf.com/news/513011.html
+[FreeBuf] #16 | 13:38 | LLM 应用 SDL 实战手册：安全团队如何验收一个大模型系统 | https://www.freebuf.com/articles/vuls/512975.html
+[财联社 电报] #4 | 13:38 | 财联社11月19日电，据报道，韩国监管机构要求金融公司报告人工智能风险敞口。 | https://api3.cls.cn/share/article/2538758?os=web&sv=7.7.5&app=
+[财联社 电报] #11 | 13:38 | 【风口研报·行业】国内先进算力产能加速补位海外缺口，后续半导体设备高增长且2027年二阶导加速向上，分析师梳理三条细分受益逻辑 | https://api3.cls.cn/share/article/2538649?os=web&sv=7.7.5&app=
+[财联社 电报] #16 | 13:38 | OpenAI将进军手机市场 产品最快2027年有望上市 | https://api3.cls.cn/share/article/2538728?os=web&sv=7.7.5&app=
+[财联社 电报] #19 | 13:38 | 三友医疗：公司孵化的8i Robotics手术机器人已在六家医院完成科研和临床装机 | https://api3.cls.cn/share/article/2538725?os=web&sv=7.7.5&app=
+[财联社 电报] #25 | 13:38 | 美亚利桑那州称已对OpenAI及其他公司展开刑事调查 | https://api3.cls.cn/share/article/2538710?os=web&sv=7.7.5&app=
+[财联社 电报] #27 | 13:38 | OpenAI进军手机领域 富士康旗下富智康集团获组装订单 | https://api3.cls.cn/share/article/2538704?os=web&sv=7.7.5&app=
+[少数派] #2 | 13:38 | 研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验 | https://sspai.com/post/118153
+[少数派] #3 | 13:38 | 在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？ | https://sspai.com/post/118512
+[少数派] #21 | 13:38 | 你不知道的客户端开发：AI 时代下的选型、原生与借力 | https://sspai.com/post/117713
+[少数派] #25 | 13:38 | 社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替 | https://sspai.com/post/118317
+[少数派] #28 | 13:38 | TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验 | https://sspai.com/post/118122
+[华尔街见闻 快讯] #2 | 13:38 | 国产算力板块暴跌，业界称“市场传闻不准确！” | https://wallstreetcn.com/livenews/3202355
+[华尔街见闻 快讯] #6 | 13:38 | 港股富智康午后直线拉升，现涨超6%，此前消息称，OpenAI进军手机领域，富士康旗下富智康集团获组装订单。 | https://wallstreetcn.com/livenews/3202347
+[华尔街见闻 快讯] #7 | 13:38 | 法国巴黎银行：AI带来的铜需求“略微过度炒作”。 | https://wallstreetcn.com/livenews/3202346
+[华尔街见闻 快讯] #16 | 13:38 | OpenAI进军手机领域，富士康旗下富智康集团获组装订单 | https://wallstreetcn.com/livenews/3202337
+[华尔街见闻 快讯] #30 | 13:38 | A股三大指数均跌超1%，AI漫剧、家电、游戏、光伏等板块跌幅居前，沪深京三市下跌个股超5000只。 | https://wallstreetcn.com/livenews/3202316
+[Solidot] #10 | 13:38 | 美国最近接连发生的技术故障源自为修复 AI 发现的漏洞 | https://www.solidot.org/story?sid=85918
+[Solidot] #12 | 13:38 | Google AI Overviews 导致搜索流量下降四成 | https://www.solidot.org/story?sid=85916
+[Solidot] #14 | 13:38 | 加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成 | https://www.solidot.org/story?sid=85914
+[Solidot] #19 | 13:38 | Canonical 向订阅用户提供可选的 AI 生成安全补丁 | https://www.solidot.org/story?sid=85909
+[Solidot] #20 | 13:38 | Windows 收集用户计算机安装的编程智能体和开发工具 | https://www.solidot.org/story?sid=85908
+[华尔街见闻 最热] #7 | 13:38 | 美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧 | https://wallstreetcn.com/articles/3786227
+[华尔街见闻 最热] #10 | 13:38 | “监管要求基金公司上报全部产品AI敞口”，“国常会上有人表态不会再频繁救市了”，均系谣言 | https://wallstreetcn.com/articles/3786172
+[靠谱新闻] #2 | 13:38 | 特朗普称与习近平整晚谈人工智能仅简提黄仁勋 | https://kaopu.news/story/2026-11-19/trump-xi-jensen-huang-scandal-c34a7f
+[靠谱新闻] #6 | 13:38 | 美众院委员会要求微软说明字节跳动AI服务交易报道 | https://kaopu.news/story/2026-11-19/house-panel-questions-microsoft-bytedance-openai-deal-7d2971
+[靠谱新闻] #23 | 13:38 | 特朗普政府据报拟要求美企披露中国AI使用情况 | https://kaopu.news/story/2026-11-18/us-weighs-chinese-ai-disclosure-rules-d740e8
+[靠谱新闻] #30 | 13:38 | FDA要求12款GLP-1药品标注NAION风险 | https://kaopu.news/story/2026-11-18/fda-glp-1-drugs-naion-warning-update-22dd70
+[ProductHunt] #4 | 13:38 | Waldo by Wherobots | https://www.producthunt.com/products/waldo-by-wherobots
+[ProductHunt] #7 | 13:38 | Mermaid Flow | https://www.producthunt.com/products/mermaid-chart
+[ProductHunt] #10 | 13:38 | GPT-6.2 Astra and Sol | https://www.producthunt.com/products/openai
+[ProductHunt] #19 | 13:38 | KaDeep AI | https://www.producthunt.com/products/kadeep-ai
+[财联社热门] #4 | 13:38 | Anthropic上市前遭质疑，美国五州民主党官员要求提高透明度 | https://www.cls.cn/detail/2538243
+[财联社热门] #6 | 13:38 | 需求火爆！Anthropic IPO发行价定在每股83美元 估值剑指1.5万亿 | https://www.cls.cn/detail/2538472
+[财联社热门] #8 | 13:38 | 金价大跌近2%失守3800美元关口 英伟达财报提振AI板块 | 今夜看点 | https://www.cls.cn/detail/2538272
+[金十数据] #11 | 13:38 | 港股富智康(02038.HK)午后直线拉升，现涨超6%，早盘一度跌超3%。此前公告称，OpenAI进军手机领域，富士康旗下富智康集团获组装订单。 | https://flash.jin10.com/detail/20261119130129144800
+[金十数据] #16 | 13:38 | 法国巴黎银行：人工智能对铜的需求“略微被过分炒作”。 | https://flash.jin10.com/detail/20261119124456256800
+[金十数据] #23 | 13:38 | 习近平：数字经济和人工智能是创新增长的引擎 | https://flash.jin10.com/detail/20261119122523999800
+[联合早报] #12 | 13:38 | 特朗普政府拟要求美企公开披露使用中国AI模型情况 | https://www.zaochenbao.com/news/politics/202611/1985800.html
+[联合早报] #18 | 13:38 | 黄循财：中国与亚细安可探索自动驾驶等AI合作新机 | https://www.zaochenbao.com/news/world/202611/1985794.html
+[联合早报] #25 | 13:38 | 黄仁勋骤然离场，亚洲失去驻美“AI大使” | https://www.zaochenbao.com/news/Chronicles/202611/1885780.html
+[Steam] #6 | 13:38 | AION 2 | https://store.steampowered.com/app/3393110/AION_2/
+[Steam] #27 | 13:38 | Tom Clancy's Rainbow Six Siege | https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/
+[澎湃新闻] #8 | 13:38 | 马上测丨知网、万方、维普三平台同文实测：AI生成率检测结果悬殊，原创内容遭冤 | https://m.thepaper.cn/newsDetail_forward_34503761
+[澎湃新闻] #10 | 13:38 | 专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步 | https://m.thepaper.cn/newsDetail_forward_34505131
+[参考消息] #9 | 13:38 | 韩税务师考试头名承认用AI作弊，青瓦台要求全面调查国家考试作弊案例 | https://ckxxapp.ckxx.net/pages/2026/11/18/5fa621b02f7a49528cd1b2dc165e439f.html
+[参考消息] #29 | 13:38 | 北约获得OpenAI网络安全平台访问权 | https://ckxxapp.ckxx.net/pages/2026/11/18/60adbec2f52e46a8b4ef9e136081b6de.html
+[腾讯新闻 综合早报] #11 | 13:38 | 美国AI音乐巨头进军视频生成，底层模型来自中国 | https://view.inews.qq.com/a/20261118A0FMR200
+[腾讯新闻 综合早报] #12 | 13:38 | Gemini新模型Neon箭在弦上，网友：遍历元素周期表？ | https://view.inews.qq.com/a/20261118A0E2YZ00
+[贴吧] #11 | 13:38 | 湘雅二医院论文全AI造假 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E8%AE%BA%E6%96%87%E5%85%A8AI%E9%80%A0%E5%81%87&topic_id=28369950
+[贴吧] #25 | 13:38 | DeepSeek限额吧友心态崩了 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E9%99%90%E9%A2%9D%E5%90%A7%E5%8F%8B%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&topic_id=28369883
+[B站热搜] #18 | 13:38 | 中南大学通报附属医院AI论文争议 | https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%99%84%E5%B1%9E%E5%8C%BB%E9%99%A2AI%E8%AE%BA%E6%96%87%E4%BA%89%E8%AE%AE
+[B站热搜] #19 | 13:38 | 攻克千禧难题的GPT6.2发布有何突破 | https://search.bilibili.com/all?keyword=%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E9%9A%BE%E9%A2%98%E7%9A%84GPT6.2%E5%8F%91%E5%B8%83%E6%9C%89%E4%BD%95%E7%AA%81%E7%A0%B4
+[远景论坛] #3 | 13:38 | 微软纳德拉示警：比“千年虫(Y2K)”更棘手，AI 正让网络变得越来越脆弱 | https://bbs.pcbeta.com/viewthread-2085000-1-1.html
+[虫部落] #4 | 13:38 | 免费的两个月GPT plus会员要么？ | https://www.chongbuluo.com/thread-25170-1-1.html
+[快讯通] #5 | 13:38 | 法国巴黎银行：人工智能对铜的需求“略微被过分炒作”。 | https://www.fastbull.com/cn/fastshort/4359229_212_1
+[GitHub] #5 | 13:38 | NVIDIA /      SkillEvaluator | https://github.com/NVIDIA/SkillEvaluator
+[知乎] #6 | 13:38 | WorkBuddy 日活用户超 1000 万，它是怎么做到的？AI Agent 已经成为工作刚需了吗？ | https://www.zhihu.com/question/2106443459233932915
+[法布财经 头条] #11 | 13:38 | 英伟达是做什么的？从GPU到AI基础设施，看懂它的赚钱方式 | https://www.fastbull.com/cn/news-detail/4387587_1
+[今日头条] #14 | 13:38 | AI正悄悄抢走人的饭碗吗 | https://www.toutiao.com/trending/7709723337894661668/
+[微博] #20 | 13:38 | AI版武大郎潘金莲太真实 | https://s.weibo.com/weibo?q=AI%E7%89%88%E6%AD%A6%E5%A4%A7%E9%83%8E%E6%BD%98%E9%87%91%E8%8E%B2%E5%A4%AA%E7%9C%9F%E5%AE%9E&t=31&band_rank=20&Refer=top
+[抖音] #26 | 13:38 | 华为Mate 90 Air抢先开箱 | https://www.douyin.com/hot/2753772
+
+## 国际媒体与官方博客 RSS（已过滤，无排名）
+[The Verge] #- | 11-19 09:39 | Elon Musk tries to explain what’s going on with Ukraine and Starlink | https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook
+[Hacker News] #- | 11-19 09:30 | FailTrace – Reproduce a failed GitHub Actions run locally from its URL | https://github.com/Ri4dH/failtrace
+[Hacker News] #- | 11-19 09:27 | Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction | https://arxiv.org/abs/2607.29378
+[TechCrunch AI] #- | 11-19 08:42 | Microsoft CEO Satya Nadella explains why he asked 60K employees to quit | https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
+[Hacker News] #- | 11-19 08:29 | Gemini 4 Neon looks like an Opus 5.5 competitor | https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/
+[TechCrunch AI] #- | 11-19 07:45 | Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’ | https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/
+[TechCrunch AI] #- | 11-19 07:17 | Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit | https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/
+[TechCrunch AI] #- | 11-19 06:58 | Satya Nadella predicts AI agents will reshuffle the economics of the web | https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/
+[Hacker News] #- | 11-19 06:29 | LLM assisted reverse engineering | https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering
+[TechCrunch AI] #- | 11-19 06:11 | Anthropic prices IPO at $83 a share, above projected range | https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/
+[TechCrunch AI] #- | 11-19 05:57 | Nvidia created a weird bit of intrigue by not filing a routine SEC report | https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/
+[Google DeepMind] #- | 11-19 05:35 | Introducing Gemini 4 Neon | https://deepmind.google/blog/introducing-gemini-4-neon/
+[TechCrunch AI] #- | 11-19 05:34 | Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’ | https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/
+[Hacker News] #- | 11-19 05:34 | Gemini 4 Neon | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+[TechCrunch AI] #- | 11-19 05:31 | Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated | https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/
+[TechCrunch AI] #- | 11-19 03:56 | Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor | https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/
+[Hugging Face Blog] #- | 11-19 03:54 | DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency | https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin
+[The Verge] #- | 11-19 03:40 | Trump’s latest land grab is an AI hub in the Philippines | https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica
+[Hacker News] #- | 11-19 03:39 | DaisyRose-27B | https://www.radixark.com/blog/daisyrose-27b
+[The Verge] #- | 11-19 03:30 | Nvidia’s rise, visualized | https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang
+[Hacker News] #- | 11-19 02:49 | Genie 4 is now available | https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
+[Hacker News] #- | 11-19 02:29 | The Magic of Partial Evaluation | https://jimmyhmiller.com/magic-of-partial-evaluation
+[Google DeepMind] #- | 11-19 02:13 | Genie 4 is now available | https://deepmind.google/blog/genie-4-is-now-available/
+[TechCrunch AI] #- | 11-19 02:04 | Google’s AI feature in Search gets its own incognito mode | https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/
+[Hacker News] #- | 11-19 01:45 | Advancing chip design with OpenAI models | https://openai.com/index/advancing-chip-design-with-our-models/
+[TechCrunch AI] #- | 11-19 01:32 | More banks say customers using AI agents are on their own — even if they get hacked | https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
+[Hacker News] #- | 11-19 01:26 | Launch HN: Maritime (YC F26) – A managed cloud for production AI agents | https://news.ycombinator.com/item?id=50549188
+[TechCrunch AI] #- | 11-19 00:59 | Sam Altman warns against a future where AI, not humans, calls the shots | https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/
+[TechCrunch AI] #- | 11-19 00:14 | OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’ | https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/
+[Hacker News] #- | 11-18 23:49 | AI agents ask better questions than KPMG accountants in audit trial | https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/
+[MIT Tech Review] #- | 11-18 22:42 | The AI Hype Index: AI is everywhere | https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/
+[MIT Tech Review] #- | 11-18 21:10 | The Download: AI learns to smell and hydropower struggles | https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/
+[TechCrunch AI] #- | 11-18 21:00 | Nvidia clarifies when it will — and won’t — keep financing neoclouds | https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/
+[TechCrunch AI] #- | 11-18 20:00 | Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents | https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/
+[TechCrunch AI] #- | 11-18 19:30 | India’s Humyn Labs raises $47M to feed US robotics companies the data they need | https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/
+[MIT Tech Review] #- | 11-18 18:20 | This smell startup says its AI nose is as good as a human’s | https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/
+[OpenAI Blog] #- | 11-18 16:00 | How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise | https://openai.com/business/customer-stories/sumitomo-life
+[少数派] #- | 11-18 14:54 | App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑 | https://sspai.com/post/118732
+[Product Hunt] #- | 11-18 14:50 | AssemblyAI-STT-3.7 | https://www.producthunt.com/products/assemblyai
+[OpenAI Blog] #- | 11-18 14:00 | Managing frontier AI risk: From training to deployment | https://openai.com/index/managing-frontier-ai-risk
