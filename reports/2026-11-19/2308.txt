@@ -1,0 +1,197 @@
+# 全球 AI 热点精简数据 2026-11-19 2308 (Asia/Shanghai)
+# 来源: 已按 AI 关键词过滤的报告 | 热榜 159 条 | RSS 31 条
+# 字段: 来源 | 排名 | 时间 | 标题 | 链接
+
+## 热榜（已过滤）
+[AI 热点] #1 | 23:07 | Deepnote 发布 apps 托管 Claude Code 或 Codex 编写的内部数据应用 | https://aihot.news/items/yhgivwfi8xhb35sir0m9b076r
+[AI 热点] #2 | 23:07 | 谷歌与蓝色起源合作，计划 2029 年一季度发射搭载 TPU 的 AI 服务器卫星 | https://aihot.news/items/ol8ctywbqhvlrp8kulkz2qome
+[AI 热点] #3 | 23:07 | Anthropic 完成史上最大规模 IPO，其安全治理结构受到审视 | https://aihot.news/items/zs46vfwtzhs7fzho1p17mfisf
+[AI 热点] #5 | 23:07 | Anthropic IPO 定价每股 83 美元募资 813 亿美元，超越 SpaceX 纪录 | https://aihot.news/items/f26jfj074e12cy839qpuo6t1z
+[AI 热点] #7 | 23:07 | Superhuman 将 Go 助手扩展至 Docs、Mail 并接入第三方智能体 | https://aihot.news/items/lv4qu76gjgsvomr211idreoyp
+[AI 热点] #9 | 23:07 | 快手 CEO 程一笑：Kling 4.0 已进入游戏和具身智能等场景 | https://aihot.news/items/yslwdqcqm5zt3i3rfibp20r6p
+[AI 热点] #10 | 23:07 | Gemini 4 模型选择指南 | https://aihot.news/items/zk69ymcpm7dyb6lc2f4jmkvez
+[AI 热点] #12 | 23:07 | 阿里巴巴 CEO 吴泳铭称 2027、2028 年将是中国算力最紧缺的两年 | https://aihot.news/items/j1pzp3g80yx9nvr79jjzr6eko
+[AI 热点] #13 | 23:07 | OpenAI 内部报告：研究员更依赖编码智能体，日常任务高效但复杂工程仍失手 | https://aihot.news/items/oiduiwjrkpd6jrxro00mz4qb8
+[AI 热点] #14 | 23:07 | Canva 推出“AI 开关”，可统一关闭绝大部分 AI 工具 | https://aihot.news/items/o163lclpir5cct49mlgca74h4
+[AI 热点] #17 | 23:07 | Meta 员工爆料 Muse 智能体疑似擅自读取加密消息与银行账户余额 | https://aihot.news/items/eshdj4v0mfa1uyt7vun6rviq1
+[AI 热点] #18 | 23:07 | Canva 上线生成式 AI 关闭开关 | https://aihot.news/items/moob8hebulxjtcqevh31pfzsz
+[AI 热点] #19 | 23:07 | IEEE Spectrum 分析：AI 超级智能争论存在哪些工程层面的根本缺陷 | https://aihot.news/items/wttdigmt3d06z1cl6zx0lmgxc
+[AI 热点] #20 | 23:07 | O'Reilly 撰文解析 AI 递归自我改进的四级方法与现实风险 | https://aihot.news/items/dlgfzw8jcv2mwu7xmggntegld
+[AI 热点] #21 | 23:07 | Google DeepMind 发布 Gemini 4 Neon，速度更快价格更低并超越 Carbon | https://aihot.news/items/ol9ml5lnvtjwidzvgo8wp6osa
+[AI 热点] #22 | 23:07 | 马斯克：SpaceX 目前每月新增约 0.5GW AI 算力，明年底提速至每月 1GW | https://aihot.news/items/ul9i47wikooyrlpie1zs1yoxe
+[AI 热点] #23 | 23:07 | IMF 总裁警告 AI 投资热情过高，金融市场或进一步调整 | https://aihot.news/items/tjw6bkuivj4tfe17eclbed367
+[AI 热点] #24 | 23:07 | 蚂蚁 inclusionAI 发布 Ling-3.1-flash-1019-singprobe 流式安全探针 | https://aihot.news/items/x56zyon7cd30xnvw6dclracdd
+[AI 热点] #25 | 23:07 | 蚂蚁 inclusionAI 发布 DeepSeek-V4.1-Flash-1017-singprobe 流式安全探针 | https://aihot.news/items/ygbr95lz8wozlf6poq2ymopkk
+[AI 热点] #26 | 23:07 | 多家银行警告 AI 智能体操作损失可能由用户自己承担 | https://aihot.news/items/e6nxncm2hzubo4kbzk0t4b9vx
+[AI 热点] #27 | 23:07 | AI 攻击时代的四支柱安全事件响应指南：从 Fireworks AI 到 Klue 的实践复盘 | https://aihot.news/items/r913g91b5qqvenqikr079hxqu
+[AI 热点] #28 | 23:07 | 德国 BSI 将网络威胁评估上调为严峻至危急，指出 AI 智能体降低攻击门槛 | https://aihot.news/items/dcksom1umnwz3tza055ltzpch
+[AI 热点] #29 | 23:07 | 李开复：企业 AI 转型只看“智能体数量”是荒谬笑话 | https://aihot.news/items/yipvk00qeguv2yqssfkxg6g16
+[AI 热点] #30 | 23:07 | Nvidia 停止向中国出货许可 AI 芯片 | https://aihot.news/items/ibrfc27kin1uwqi6rk7df825s
+[MKT新闻] #5 | 23:07 | Romania’s Black Sea port of Constanta shipped 1.65 million metric tons of Ukrainian grain in January-October, compared with 321,000 metric tons in the same period of 2025, port authority data show. | https://mktnews.net/flashDetail.html?id=01a1f450-c029-7bbc-ac6e-e88708e3783d
+[MKT新闻] #6 | 23:07 | Grain exports from Romania’s Port of Constanta rose 17.1% year on year to 18.5 mln mt in January-October, port authority data showed. | https://mktnews.net/flashDetail.html?id=01a1f450-1fac-7bbc-ac6e-e3b7cd63273e
+[MKT新闻] #8 | 23:07 | Ukraine says drone debris fell on Foreign Ministry grounds. | https://mktnews.net/flashDetail.html?id=01a1f44d-4c27-7bbc-ac6e-d34162fd61c5
+[MKT新闻] #10 | 23:07 | Anthropic is expected to open 20% above its IPO price on its first day of trading. | https://mktnews.net/flashDetail.html?id=01a1f44b-a808-7bbc-ac6e-c03533f04f21
+[MKT新闻] #11 | 23:07 | Market sources: SpaceX (SPCX.O) plans to issue at least $32 billion in debt to fund AI chips on Thursday. | https://mktnews.net/flashDetail.html?id=01a1f44a-f091-7bbc-ac6e-b8bd6a4f1726
+[MKT新闻] #12 | 23:07 | Anthropic is expected to open at $99.60 on its first day of Nasdaq trading, versus an IPO price of $83 per share. | https://mktnews.net/flashDetail.html?id=01a1f449-810f-7bbc-ac6e-b5b4f4df4724
+[MKT新闻] #16 | 23:07 | Intel shares (INTC.O) extend gains to 8%. | https://mktnews.net/flashDetail.html?id=01a1f447-0b93-7bbc-ac6e-91e83ef2136e
+[MKT新闻] #17 | 23:07 | More than half of institutional investors in Anthropic IPO receive no allocation, sources say | https://mktnews.net/flashDetail.html?id=01a1f445-dd5f-7bbc-ac6e-895c27bb5d52
+[MKT新闻] #18 | 23:07 | About 15% of shares in Anthropic’s IPO were sold to retail investors, the Wall Street Journal reported. | https://mktnews.net/flashDetail.html?id=01a1f445-a615-7bbc-ac6e-872ad76ef93b
+[MKT新闻] #19 | 23:07 | Mexican President Sheinbaum said she hopes to reach a trade deal with the United States at the G20 summit in Miami in December. | https://mktnews.net/flashDetail.html?id=01a1f442-8fd8-7bbc-ac6e-7e45039a992d
+[MKT新闻] #23 | 23:07 | The FAA chief expects the root cause of the router failure to be announced this week. | https://mktnews.net/flashDetail.html?id=01a1f441-a666-7bbc-ac6e-5fb9447bf777
+[MKT新闻] #27 | 23:07 | Market sources: Anthropic's IPO reportedly allocated no shares to most institutional buyers. | https://mktnews.net/flashDetail.html?id=01a1f43d-fea5-7bbc-ac6e-3c5abeb2b349
+[MKT新闻] #30 | 23:07 | U.S. stocks extended gains, with the Nasdaq up 2%. | https://mktnews.net/flashDetail.html?id=01a1f43b-72ec-7bbc-ac6e-257269ae4e15
+[掘金] #3 | 23:07 | 真狠啊，DeepSeek 开放全家桶 API。 | https://juejin.cn/post/7708954185542172710
+[掘金] #4 | 23:07 | GPT-6.2 Astra 发布了，但口碑崩了。。。 | https://juejin.cn/post/7709318936996298790
+[掘金] #7 | 23:07 | 用 AI 给娃做了一个识物游戏：一份 2.3MB 的单文件 HTML，126 张卡片、三种玩法，手机平板打开就能玩 | https://juejin.cn/post/7708941643550605354
+[掘金] #8 | 23:07 | Claude Code 过夜跑长任务实战：tmux、权限、验收，以及我为什么换到 ApexOne | https://juejin.cn/post/7708760087800086563
+[掘金] #14 | 23:07 | 别拿 Chrome 跑通了就提测：把这段 AI 写的代码发到 Safari 上，我差点丢了工作 | https://juejin.cn/post/7708714089796091946
+[掘金] #19 | 23:07 | AI 热点日报（2026-11-18）：OpenAI 发布 GPT-6.2，APEC 峰会聚焦 AI，AI 制药融资创新高 | https://juejin.cn/post/7709030297351094335
+[掘金] #20 | 23:07 | 中美AI竞赛之外其他国家在干什么：算力5%的欧洲、买卡的沙特与做场景的日韩 | https://juejin.cn/post/7708975511029760051
+[掘金] #24 | 23:07 | 手搓 Agent（一）：先有大脑——大模型只会做一件事 | https://juejin.cn/post/7708805885186899995
+[掘金] #27 | 23:07 | 牛逼！谷歌亲自下场开源的AI自动化神器！ | https://juejin.cn/post/7708948226930327592
+[掘金] #28 | 23:07 | 太狠了！GitHub 5.6 万 Star，让 AI 直接操控 Chrome 调试 | https://juejin.cn/post/7709431516912943140
+[掘金] #29 | 23:07 | 开源！我们用知识图谱重构了电子档案，AI 驱动全文智能关联 | https://juejin.cn/post/7708708448351240207
+[华尔街见闻 最新] #1 | 23:07 | 对冲基金大幅低配科技股，高盛嗅到逼空机会：Anthropic上市日或成转折点 | https://wallstreetcn.com/articles/3786303
+[华尔街见闻 最新] #4 | 23:07 | 阿里电话会：20GW数据中心目标和资本开支计划可能降低，国产算力2028年放量，阿里云将恢复高速增长，现金流转正 | https://wallstreetcn.com/articles/3786299
+[华尔街见闻 最新] #8 | 23:07 | 科技投资大佬Brad Gerstner：Anthropic凭什么"10倍认购"与AI时代的"模型至上主义" | https://wallstreetcn.com/articles/3786298
+[华尔街见闻 最新] #9 | 23:07 | DeepSeek第二轮融资落地！31家出资方入股梁文锋搭建的持股平台 | https://wallstreetcn.com/articles/3786297
+[华尔街见闻 最新] #13 | 23:07 | “北美大豆包”谷歌，终于杀回AI牌桌中央 | https://wallstreetcn.com/articles/3786291
+[华尔街见闻 最新] #17 | 23:07 | 柯力传感连投五家具身智能公司，机器人传感器放量 | https://wallstreetcn.com/articles/3786287
+[华尔街见闻 最新] #18 | 23:07 | 阿里Q3净利润同比大增213%，云业务收入增长53%，AI投入推动资本开支增60%、负现金流扩大｜财报见闻 | https://wallstreetcn.com/articles/3786285
+[华尔街见闻 最新] #20 | 23:07 | Anthropic上市前触发自身安全警报：AI进展速度超预期 | https://wallstreetcn.com/articles/3786273
+[华尔街见闻 最新] #25 | 23:07 | 美国芯片出口新规的“第一个受害者”：日本“AI云”下调近90%收入指引 | https://wallstreetcn.com/articles/3786277
+[IT之家] #5 | 23:07 | 谷歌与蓝色起源合作，计划 2029 年发射 AI 服务器卫星 | https://www.ithome.com/1/029/695.htm
+[IT之家] #11 | 23:07 | AI 模型大幅降低古籍数字化成本：识别 1000 页内容费用已不到 0.1 美元 | https://www.ithome.com/1/029/688.htm
+[IT之家] #12 | 23:07 | 欧盟委员会证实遭到 AI 驱动的网络攻击，事态规模暂难判断 | https://www.ithome.com/1/029/687.htm
+[IT之家] #13 | 23:07 | 快手 CEO 程一笑：Kling 4.0 模型已经进入游戏和具身智能等场景 | https://www.ithome.com/1/029/686.htm
+[IT之家] #16 | 23:07 | 阿里巴巴 CEO 吴泳铭：2027、2028 年将是中国算力最紧缺的两年 | https://www.ithome.com/1/029/682.htm
+[IT之家] #20 | 23:07 | 在线设计与出版工具 Canva 推出“AI 开关”，可关闭绝大部分 AI 工具 | https://www.ithome.com/1/029/677.htm
+[IT之家] #25 | 23:07 | 华为 Pura X View 阔直板手机获 HarmonyOS 7.0.0.115 升级，桌面 AI 快捷栏如约而至 | https://www.ithome.com/1/029/672.htm
+[IT之家] #26 | 23:07 | Meta 员工爆料：Muse 智能体可能擅自读取加密消息与银行账户余额 | https://www.ithome.com/1/029/671.htm
+[FreeBuf] #3 | 23:07 | AI发现nginx五个高危漏洞，链式利用可提权至root | https://www.freebuf.com/news/513544.html
+[FreeBuf] #6 | 23:07 | 员工自建AI Agent继承账号访问权限，使用行为缺乏有效监管 | https://www.freebuf.com/articles/ai-security/513505.html
+[FreeBuf] #9 | 23:07 | AI发现Nginx“断网级”漏洞，含十年未授权RCE缺陷 | https://www.freebuf.com/news/513431.html
+[FreeBuf] #12 | 23:07 | AI渗透框架CyberStrikeAI单会话执行221次工具操作，无人工审批 | https://www.freebuf.com/articles/ai-security/513385.html
+[FreeBuf] #13 | 23:07 | AI渗透测试核心顾虑并非质量，数据隐私与生产安全居首 | https://www.freebuf.com/articles/ai-security/513317.html
+[FreeBuf] #16 | 23:07 | NVIDIA Linux GPU驱动存在4年历史漏洞，可致用户劫持整台共享服务器 | https://www.freebuf.com/articles/system/513270.html
+[FreeBuf] #17 | 23:07 | 攻击者投毒GitHub仓库劫持AI编码Agent，窃取开发者凭证 | https://www.freebuf.com/articles/ai-security/513226.html
+[Hacker News] #12 | 23:07 | Ruby2ßhell: Pre-authentication RCE on stock Rails | https://news.ycombinator.com/item?id=50556287
+[Hacker News] #14 | 23:07 | Anthropic prices initial public offering | https://news.ycombinator.com/item?id=50553843
+[Hacker News] #15 | 23:07 | LLM assisted reverse engineering | https://news.ycombinator.com/item?id=50553225
+[Hacker News] #16 | 23:07 | Gemini 4 Neon | https://news.ycombinator.com/item?id=50552424
+[Hacker News] #17 | 23:07 | DaisyRose-27B | https://news.ycombinator.com/item?id=50551046
+[Hacker News] #18 | 23:07 | We taught robots to carve marble sculptures | https://news.ycombinator.com/item?id=50548808
+[Hacker News] #23 | 23:07 | Exponential Behavior in Magic: The Gathering | https://news.ycombinator.com/item?id=50546495
+[华尔街见闻 最热] #1 | 23:07 | 腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功 | https://wallstreetcn.com/articles/3786214
+[华尔街见闻 最热] #3 | 23:07 | 史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿 | https://wallstreetcn.com/articles/3786222
+[华尔街见闻 最热] #8 | 23:07 | 美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧 | https://wallstreetcn.com/articles/3786227
+[华尔街见闻 最热] #10 | 23:07 | Anthropic今夜首秀：暗盘最高暴涨26%，估值冲击1.5万亿美元！ | https://wallstreetcn.com/articles/3786269
+[华尔街见闻 快讯] #1 | 23:07 | Anthropic美国IPO首日有望高开20%至100美元。（彭博） | https://wallstreetcn.com/livenews/3202657
+[华尔街见闻 快讯] #2 | 23:07 | 报道：SpaceX考虑周四出售至少320亿美元AI芯片债务。 | https://wallstreetcn.com/livenews/3202656
+[华尔街见闻 快讯] #5 | 23:07 | 德国大众汽车吁大幅削减劳工成本，该公司向IG Metail递交谈判要求。 | https://wallstreetcn.com/livenews/3202653
+[华尔街见闻 快讯] #10 | 23:07 | Anthropic在IPO中将大约15%的股份售予散户投资者。（华尔街日报） | https://wallstreetcn.com/livenews/3202648
+[华尔街见闻 快讯] #16 | 23:07 | 据知情人士透露，Anthropic几乎没有配售什么股票给机构买家们。（彭博） | https://wallstreetcn.com/livenews/3202639
+[华尔街见闻 快讯] #21 | 23:07 | 美联储杰斐逊：AI短期内正在助推通胀 | https://wallstreetcn.com/livenews/3202633
+[财联社 电报] #2 | 23:07 | 财联社11月19日电，SpaceX计划于周四发行至少320亿美元的人工智能芯片相关债务。 | https://api3.cls.cn/share/article/2539426?os=web&sv=7.7.5&app=
+[财联社 电报] #6 | 23:07 | 财联社11月19日电，Anthropic IPO中约15%的股份据悉售予散户投资者。 | https://api3.cls.cn/share/article/2539421?os=web&sv=7.7.5&app=
+[财联社 电报] #8 | 23:07 | 财联社11月19日电，Anthropic的IPO中多数机构买家据悉未获配股份。 | https://api3.cls.cn/share/article/2539419?os=web&sv=7.7.5&app=
+[财联社 电报] #15 | 23:07 | Anthropic IPO提振市场情绪 美股纳指高开1.6% 存储、光通信等板块上扬 | https://api3.cls.cn/share/article/2539411?os=web&sv=7.7.5&app=
+[财联社 电报] #17 | 23:07 | 财联社11月19日电，美联储副主席杰斐逊表示，人工智能对经济供给端和需求端均构成冲击。 | https://api3.cls.cn/share/article/2539409?os=web&sv=7.7.5&app=
+[财联社 电报] #26 | 23:07 | 财联社11月19日电，Citizens启动对Anthropic的研究覆盖，给予跑赢大盘评级，目标价为125美元。 | https://api3.cls.cn/share/article/2539394?os=web&sv=7.7.5&app=
+[V2EX] #3 | 23:07 | 给大家分享一下 Tarobird 的 Codex、Claude Code 、DSH 、AGY、KIMI 互相调度功能 | https://www.v2ex.com/t/1258374
+[V2EX] #6 | 23:07 | 🤯 。。 小米竟然开始白送 [AI 语音生成模型] 全免费！ | https://www.v2ex.com/t/1258366
+[V2EX] #8 | 23:07 | dsh-next , claude 桌面版 都用 deepseek v4 pro 的话， 编程的话有没有区别？ | https://www.v2ex.com/t/1258360
+[V2EX] #20 | 23:07 | HairstyleChanger：免费在线 AI 换发型试戴工具，上传照片即可预览新发型 | https://www.v2ex.com/t/1258320
+[V2EX] #21 | 23:07 | ARCC：用 Rust 写了个多形态终端 AI Agent（TUI / CLI / 飞书 / ACP） | https://www.v2ex.com/t/1258317
+[V2EX] #28 | 23:07 | 谈谈我的使用感受 Gemini 新发布的几个模型 [时间: 2026.11.19] | https://www.v2ex.com/t/1258296
+[金十数据] #5 | 23:07 | Anthropic上市首日开盘价预计较IPO发行价高20%。 | https://flash.jin10.com/detail/20261119225238977800
+[金十数据] #7 | 23:07 | 市场消息：SpaceX(SPCX.O)拟于周四发行至少320亿美元AI芯片债务。 | https://flash.jin10.com/detail/20261119225150504800
+[金十数据] #8 | 23:07 | Anthropic在纳斯达克上市首日开盘价指示为99.60美元，发行价为每股83美元。 | https://flash.jin10.com/detail/20261119225017968800
+[金十数据] #13 | 23:07 | 消息称Anthropic IPO中逾半数认购机构未获配股 | https://flash.jin10.com/detail/20261119224616081800
+[金十数据] #14 | 23:07 | 据华尔街日报：Anthropic首次公开募股（IPO）中约15%的股份售予散户投资者。 | https://flash.jin10.com/detail/20261119224602202800
+[金十数据] #23 | 23:07 | 市场消息：Anthropic的IPO中多数机构买家未获配股份。 | https://flash.jin10.com/detail/20261119223743367800
+[财联社 深度] #7 | 23:07 | Anthropic IPO提振市场情绪 美股三大股指期货齐涨 | 今夜看点 | https://www.cls.cn/detail/2539359
+[财联社 深度] #11 | 23:07 | 突发！4000亿国产算力龙头今日回购138万股|盘后公告集锦 | https://www.cls.cn/detail/2539345
+[财联社 深度] #13 | 23:07 | 9家券商参投DeepSeek，对应出资95亿，中信81亿占大头 | https://www.cls.cn/detail/2539332
+[财联社 深度] #15 | 23:07 | 四大警示信号齐现，经济学家称美股陷入AI泡沫概率达70% | https://www.cls.cn/detail/2539305
+[财联社 深度] #16 | 23:07 | 盛希泰：具身智能产业化仍有很长的路要走，资本冷静期恰是创业良机 | https://www.cls.cn/detail/2539306
+[财联社 深度] #28 | 23:07 | 纳德拉称从工程师到各行各业都将转向指挥AI 微软6万人自愿离职计划意在给员工选择权 | https://www.cls.cn/detail/2539185
+[少数派] #2 | 23:07 | 研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验 | https://sspai.com/post/118153
+[少数派] #3 | 23:07 | 在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？ | https://sspai.com/post/118512
+[少数派] #21 | 23:07 | 你不知道的客户端开发：AI 时代下的选型、原生与借力 | https://sspai.com/post/117713
+[少数派] #25 | 23:07 | 社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替 | https://sspai.com/post/118317
+[少数派] #28 | 23:07 | TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验 | https://sspai.com/post/118122
+[靠谱新闻] #5 | 23:07 | 美国与马来西亚拟合作建设主权人工智能云设施 | https://kaopu.news/story/2026-11-19/us-malaysia-sovereign-ai-cloud-plan-d89f21
+[靠谱新闻] #11 | 23:07 | DeepSeek核心运营主体完成工商变更新增股东 | https://kaopu.news/story/2026-11-19/deepseek-completes-second-round-funding-registration-968fee
+[靠谱新闻] #27 | 23:07 | 特朗普在APEC会议反对人工智能全球监管 | https://kaopu.news/story/2026-11-19/trump-warns-strict-ai-rules-stifle-tech-be1b00
+[靠谱新闻] #30 | 23:07 | 特朗普称与习近平整晚谈人工智能仅简提黄仁勋 | https://kaopu.news/story/2026-11-19/trump-xi-jensen-huang-scandal-c34a7f
+[澎湃新闻] #6 | 23:07 | 马上测丨知网、万方、维普三平台同文实测：AI生成率检测结果悬殊，原创内容遭冤 | https://m.thepaper.cn/newsDetail_forward_34503761
+[澎湃新闻] #10 | 23:07 | 中南大学通报湘雅二医院、湘雅医院AI论文争议：存在学术不端，多人被处理​​​​ | https://m.thepaper.cn/newsDetail_forward_34509594
+[澎湃新闻] #11 | 23:07 | 专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步 | https://m.thepaper.cn/newsDetail_forward_34505131
+[澎湃新闻] #14 | 23:07 | 腾讯总裁刘炽平回应AI“烧钱”：就像建工厂，不指望几周内就看到回报，预计2028年将好转 | https://m.thepaper.cn/newsDetail_forward_34505653
+[ProductHunt] #4 | 23:07 | Stripo Email Widgets | https://www.producthunt.com/products/stripo-email
+[ProductHunt] #9 | 23:07 | Gemini 4 Neon | https://www.producthunt.com/products/gemini-6
+[ProductHunt] #15 | 23:07 | Room AI | https://www.producthunt.com/products/room-ai-2
+[Solidot] #8 | 23:07 | 美国破产法庭法官批准 Google 以千万美元收购 Spirit Airlines 数据 | https://www.solidot.org/story?sid=85928
+[Solidot] #18 | 23:07 | 美国最近接连发生的技术故障源自为修复 AI 发现的漏洞 | https://www.solidot.org/story?sid=85918
+[Solidot] #20 | 23:07 | Google AI Overviews 导致搜索流量下降四成 | https://www.solidot.org/story?sid=85916
+[知乎] #8 | 23:07 | 怎么看 DeepSeek API 联网搜索与抓页改为免费？ | https://www.zhihu.com/question/2106672632099758448
+[知乎] #16 | 23:07 | OpenAI 宣布为全球多达 20 万科学家免费提供前沿模型访问，如何理解这一动作，可能带来哪些影响？ | https://www.zhihu.com/question/2106385974116574562
+[知乎] #17 | 23:07 | 如何评价网传小米 AI 负责人要将小米 AI 分家独立出来？ | https://www.zhihu.com/question/2106468887957082303
+[法布财经 头条] #1 | 23:07 | DeepSeek千亿融资落地？31家出资方现身，商业化能否撑起高估值 | https://www.fastbull.com/cn/news-detail/4387722_1
+[法布财经 头条] #12 | 23:07 | 英伟达是做什么的？从GPU到AI基础设施，看懂它的赚钱方式 | https://www.fastbull.com/cn/news-detail/4387587_1
+[参考消息] #4 | 23:07 | AI歌曲首次登顶韩国音乐排行榜 | https://ckxxapp.ckxx.net/pages/2026/11/19/a7e7338cca6b4bb7ba6fdba116d02a65.html
+[参考消息] #26 | 23:07 | 韩税务师考试头名承认用AI作弊，青瓦台要求全面调查国家考试作弊案例 | https://ckxxapp.ckxx.net/pages/2026/11/18/5fa621b02f7a49528cd1b2dc165e439f.html
+[B站热搜] #9 | 23:07 | Gemini 4 Neon到底有多强 | https://search.bilibili.com/all?keyword=Gemini+4+Neon%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%BC%BA
+[B站热搜] #10 | 23:07 | 28款主流AI大模型强度排行 | https://search.bilibili.com/all?keyword=28%E6%AC%BE%E4%B8%BB%E6%B5%81AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BC%BA%E5%BA%A6%E6%8E%92%E8%A1%8C
+[格隆汇] #9 | 23:07 | 生益电子(688183.SH)：AI服务器、800G/1.6T交换机等数据中心相关产品订单稳步增长，1.6T光模块产品获得突破性进展 | https://www.gelonghui.com/news/5358047
+[格隆汇] #10 | 23:07 | 美股异动｜Anthropic创纪录IPO提振AI投资信心，存储、AI芯片、光通信概念集体大涨 | https://www.gelonghui.com/news/5358046
+[卫星通讯社] #10 | 23:07 | 普京称他与习近平和特朗普讨论人工智能发展中的威胁 | https://sputniknews.cn/20261119/1074263145.html
+[卫星通讯社] #16 | 23:07 | 普京：俄罗斯在人工智能领域具有全球优势 | https://sputniknews.cn/20261119/1074261520.html
+[腾讯新闻 综合早报] #11 | 23:07 | 美国AI音乐巨头进军视频生成，底层模型来自中国 | https://view.inews.qq.com/a/20261118A0FMR200
+[腾讯新闻 综合早报] #12 | 23:07 | Gemini新模型Neon箭在弦上，网友：遍历元素周期表？ | https://view.inews.qq.com/a/20261118A0E2YZ00
+[联合早报] #20 | 23:07 | 腾讯总裁：美国AI晶片管制新规 短期内将拖慢中国研发新模型 | https://www.zaochenbao.com/news/politics/202611/1985836.html
+[联合早报] #25 | 23:07 | 特朗普：美国反对任何形式的AI“全球主义监管” | https://www.zaochenbao.com/news/politics/202611/1985827.html
+[法布财经 快讯] #25 | 23:07 | 美联储副主席杰斐逊：人工智能可能通过岗位替代给部分家庭带来“重大挑战”，但也可能创造新的就业机会。 | https://www.fastbull.com/cn/fastshort/4359811_1_1
+[法布财经 快讯] #28 | 23:07 | 美联储副主席杰斐逊表示，人工智能对供给和需求均构成冲击。 | https://www.fastbull.com/cn/fastshort/4359808_212_1
+[GitHub] #1 | 23:07 | elementalsouls /      Claude-BugHunter | https://github.com/elementalsouls/Claude-BugHunter
+[雪球] #2 | 23:07 | Anthropic | https://xueqiu.com/s/ANT
+[虫部落] #4 | 23:07 | 免费的两个月GPT plus会员要么？ | https://www.chongbuluo.com/thread-25170-1-1.html
+[Steam] #9 | 23:07 | AION 2 | https://store.steampowered.com/app/3393110/AION_2/
+[百度热搜] #11 | 23:07 | “监管要求上报基金AI敞口”不实 | https://www.baidu.com/s?wd=%E2%80%9C%E7%9B%91%E7%AE%A1%E8%A6%81%E6%B1%82%E4%B8%8A%E6%8A%A5%E5%9F%BA%E9%87%91AI%E6%95%9E%E5%8F%A3%E2%80%9D%E4%B8%8D%E5%AE%9E
+[今日头条] #11 | 23:07 | 官方辟谣要求基金公司上报AI敞口 | https://www.toutiao.com/trending/7709362078125195290/
+[贴吧] #16 | 23:07 | 湘雅二医院论文全AI造假 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E8%AE%BA%E6%96%87%E5%85%A8AI%E9%80%A0%E5%81%87&topic_id=28369950
+[微博] #19 | 23:07 | 韩国满分考生被曝AI作弊后身亡 | https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%BB%A1%E5%88%86%E8%80%83%E7%94%9F%E8%A2%AB%E6%9B%9DAI%E4%BD%9C%E5%BC%8A%E5%90%8E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=19&Refer=top
+
+## 国际媒体与官方博客 RSS（已过滤，无排名）
+[TechCrunch AI] #- | 11-19 22:54 | Anthropic’s IPO puts AI’s circular financing boom to the test | https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/
+[The Verge] #- | 11-19 22:25 | With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line | https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure
+[Hacker News] #- | 11-19 22:20 | OpenAI still has a WebRTC Problem | https://moq.dev/blog/webrtc-is-still-the-problem/
+[The Verge] #- | 11-19 22:00 | The wait begins for GTA VI on PC | https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo
+[The Verge] #- | 11-19 21:53 | Blue Origin will launch Google’s AI server satellites in 2029 | https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029
+[MIT Tech Review] #- | 11-19 21:10 | The Download: a living liver, a billion-dollar battery deal, and AI hype | https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/
+[The Verge] #- | 11-19 21:00 | I let Apple’s always-listening AI summarize my life for two weeks | https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on
+[The Verge] #- | 11-19 20:30 | Canva adds an AI ‘off’ button | https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button
+[Hacker News] #- | 11-19 13:09 | Ruby2ßhell: Pre-authentication RCE on stock Rails | https://verialabs.com/ruby2shell/
+[Product Hunt] #- | 11-19 10:32 | Gemini 4 Neon | https://www.producthunt.com/products/gemini-6
+[The Verge] #- | 11-19 09:39 | Elon Musk tries to explain what’s going on with Ukraine and Starlink | https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook
+[TechCrunch AI] #- | 11-19 08:42 | Microsoft CEO Satya Nadella explains why he asked 60K employees to quit | https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
+[TechCrunch AI] #- | 11-19 07:45 | Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’ | https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/
+[Hacker News] #- | 11-19 07:30 | Anthropic prices initial public offering | https://www.anthropic.com/news/anthropic-prices-initial-public-offering
+[TechCrunch AI] #- | 11-19 07:17 | Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit | https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/
+[TechCrunch AI] #- | 11-19 06:58 | Satya Nadella predicts AI agents will reshuffle the economics of the web | https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/
+[TechCrunch AI] #- | 11-19 06:11 | Anthropic prices IPO at $83 a share, above projected range | https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/
+[TechCrunch AI] #- | 11-19 05:57 | Nvidia created a weird bit of intrigue by not filing a routine SEC report | https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/
+[Google DeepMind] #- | 11-19 05:35 | Introducing Gemini 4 Neon | https://deepmind.google/blog/introducing-gemini-4-neon/
+[TechCrunch AI] #- | 11-19 05:34 | Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’ | https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/
+[Hacker News] #- | 11-19 05:34 | Gemini 4 Neon | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+[TechCrunch AI] #- | 11-19 05:31 | Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated | https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/
+[TechCrunch AI] #- | 11-19 03:56 | Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor | https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/
+[Hugging Face Blog] #- | 11-19 03:54 | DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency | https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin
+[Google DeepMind] #- | 11-19 02:13 | Genie 4 is now available | https://deepmind.google/blog/genie-4-is-now-available/
+[TechCrunch AI] #- | 11-19 02:04 | Google’s AI feature in Search gets its own incognito mode | https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/
+[TechCrunch AI] #- | 11-19 01:32 | More banks say customers using AI agents are on their own — even if they get hacked | https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
+[Hacker News] #- | 11-19 01:03 | We taught robots to carve marble sculptures | https://eleanorwiesler.com/blog/robotic-stone-carving/
+[TechCrunch AI] #- | 11-19 00:59 | Sam Altman warns against a future where AI, not humans, calls the shots | https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/
+[TechCrunch AI] #- | 11-19 00:14 | OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’ | https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/
+[Product Hunt] #- | 11-18 23:37 | Room AI | https://www.producthunt.com/products/room-ai-2
