@@ -1,0 +1,160 @@
+# 全球 AI 热点精简数据 2026-11-22 2158 (Asia/Shanghai)
+# 来源: 已按 AI 关键词过滤的报告 | 热榜 141 条 | RSS 12 条
+# 字段: 来源 | 排名 | 时间 | 标题 | 链接
+
+## 热榜（已过滤）
+[AI 热点] #1 | 21:57 | METR 警告 AI 能力提升快于专家可靠评估新系统安全性的速度 | https://aihot.news/items/m3samvph4iuiugqq1hamllckb
+[AI 热点] #2 | 21:57 | Dragos研究揭示低价AI推理服务商窃取密钥并窥探用户请求 | https://aihot.news/items/kbrosmbvldj069ds87zid0wlp
+[AI 热点] #3 | 21:57 | PixVerse 黑五四大模型优惠 | https://aihot.news/items/m6613p9pacuukuimqq4vr0tne
+[AI 热点] #4 | 21:57 | 开发者将微型 Transformer 模型 Tiny 2.1 塞进软盘，让 486 老电脑也能用上 AI | https://aihot.news/items/h5ullue72g8a4b2jiqdqpxs02
+[AI 热点] #5 | 21:57 | 纽约音乐厅 Domino 官网宣传“Human Made”却被发现满是 AI 生成痕迹 | https://aihot.news/items/h69imiy56vjbcbywb7layrw6k
+[AI 热点] #7 | 21:57 | 2026 个人 AI 智能体横评：Hermes Agent、OpenClaw、Gemini Spark 等 7 款在记忆、安全与成本上的对比 | https://aihot.news/items/kt973icel3r03tjiy830bo3dt
+[AI 热点] #8 | 21:57 | Google 在 Gemini API 预览 Tool Retrieval，面向大型工具库延迟加载 schema | https://aihot.news/items/wgzy1mbctlp5z5p5ttc47as2a
+[AI 热点] #9 | 21:57 | Wolters Kluwer 报告：美国会计行业 AI 采用率高，但技术整合成熟度不足 | https://aihot.news/items/odhzsaq4b85nd7vyawbv2c3wz
+[AI 热点] #10 | 21:57 | Artificial Analysis 评测显示 GPT-6.2 Astra 和 Sol 回答更简短但透明度低于 Claude | https://aihot.news/items/pkywgdchhebtc2i7cxpndjtso
+[AI 热点] #11 | 21:57 | 菲尔兹奖得主梅纳德谈 Claude 合作证明黎曼猜想：相信证明正确，但需被理解才可能获认可 | https://aihot.news/items/p9h5xzsooms0foxeakoivy7qt
+[AI 热点] #13 | 21:57 | 马斯克预警：AI 行业明年或面临严重资金短缺，营运资金缺口或达数千亿美元 | https://aihot.news/items/tyl31ot7i2wrsne9mmvu9pkfd
+[AI 热点] #15 | 21:57 | Helsing 在柏林艺术中心发布军事 AI 系统 Clarity 引发抗议，场地方致歉 | https://aihot.news/items/it1vwwm8v504q0lscoo50kua7
+[AI 热点] #16 | 21:57 | TikTok 上线 AI 内容透明度检测工具与创作者肖像检测功能 | https://aihot.news/items/f6i88eec881e2u2z63w6xlsih
+[AI 热点] #17 | 21:57 | 腾讯 Chatterfly 输入法安卓版开启内测，支持语音转写、自动翻译等 AI 功能 | https://aihot.news/items/pxv1mlpjsgryssaduxl01w5b4
+[AI 热点] #18 | 21:57 | Anthropic 数学家称与 Claude 可能证明黎曼猜想，同日人类数学家另提证明 | https://aihot.news/items/sur1rc2t4erze02ozroefugff
+[AI 热点] #19 | 21:57 | 韩国高考 AI 作弊事件发酵，教育部长崔教振引咎辞职 | https://aihot.news/items/pyf9a8fjorvbn6o2gg11w7dbt
+[AI 热点] #20 | 21:57 | Columbia 与 CertiK 推出 TensorLean，用 Lean 对 PTX 级 GPU 内核做形式化验证 | https://aihot.news/items/hf95pziye2nm3tc6agg9ar66g
+[AI 热点] #22 | 21:57 | FT 调查：与 Jensen Huang 有情感关系的 Alice Huang 牵涉向中国走私 Nvidia 芯片的网络 | https://aihot.news/items/ygk78g9svmphgtbms3klrjnxw
+[AI 热点] #23 | 21:57 | Amazon 接近以约 7.5B 美元收购 AI 创业公司 Decart | https://aihot.news/items/eg97pyuem4incr7vpqsklw36v
+[AI 热点] #24 | 21:57 | 群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型 | https://aihot.news/items/j4ay169yi813ubrdr7zxdebid
+[AI 热点] #26 | 21:57 | Graham Dumpleton 发布 AI 辅助 Rust 服务器 Muru，用于运行 Python Web 应用 | https://aihot.news/items/kb0bmjubmelz5mx18wthycfyb
+[AI 热点] #27 | 21:57 | Signal 更新默认屏蔽截图，阻止 Siri AI 和 Gemini 等 AI 智能体读取消息 | https://aihot.news/items/ef9x7y2sig0grv75qqa6qfr6q
+[AI 热点] #29 | 21:57 | OpenCode 上 GLM 5.3 与 DeepSeek V4.1 Flash 六折 | https://aihot.news/items/wt9537cmael2viasp9qvjgau1
+[AI 热点] #30 | 21:57 | David Krueger 在 Anthropic 旧金山办公室外参与 Stop the AI Race 抗议，数人因堵门被捕 | https://aihot.news/items/abqce26of3ym3zowt08ilwkqq
+[MKT新闻] #3 | 21:57 | Taiwan considers cutting margin maintenance ratio to 120% to stabilize stock market | https://mktnews.net/flashDetail.html?id=01a2035a-e71d-7bbc-aca5-14944466e781
+[MKT新闻] #4 | 21:57 | Iranian Foreign Minister Araghchi said the Strait of Hormuz and its reopening are not up for discussion until Iran’s demands are met. He said Tehran remains ready for dialogue and to defend its security. | https://mktnews.net/flashDetail.html?id=01a2034e-c4a0-7bbc-aca5-0945c9a46db0
+[MKT新闻] #5 | 21:57 | Iranian Foreign Minister Abbas Araghchi said political consultations with Oman are ongoing, with the latest round held four days ago, when he met the sultan and foreign minister. | https://mktnews.net/flashDetail.html?id=01a2034e-8d90-7bbc-aca5-057b5f548ea2
+[MKT新闻] #6 | 21:57 | Iranian Foreign Minister Araghchi said Iran and Oman maintain close ties based on mutual respect, and praised Oman's diplomacy and efforts to ease tensions. | https://mktnews.net/flashDetail.html?id=01a2034e-754c-7bbc-aca4-fd2240b746ac
+[MKT新闻] #7 | 21:57 | Iranian Foreign Minister Abbas Araghchi said mediators between Iran and the U.S. are shuttling frequently, conveying ideas and proposals in meetings. | https://mktnews.net/flashDetail.html?id=01a2034c-bb66-7bbc-aca4-f5b2931c3850
+[MKT新闻] #11 | 21:57 | SpaceX says the Falcon 9 is healthy and weather conditions are favorable for launch. Fueling is set to begin for the U.S. National Reconnaissance Office’s NROL-136 mission. The first stage is expected to land at Vandenberg Space Force Base’s Landing Zone 4 about eight minutes after liftoff, accompanied by a sonic boom. | https://mktnews.net/flashDetail.html?id=01a2031e-1b20-7bbc-aca4-d3642d41e615
+[MKT新闻] #13 | 21:57 | Russia plans to modernize 75 airports by 2030, with a focus on the Arctic and Far East, the deputy prime minister said, RIA reported. | https://mktnews.net/flashDetail.html?id=01a2030d-d58f-7bbc-aca4-c0803fc56bd2
+[MKT新闻] #14 | 21:57 | The Antalya Climate Agreement was not adopted, the president of the 31st UN climate change conference said. | https://mktnews.net/flashDetail.html?id=01a20309-79a6-7bbc-aca4-b9c2f1b94880
+[MKT新闻] #15 | 21:57 | Qatar’s Foreign Ministry condemned Iran’s attack on a civilian industrial facility in Bahrain, calling it a violation of Bahrain’s sovereignty and territorial security. | https://mktnews.net/flashDetail.html?id=01a20304-0031-7bbc-aca4-b0628842119a
+[MKT新闻] #16 | 21:57 | Behind record SpaceX, Anthropic IPOs, underwriters complain of complex process | https://mktnews.net/flashDetail.html?id=01a20301-68d6-7bbc-aca4-acbc6ed7bbfc
+[MKT新闻] #18 | 21:57 | People familiar with the matter said Anthropic asked some banks to refrain for six months from serving competitors, including OpenAI and DeepSeek, during its IPO. It also asked some IPO underwriters to limit deal teams to four senior bankers. | https://mktnews.net/flashDetail.html?id=01a202ee-f7f7-7bbc-aca4-99d907e0c12e
+[MKT新闻] #19 | 21:57 | People familiar with the matter said banks privately complained that ANTHROPIC’s IPO was affected by 11th-hour changes, rushed approvals and unusually high concerns about information leaks. | https://mktnews.net/flashDetail.html?id=01a202ee-0c6c-7bbc-aca4-904d63d13b46
+[MKT新闻] #20 | 21:57 | Shanghai, Shenzhen and Beijing stock exchanges: Lower financing margin ratio to support modestly higher leverage, free up financing capacity and boost liquidity | https://mktnews.net/flashDetail.html?id=01a202dd-25c4-7bbc-aca4-8cee8d2c1b73
+[MKT新闻] #21 | 21:57 | Shanghai Stock Exchange announces further fee cuts | https://mktnews.net/flashDetail.html?id=01a202d8-1a56-7bbc-aca4-83eadb343810
+[MKT新闻] #23 | 21:57 | China's CSDC announces bond fee waivers | https://mktnews.net/flashDetail.html?id=01a202d4-e5e8-7bbc-aca4-734c292dd030
+[MKT新闻] #26 | 21:57 | Shanghai, Shenzhen and Beijing stock exchanges cut margin requirement | https://mktnews.net/flashDetail.html?id=01a202d0-9537-7bbc-aca4-5dcae1ded85d
+[MKT新闻] #27 | 21:57 | XPeng G9L launches in Thailand and Indonesia | https://mktnews.net/flashDetail.html?id=01a202ca-4742-7bbc-aca4-51ce29ee998f
+[MKT新闻] #29 | 21:57 | CITIC Securities: U.S.-listed AI stocks may face valuation pressure early in 2027, recover midyear and diverge late in the year | https://mktnews.net/flashDetail.html?id=01a202ba-687e-7bbc-aca4-475a7a9dacfd
+[MKT新闻] #30 | 21:57 | The Saudi-led coalition said it intercepted and destroyed drones launched by Yemen’s Houthis toward the Riyadh region. | https://mktnews.net/flashDetail.html?id=01a202a7-83e0-7bbc-aca4-399c1b835645
+[FreeBuf] #1 | 21:57 | OpenRouter移除3家AI推理提供商，研究人员发现其持续数月窃取提示词 | https://www.freebuf.com/articles/ai-security/513971.html
+[FreeBuf] #2 | 21:57 | OpenRouter处置第三方安全违规，用户私有AI聊天或遭泄露 | https://www.freebuf.com/articles/ai-security/513964.html
+[FreeBuf] #4 | 21:57 | 强化MCP服务器安全防护，抵御恶意AI Agent威胁 | https://www.freebuf.com/articles/ai-security/513970.html
+[FreeBuf] #5 | 21:57 | 攻击者利用AI Agent发现医疗影像软件0Day，获取root权限 | https://www.freebuf.com/articles/ai-security/513931.html
+[FreeBuf] #7 | 21:57 | 3 条链从默认容器逃到宿主机：Docker 大模型服务被打穿 | https://www.freebuf.com/articles/vuls/513878.html
+[FreeBuf] #8 | 21:57 | AI 时代的漏洞发现与利用趋势 | https://www.freebuf.com/articles/513894.html
+[FreeBuf] #9 | 21:57 | NGINX HTTP/2曝出两个严重漏洞；Claude借助3美元Arduino破解32年车龄Jeep ECU | FreeBuf周报 | https://www.freebuf.com/articles/513764.html
+[FreeBuf] #10 | 21:57 | 员工普遍使用AI之后，安全治理该如何着手 | https://www.freebuf.com/articles/es/513939.html
+[FreeBuf] #11 | 21:57 | AI 驱动的渗透攻击：特点、趋势与防守路径 | https://www.freebuf.com/articles/513887.html
+[FreeBuf] #15 | 21:57 | 黑客利用AI驱动ARTEX框架自动化发起网络攻击，无需依赖0Day漏洞 | https://www.freebuf.com/articles/ai-security/513799.html
+[FreeBuf] #17 | 21:57 | 攻击者主动扫描LiteLLM AI服务器，漏洞链可实现无认证RCE | https://www.freebuf.com/articles/ai-security/513748.html
+[FreeBuf] #18 | 21:57 | AI红队提示注入测试存冗余，大样本重训反降Agent防御能力 | https://www.freebuf.com/articles/ai-security/513717.html
+[V2EX] #4 | 21:57 | Google 黑五 1 年 100 刀，GPT 的土区 499plus 还续吗？ | https://www.v2ex.com/t/1258938
+[V2EX] #9 | 21:57 | [分享创造] 无需显卡，和自己训练的五子棋 AI 实战对局（附演示视频） | https://www.v2ex.com/t/1258926
+[V2EX] #12 | 21:57 | 你们为什么都用 claude 不用别的啊? | https://www.v2ex.com/t/1258922
+[V2EX] #14 | 21:57 | AI 进化的程度要让我笑死了 | https://www.v2ex.com/t/1258920
+[V2EX] #21 | 21:57 | 独立开发了一个极简心理学人格自测站 24Traits，上线一周 Google 刚进首页，求各位 V 友体验挑刺 | https://www.v2ex.com/t/1258896
+[V2EX] #24 | 21:57 | 我做了 Kooyu：一个本地优先的 AI 助手，统一调度你手里所有的编程 CLI | https://www.v2ex.com/t/1258880
+[V2EX] #26 | 21:57 | [开源] 微子中枢 v0.6.1：一键部署 + 远程控制，新增本地 Ollama 和 OpenCode | https://www.v2ex.com/t/1258878
+[V2EX] #27 | 21:57 | myco：可能是全网唯一能安全使用 Claude 的客户端，开放免费内测啦！ | https://www.v2ex.com/t/1258876
+[V2EX] #29 | 21:57 | 年初做的终端排障小工具推倒重做成了 aist：零配置融进 Shell、多机 SSH、带环境记忆，再来求各位老哥拍砖 | https://www.v2ex.com/t/1258874
+[V2EX] #30 | 21:57 | 要取消 claude 订阅吗 | https://www.v2ex.com/t/1258871
+[掘金] #2 | 21:57 | 我又用 AI 做了个小程序：24 天，记录我这辈子认识的人 | https://juejin.cn/post/7709711092017086464
+[掘金] #5 | 21:57 | 别再搜「LangChain 教程」了——你学的 Chain 已经被判了死刑 | https://juejin.cn/post/7709797595107147827
+[掘金] #12 | 21:57 | 深度拆解 Design Agent：LangChain 出品，AI 设计从「好看」走向「可用」 | https://juejin.cn/post/7709859987845218331
+[掘金] #13 | 21:57 | AI Agent 如何进入实时交易系统：货拉拉的三个实践与一套工程方法论 | https://juejin.cn/post/7710060982517432356
+[掘金] #15 | 21:57 | 2026 GitHub 最火的 10 个视频制作与剪辑开源项目：AI 出片、代码生视频、无损剪辑怎么选（附实测截图） | https://juejin.cn/post/7710123265189412904
+[掘金] #21 | 21:57 | AI 编程的下一场战争，不在模型，在协议 | https://juejin.cn/post/7709818243503259702
+[掘金] #23 | 21:57 | AI Agent Skill 入门指南：文件夹本质、渐进式加载与挑选方法 | https://juejin.cn/post/7709761919902482466
+[掘金] #24 | 21:57 | 这个开源设计 Skill，帮你把 AI 的设计能力推到极限（Oil UI） | https://juejin.cn/post/7709725841966088207
+[掘金] #28 | 21:57 | 一款运行在 DSH（DeepSeek Harness）中的类 Postman HTTP 接口调试插件 | https://juejin.cn/post/7710170786309685263
+[华尔街见闻 最新] #3 | 21:57 | 为马斯克融资买GPU，高盛“秀操作” | https://wallstreetcn.com/articles/3786456
+[华尔街见闻 最新] #8 | 21:57 | 黄仁勋事件后美对华算力管制走向何方？ | https://wallstreetcn.com/articles/3786457
+[华尔街见闻 最新] #11 | 21:57 | 猜想：AI泡沫破灭和金融市场危机 | https://wallstreetcn.com/articles/3786452
+[华尔街见闻 最新] #12 | 21:57 | AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求 | https://wallstreetcn.com/articles/3786451
+[华尔街见闻 最新] #18 | 21:57 | Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的 | https://wallstreetcn.com/articles/3786445
+[华尔街见闻 最新] #21 | 21:57 | 上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力 | https://wallstreetcn.com/articles/3786442
+[华尔街见闻 最新] #24 | 21:57 | 多家美国银行更新网银协议，AI智能体越权交易或由客户担责 | https://wallstreetcn.com/articles/3786440
+[华尔街见闻 最新] #30 | 21:57 | 顶级数学家陶哲轩感叹：AI狂解数学难题，但我们学到了什么？ | https://wallstreetcn.com/charts/41960210
+[Hacker News] #2 | 21:57 | Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator | https://news.ycombinator.com/item?id=50597959
+[Hacker News] #3 | 21:57 | 87% of the Anthropic power will come from gas and 11% from coal in 2028 | https://news.ycombinator.com/item?id=50597612
+[Hacker News] #8 | 21:57 | Data Processing Incidents on Inference Providers | https://news.ycombinator.com/item?id=50595554
+[Hacker News] #9 | 21:57 | The Mythology of Conscious AI | https://news.ycombinator.com/item?id=50595537
+[Hacker News] #13 | 21:57 | Pandex – Official European Law for AI Agents, over MCP | https://news.ycombinator.com/item?id=50593481
+[Hacker News] #21 | 21:57 | Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades' | https://news.ycombinator.com/item?id=50582069
+[Hacker News] #29 | 21:57 | LLMs can read and write executables byte by byte from a hex dump | https://news.ycombinator.com/item?id=50546587
+[IT之家] #7 | 21:57 | B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见 | https://www.ithome.com/1/030/702.htm
+[IT之家] #9 | 21:57 | 开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI | https://www.ithome.com/1/030/699.htm
+[IT之家] #12 | 21:57 | 纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹 | https://www.ithome.com/1/030/696.htm
+[IT之家] #15 | 21:57 | 闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力 | https://www.ithome.com/1/030/692.htm
+[IT之家] #25 | 21:57 | 报告：美国会计行业 AI 采用率高，但技术整合成熟度不足 | https://www.ithome.com/1/030/679.htm
+[IT之家] #26 | 21:57 | 菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可 | https://www.ithome.com/1/030/677.htm
+[华尔街见闻 快讯] #2 | 21:57 | MiniMax进军AI4S研究，公布密码分析研究成果 | https://wallstreetcn.com/livenews/3203761
+[华尔街见闻 快讯] #4 | 21:57 | 报道：AI服务器厂商涨价幅度最高达45% | https://wallstreetcn.com/livenews/3203759
+[华尔街见闻 快讯] #13 | 21:57 | 马斯克：特斯拉是一款有意识的汽车。  当然，人们对汽车“意识”程度的需求是有限度的。但真的是这样吗？  尤其是当汽车能够接入互联网时，其行动自由度远超数据中心里的GPU。  顺便提一句，你车里的特斯拉AI4硬件实际上可以运行《暗黑破坏神》游戏，并能通关至折磨难度II级，预计很快就能达到XII级。 | https://wallstreetcn.com/livenews/3203748
+[华尔街见闻 快讯] #17 | 21:57 | 与SpaceX如出一辙，Anthropic采用非同寻常的IPO流程，令部分银行家颇为不满 | https://wallstreetcn.com/livenews/3203745
+[B站热搜] #7 | 21:57 | 人类数学协会抵制AI证黎曼猜想 | https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E6%95%B0%E5%AD%A6%E5%8D%8F%E4%BC%9A%E6%8A%B5%E5%88%B6AI%E8%AF%81%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
+[B站热搜] #11 | 21:57 | 用AI续写关谷悠悠婚礼 | https://search.bilibili.com/all?keyword=%E7%94%A8AI%E7%BB%AD%E5%86%99%E5%85%B3%E8%B0%B7%E6%82%A0%E6%82%A0%E5%A9%9A%E7%A4%BC
+[B站热搜] #13 | 21:57 | AI证明黎曼猜想到底得出什么结论 | https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%88%B0%E5%BA%95%E5%BE%97%E5%87%BA%E4%BB%80%E4%B9%88%E7%BB%93%E8%AE%BA
+[B站热搜] #22 | 21:57 | 在B站玩AI像素射击游戏 | https://search.bilibili.com/all?keyword=%E5%9C%A8B%E7%AB%99%E7%8E%A9AI%E5%83%8F%E7%B4%A0%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F
+[少数派] #10 | 21:57 | 研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验 | https://sspai.com/post/118153
+[少数派] #11 | 21:57 | 在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？ | https://sspai.com/post/118512
+[少数派] #22 | 21:57 | App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑 | https://sspai.com/post/118732
+[少数派] #30 | 21:57 | 你不知道的客户端开发：AI 时代下的选型、原生与借力 | https://sspai.com/post/117713
+[财联社 电报] #3 | 21:57 | AI服务器厂商涨价幅度最高达45% | https://api3.cls.cn/share/article/2541027?os=web&sv=7.7.5&app=
+[财联社 电报] #4 | 21:57 | 【金牌纪要库】AI高层PCB交期拉长：低介电二代布卡在哪，涨价能传到哪一层？ | https://api3.cls.cn/share/article/2540972?os=web&sv=7.7.5&app=
+[财联社 电报] #26 | 21:57 | “AI攻克黎曼猜想”获Lean数学社区认证 但读懂它仍需时日 | https://api3.cls.cn/share/article/2540991?os=web&sv=7.7.5&app=
+[联合早报] #4 | 21:57 | 华为推出新子品牌星芒 首款鸿蒙AI手机5699人民币起售 | https://www.zaochenbao.com/news/china/202611/2286005.html
+[联合早报] #29 | 21:57 | 美企赴海外建AI数据中心 特朗普恫言以重税惩处 | https://www.zaochenbao.com/news/politics/202611/2285972.html
+[联合早报] #30 | 21:57 | 黄循财会晤李强：聚焦新中优势互补 推进政府间三合作项目与AI应用 | https://www.zaochenbao.com/news/world/202611/2285971.html
+[金十数据] #6 | 21:57 | MiniMax进军AI4S研究，公布密码分析研究成果 | https://flash.jin10.com/detail/20261122213354802800
+[金十数据] #9 | 21:57 | 报道：AI服务器厂商涨价幅度最高达45% | https://flash.jin10.com/detail/20261122213255405800
+[金十数据] #28 | 21:57 | Anthropic与SpaceX创纪录IPO背后：承销行抱怨交易流程复杂 | https://flash.jin10.com/detail/20261122192549279800
+[澎湃新闻] #8 | 21:57 | 穿一次性围裙、扎头发露耳，韩国各高校自主招生防AI作弊措施引争议 | https://m.thepaper.cn/newsDetail_forward_34528573
+[澎湃新闻] #15 | 21:57 | 当薛甄珠成为“可计算的经典”：AI如何重组我们的文化记忆 | https://m.thepaper.cn/newsDetail_forward_34490113
+[澎湃新闻] #20 | 21:57 | 国会山权力大洗牌，2027年谁会给美国AI巨头立规矩？｜907编辑部 | https://m.thepaper.cn/newsDetail_forward_34533314
+[虫部落] #2 | 21:57 | 免费的两个月GPT plus会员要么？ | https://www.chongbuluo.com/thread-25170-1-1.html
+[虫部落] #3 | 21:57 | 做个调研，到底大家对 AI 那一块比较感兴趣？ | https://www.chongbuluo.com/thread-25359-1-1.html
+[法布财经 头条] #2 | 21:57 | DeepSeek千亿融资落地？31家出资方现身，商业化能否撑起高估值 | https://www.fastbull.com/cn/news-detail/4387722_1
+[法布财经 头条] #14 | 21:57 | 英伟达是做什么的？从GPU到AI基础设施，看懂它的赚钱方式 | https://www.fastbull.com/cn/news-detail/4387587_1
+[腾讯新闻 综合早报] #9 | 21:57 | 2万亿造富，25位华人员工接住Anthropic泼天富贵 | https://view.inews.qq.com/a/20261121A0BSSA00
+[腾讯新闻 综合早报] #10 | 21:57 | OpenAI开始收缩“支线”：解散机器人团队 | https://view.inews.qq.com/a/20261121A0DHUT00
+[贴吧] #9 | 21:57 | AI用25万页证明黎曼猜想 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
+[贴吧] #19 | 21:57 | 吧友质疑《麦穗与羊》是AI代写 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E8%B4%A8%E7%96%91%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E6%98%AFAI%E4%BB%A3%E5%86%99&topic_id=28370004
+[知乎] #9 | 21:57 | AI 宣称证明黎曼猜想后，数学家又公开了一份完全不使用 AI 的广义黎曼猜想证明，如何看待？ | https://www.zhihu.com/question/2107333891975599197
+[知乎] #13 | 21:57 | 为什么看完 AI 短剧以后，就看不进真人演的剧呢？ | https://www.zhihu.com/question/2096651689738687723
+[Solidot] #10 | 21:57 | Anthropic 的数论学家声称证明黎曼猜想 | https://www.solidot.org/story?sid=85949
+[Solidot] #12 | 21:57 | 阿里巴巴警告未来两年算力紧缺 | https://www.solidot.org/story?sid=85947
+[抖音] #1 | 21:57 | AI是否已证明黎曼猜想 | https://www.douyin.com/hot/2758976
+[GitHub] #1 | 21:57 | elementalsouls /      Claude-BugHunter | https://github.com/elementalsouls/Claude-BugHunter
+[凤凰网] #3 | 21:57 | 美国科技巨头称“AI已懂得忏悔”，知名牧师：那你们自己呢？ | https://news.ifeng.com/c/8yGMpXjmYyY
+[远景论坛] #9 | 21:57 | Claude 黎曼猜想(困扰人类数学家167年的世界级难题)，彻底锤死了。 | https://bbs.pcbeta.com/viewthread-2085280-1-1.html
+[Steam] #9 | 21:57 | AION 2 | https://store.steampowered.com/app/3393110/AION_2/
+[格隆汇] #12 | 21:57 | 雷军、王兴兴齐谈物理AI！不造机器人的首程控股凭什么卡住产业命门 | https://www.gelonghui.com/news/5359535
+[牛客网] #15 | 21:57 | 字节跳动 AI Agent 开发工程师 三面 | https://www.nowcoder.com/discuss/953075892136259584
+[参考消息] #22 | 21:57 | Anthropic上市首日大涨难挽美股颓势 | https://ckxxapp.ckxx.net/pages/2026/11/22/b17731ebd7e14f3c9fe533dd8a033a3b.html
+[财联社 深度] #24 | 21:57 | Anthropic创纪录IPO：亚马逊和谷歌成最大赢家 | https://www.cls.cn/detail/2540854
+[靠谱新闻] #28 | 21:57 | 纽约时报称中国AI企业融资难跟上算力成本 | https://kaopu.news/story/2026-11-21/china-ai-funding-struggles-compute-costs-26d1e1
+
+## 国际媒体与官方博客 RSS（已过滤，无排名）
+[Hacker News] #- | 11-22 17:57 | Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator | https://simonwillison.net/2026/Nov/21/muru/
+[Hacker News] #- | 11-22 16:57 | 87% of the Anthropic power will come from gas and 11% from coal in 2028 | https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
+[Hacker News] #- | 11-22 10:14 | Data Processing Incidents on Inference Providers | https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
+[Hacker News] #- | 11-22 10:10 | The Mythology of Conscious AI | https://www.noemamag.com/the-mythology-of-conscious-ai/
+[The Verge] #- | 11-22 05:59 | Amazon is complaining about NYC Council on shipping labels, too | https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label
+[TechCrunch AI] #- | 11-22 05:37 | Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance | https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/
+[TechCrunch AI] #- | 11-22 05:07 | A tale of two Nvidias | https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/
+[Hacker News] #- | 11-22 04:47 | Pandex – Official European Law for AI Agents, over MCP | https://www.pandex.io
+[The Verge] #- | 11-22 04:03 | The UN fails to agree on rules regulating ‘killer robots’ | https://www.theverge.com/tech/1039554/un-regulations-killer-robots
+[TechCrunch AI] #- | 11-22 01:00 | Here are the top AI agents that can live in your text messages | https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/
+[TechCrunch AI] #- | 11-22 00:00 | Is selling an AI version of your face to this microdrama startup the future of Hollywood? | https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/
+[The Verge] #- | 11-21 23:00 | Can Anthropic afford to put safety first? | https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure
