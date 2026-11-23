@@ -1,0 +1,142 @@
+# 全球 AI 热点精简数据 2026-11-24 0112 (Asia/Shanghai)
+# 来源: 已按 AI 关键词过滤的报告 | 热榜 122 条 | RSS 13 条
+# 字段: 来源 | 排名 | 时间 | 标题 | 链接
+
+## 热榜（已过滤）
+[AI 热点] #1 | 01:11 | Nvidia 临时 CEO Colette Kress 表示董事会不会恢复 Jensen Huang 职务 | https://aihot.news/items/s1hpzyidatk3tmr2c912lws29
+[AI 热点] #2 | 01:11 | 商汤开源 SenseNova-Loop-9B 多模态模型，512K 上下文、循环复用 24 层中间块 | https://aihot.news/items/siig8adp0k2o97kz4mfzpimki
+[AI 热点] #8 | 01:11 | Z.ai 发布 750B 循环架构旗舰模型 GLM-5.4 | https://aihot.news/items/dnri1sadp1o1jmxgpmkx5jv4b
+[AI 热点] #9 | 01:11 | NVIDIA 董事会恢复黄仁勋职务，股价盘初大涨 30% | https://aihot.news/items/g4u96z1szup8rzfhyotvhk5ef
+[AI 热点] #12 | 01:11 | Wiz Research 披露 ARTEX 智能体攻击框架的真实云入侵案例 | https://aihot.news/items/gp8e9a8oitha0rbip8pzntuff
+[AI 热点] #14 | 01:11 | NVIDIA 董事会全票恢复黄仁勋总裁兼 CEO 及董事职务，股价大涨 31% | https://aihot.news/items/jo5418ootux72grn8ugtpiq4k
+[AI 热点] #16 | 01:11 | AI 纪录片 Aljoša on the Brain Train 摘得 2026 Clio 娱乐奖金奖，全片用可灵动画化 | https://aihot.news/items/ps3g82rxekzb1j0wb9q76mrc1
+[AI 热点] #17 | 01:11 | Nvidia 宣布黄仁勋重返 CEO 职位 | https://aihot.news/items/bc4gq9dugsnk7163n4wdgji1j
+[AI 热点] #18 | 01:11 | ARTEX 开源 AI 黑客框架遭滥用，FBI 发出警告但代码已广泛扩散 | https://aihot.news/items/zb8hu8pp2ogojk5081g7z4en7
+[AI 热点] #19 | 01:11 | NVIDIA 董事会恢复黄仁勋总裁、CEO 兼董事职务 | https://aihot.news/items/gdveoivkyxm7gf8k5tsspii95
+[AI 热点] #20 | 01:11 | NVIDIA 宣布黄仁勋复任总裁兼 CEO 并重回董事会 | https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l
+[AI 热点] #23 | 01:11 | 155 家儿童权益组织致信亚马逊、eBay，呼吁停止销售 AI 玩具 | https://aihot.news/items/mfyp3hhyhudsbx0eh3q07hm3a
+[AI 热点] #26 | 01:11 | Gemini 4 Neon 思考强度默认值 | https://aihot.news/items/vpx757h4vgu9mqhkgstonzs03
+[AI 热点] #27 | 01:11 | GPT-6.2 Astra 在 Autoform-Hard 上完成 Smoktunowicz gap 定理的 Lean 形式化证明 | https://aihot.news/items/svdjympmm752wg0gf5dej7y7x
+[AI 热点] #29 | 01:11 | 华硕 ProArt P16 评测：Nvidia RTX Spark 加持下可本地运行百亿参数级 AI 模型 | https://aihot.news/items/jlmmikyyc3jfxi2rhpeevi3re
+[AI 热点] #30 | 01:11 | ChinaTalk 访谈：前爱沙尼亚政府 CIO 畅谈「智能体国家」如何重塑政务服务 | https://aihot.news/items/v5wafe76vuzs16xcs783u8wj1
+[MKT新闻] #1 | 01:11 | TASS: Russia's mission to the United Nations said Moscow would not agree to a new grain deal. | https://mktnews.net/flashDetail.html?id=01a2094b-127c-7bbc-acc0-434c80d6f7eb
+[MKT新闻] #6 | 01:11 | CITIGROUP raises NVIDIA PT to $240 from $225. | https://mktnews.net/flashDetail.html?id=01a20949-2b1b-7bbc-acc0-19e5b9a614f1
+[MKT新闻] #7 | 01:11 | Jensen Huang updated his Twitter bio to “NVIDIA CEO.” | https://mktnews.net/flashDetail.html?id=01a20948-7269-7bbc-acc0-129b70eae9c5
+[MKT新闻] #14 | 01:11 | California Attorney General: Reinstating NVIDIA CEO Jensen Huang “does not change the fact that the American people deserve to know what happened here.” | https://mktnews.net/flashDetail.html?id=01a20942-5559-7bbc-acbf-db1e9e633c0e
+[MKT新闻] #17 | 01:11 | Aviation groups urged Congress to provide at least $30 bln to modernize U.S. air traffic control, saying the system is under mounting strain. | https://mktnews.net/flashDetail.html?id=01a2093b-fa99-7bbc-acbf-c014d58eae9a
+[MKT新闻] #18 | 01:11 | UK Prime Minister Burnham: It is unthinkable to take Britain back into the EU without a referendum. | https://mktnews.net/flashDetail.html?id=01a20939-cae2-7bbc-acbf-bb4a2f3b2c60
+[MKT新闻] #20 | 01:11 | The New York Times reports that Anthropic’s computing demand is so large that SpaceXSI needs to build a new data center by October to fulfill its order. | https://mktnews.net/flashDetail.html?id=01a20936-3a8a-7bbc-acbf-a8334bc2fca8
+[MKT新闻] #23 | 01:11 | Musk: SpaceX is behind in AI development. | https://mktnews.net/flashDetail.html?id=01a20932-028e-7bbc-acbf-9492ad75b781
+[MKT新闻] #24 | 01:11 | Senate Democratic Leader Schumer: Democrats will use every tool at their disposal to investigate NVIDIA CEO Jensen Huang, the administration and other NVIDIA executives. | https://mktnews.net/flashDetail.html?id=01a2092b-6545-7bbc-acbf-8013b015523a
+[MKT新闻] #25 | 01:11 | Yemen’s Houthi forces said they detected a ballistic missile launched from Saada toward Aden that landed in Dhamar. | https://mktnews.net/flashDetail.html?id=01a2092a-8a38-7bbc-acbf-78bb894eab07
+[MKT新闻] #27 | 01:11 | The Washington Post reports that Trump said U.S. intelligence chief Jay Clayton will serve as acting cybersecurity chief. | https://mktnews.net/flashDetail.html?id=01a20926-45b8-7bbc-acbf-697333864859
+[MKT新闻] #29 | 01:11 | Boeing shares extend gains to 4%. | https://mktnews.net/flashDetail.html?id=01a20922-220b-7bbc-acbf-553c784c5e82
+[掘金] #4 | 01:11 | 2026 GitHub 最火的 10 个视频制作与剪辑开源项目：AI 出片、代码生视频、无损剪辑怎么选（附实测截图） | https://juejin.cn/post/7710123265189412904
+[掘金] #7 | 01:11 | A2UI 1.0 详解：让 AI 生成 Flutter 界面，还不怕它乱写 | https://juejin.cn/post/7710647322556547123
+[掘金] #8 | 01:11 | 我把公司内部的 12 个 CRUD 接口交给了 AI Agent，然后省出了两周 | https://juejin.cn/post/7710455506234327080
+[掘金] #11 | 01:11 | 七家中国 AI 公司被控「蒸馏」Claude：模型蒸馏的原理、攻防与争议全解（附一手资料截图） | https://juejin.cn/post/7710853195052990499
+[掘金] #13 | 01:11 | 用 Seedance 2.5 Flash 实现1分钟AI短剧，满足孩子的超级英雄对战梦 | https://juejin.cn/post/7710180572464758838
+[掘金] #16 | 01:11 | AI 写代码越来越快，程序员为什么反而更累了 | https://juejin.cn/post/7710966014792810515
+[掘金] #17 | 01:11 | workbuddy可以操控电脑！真的太省心了，AI博主利器啊 | https://juejin.cn/post/7710647322555760691
+[掘金] #22 | 01:11 | 一款运行在 DSH（DeepSeek Harness）中的类 Postman HTTP 接口调试插件 | https://juejin.cn/post/7710170786309685263
+[掘金] #23 | 01:11 | Gemini 4 Neon+Antigravity，干活真猛啊。 | https://juejin.cn/post/7710893312785465387
+[掘金] #25 | 01:11 | Agent 接了上百个工具就变慢变贵？Gemini 把工具加载改成了按需检索 | https://juejin.cn/post/7710701905597186063
+[掘金] #27 | 01:11 | 百万 Token 砍到 0.5 美元！微软新模型半价、DeepSeek 连夜撤回搜索费，11 月底开发者怎么搭最省钱？ | https://juejin.cn/post/7710159383124951055
+[掘金] #30 | 01:11 | Agent开发 00｜从 ChatGPT 到生产级 AI Agent | https://juejin.cn/post/7710178154624008246
+[FreeBuf] #4 | 01:11 | 819 个技能包塞进 Claude Code，四个团伙把 AI Agent 编制成入侵军团 | https://www.freebuf.com/articles/vuls/514064.html
+[FreeBuf] #6 | 01:11 | Xalgorix开源AI渗透测试工具上线，双Agent独立校验降低误报 | https://www.freebuf.com/articles/ai-security/514100.html
+[FreeBuf] #9 | 01:11 | GPT-6.2 Astra发现多个0Day漏洞，含移动OS权限绕过与服务端RCE缺陷 | https://www.freebuf.com/news/514068.html
+[FreeBuf] #10 | 01:11 | OpenRouter移除3家AI推理提供商，研究人员发现其持续数月窃取提示词 | https://www.freebuf.com/articles/ai-security/513971.html
+[FreeBuf] #12 | 01:11 | OpenRouter处置第三方安全违规，用户私有AI聊天或遭泄露 | https://www.freebuf.com/articles/ai-security/513964.html
+[FreeBuf] #14 | 01:11 | 强化MCP服务器安全防护，抵御恶意AI Agent威胁 | https://www.freebuf.com/articles/ai-security/513970.html
+[FreeBuf] #15 | 01:11 | 攻击者利用AI Agent发现医疗影像软件0Day，获取root权限 | https://www.freebuf.com/articles/ai-security/513931.html
+[FreeBuf] #17 | 01:11 | 3 条链从默认容器逃到宿主机：Docker 大模型服务被打穿 | https://www.freebuf.com/articles/vuls/513878.html
+[FreeBuf] #18 | 01:11 | FreeBuf早报 | 微软官方Python Agent框架遭供应链投毒；AI发现nginx五个高危漏洞 | https://www.freebuf.com/news/513793.html
+[FreeBuf] #19 | 01:11 | AI 时代的漏洞发现与利用趋势 | https://www.freebuf.com/articles/513894.html
+[FreeBuf] #20 | 01:11 | NGINX HTTP/2曝出两个严重漏洞；Claude借助3美元Arduino破解32年车龄Jeep ECU | FreeBuf周报 | https://www.freebuf.com/articles/513764.html
+[财联社 深度] #5 | 01:11 | 一日大涨48.65%！港股商米科技‑W创历史新高 发力商业物理 AI｜聚焦 | https://www.cls.cn/detail/2542246
+[财联社 深度] #8 | 01:11 | AI融资越来越复杂：科技巨头花式举债，传统债市边界模糊 | https://www.cls.cn/detail/2542235
+[财联社 深度] #17 | 01:11 | 港股公告精选｜知乎参投基金获DeepSeek部分股权 国银金租拟采购35亿元计算设备 | https://www.cls.cn/detail/2542167
+[财联社 深度] #21 | 01:11 | Meta首席AI官警告：超级智能时代逼近 人类不应将社会拱手交给AI | https://www.cls.cn/detail/2542129
+[财联社 深度] #25 | 01:11 | 布局AI时代网络安全！CrowdStrike拟以439亿美元收购Zscaler | https://www.cls.cn/detail/2542085
+[财联社 深度] #26 | 01:11 | 从超级个体迈向超级组织，陆家嘴金融沙龙第四十三期热 AI重塑公募投研新生态 | https://www.cls.cn/detail/2541450
+[V2EX] #7 | 01:11 | 在 GPT 的帮助下做了个 Windows 解压工具 Unbox，双击就能解压，高仿 Win11 原生复制窗口 | https://www.v2ex.com/t/1259270
+[V2EX] #9 | 01:11 | [分享创造] 做了套给 AI CLI 用的 iTerm2 配置，先解决日志太吵 | https://www.v2ex.com/t/1259258
+[V2EX] #14 | 01:11 | 在家不上班真舒服啊，我和 AI 一起做了一个 Content hive，用于收集各平台的内容 | https://www.v2ex.com/t/1259233
+[V2EX] #22 | 01:11 | ChatGPT 生图功能，有什么平替？Gemini 行吗？ | https://www.v2ex.com/t/1259195
+[V2EX] #28 | 01:11 | 有哪些任务是 Deepseek Flash4.1 无法胜任，而 Claude / ChatGPT 可以的？ | https://www.v2ex.com/t/1259180
+[V2EX] #29 | 01:11 | Crew 客户端已集成 Antigravity、Claude、Codex，并且支持自定义模型，兼容 magpie，支持 Git、文件浏览、网格化，可通过 Crew 的 SSH 功能利用 AI 操作远程服务器 | https://www.v2ex.com/t/1259179
+[财联社 电报] #10 | 01:11 | 财联社11月24日电，据报道，SpaceX需要建成新的数据中心才能履行Anthropic的订单。 | https://api3.cls.cn/share/article/2542329?os=web&sv=7.7.5&app=
+[财联社 电报] #11 | 01:11 | 财联社11月24日电，马斯克向员工表示SpaceX在AI开发方面正落后，出租SpaceX的算力更有利可图。 | https://api3.cls.cn/share/article/2542328?os=web&sv=7.7.5&app=
+[财联社 电报] #18 | 01:11 | 财联社11月23日电，投资银行Baird将英伟达列为最新看多首选股（Fresh Pick）。 | https://api3.cls.cn/share/article/2542281?os=web&sv=7.7.5&app=
+[财联社 电报] #22 | 01:11 | 黄仁勋回归带动AI交易反弹 Anthropic股价却走势震荡 | https://api3.cls.cn/share/article/2542276?os=web&sv=7.7.5&app=
+[财联社 电报] #25 | 01:11 | 财联社11月23日电，美国总统特朗普表示，目前不担心人工智能泡沫。 | https://api3.cls.cn/share/article/2542271?os=web&sv=7.7.5&app=
+[财联社 电报] #27 | 01:11 | 美股科技股及AI硬件股涨幅持续扩大 纳指100涨7.7% 英伟达涨36% 美光海力士双双涨20% | https://api3.cls.cn/share/article/2542269?os=web&sv=7.7.5&app=
+[华尔街见闻 最新] #9 | 01:11 | AI时代最稀缺的是“发现问题、定义问题并清晰描述解决标准” | https://wallstreetcn.com/charts/41960219
+[华尔街见闻 最新] #11 | 01:11 | Anthropic承诺约9000亿美元算力开支，债市预期其债券为垃圾级 | https://wallstreetcn.com/articles/3786535
+[华尔街见闻 最新] #12 | 01:11 | AI巨头CEO惊人暴论：人类被AI抢饭碗后，可以用沉浸式游戏安抚 | https://wallstreetcn.com/articles/3786532
+[华尔街见闻 最新] #20 | 01:11 | AI服务器临交付暴涨45%，台积电收紧账期要现款：黄仁勋刚走，全球供应链撕破脸 | https://wallstreetcn.com/articles/3786524
+[华尔街见闻 最新] #25 | 01:11 | OpenAI爆改旗舰GPU，AMD直接送厂流片！ | https://wallstreetcn.com/articles/3786520
+[贴吧] #3 | 01:11 | 病毒吧曝假deepseek藏银狐木马 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
+[贴吧] #13 | 01:11 | AI用25万页证明黎曼猜想 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
+[贴吧] #20 | 01:11 | 吧友吐槽双帝之战剧场版滥用AI | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI&topic_id=28370137
+[贴吧] #27 | 01:11 | 吧友质疑《麦穗与羊》是AI代写 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E8%B4%A8%E7%96%91%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E6%98%AFAI%E4%BB%A3%E5%86%99&topic_id=28370004
+[B站热搜] #5 | 01:11 | AI剧 人类消失后的大肥鱼 | https://search.bilibili.com/all?keyword=AI%E5%89%A7+%E4%BA%BA%E7%B1%BB%E6%B6%88%E5%A4%B1%E5%90%8E%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC
+[B站热搜] #18 | 01:11 | 小县城如何靠AI拿到大结果 | https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C
+[B站热搜] #22 | 01:11 | 陶哲轩再评价AI攻破黎曼猜想 | https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E5%86%8D%E8%AF%84%E4%BB%B7AI%E6%94%BB%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3
+[牛客网] #11 | 01:11 | 快手 AI Agent 开发工程师 一面 | https://www.nowcoder.com/discuss/954012052081606656
+[牛客网] #13 | 01:11 | 快手面经 快手大模型算法岗面经-03 | https://www.nowcoder.com/discuss/953683777228656640
+[牛客网] #20 | 01:11 | AI 驱动自动化测试平台搞定！ | https://www.nowcoder.com/feed/main/detail/96fae0636f0542a09283813ca4ec224b
+[少数派] #16 | 01:11 | 研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验 | https://sspai.com/post/118153
+[少数派] #17 | 01:11 | 在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？ | https://sspai.com/post/118512
+[少数派] #28 | 01:11 | App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑 | https://sspai.com/post/118732
+[IT之家] #17 | 01:11 | 《生化危机》之父三上真司：希望 AI 彻底消失 | https://www.ithome.com/1/031/204.htm
+[IT之家] #18 | 01:11 | 儿童权益保护组织喊话亚马逊、eBay：别卖 AI 玩具了 | https://www.ithome.com/1/031/203.htm
+[IT之家] #25 | 01:11 | Docker 徽标焕新，致力于打造面向智能体的安全容器化环境 | https://www.ithome.com/1/031/194.htm
+[虫部落] #2 | 01:11 | 做个调研，到底大家对 AI 那一块比较感兴趣？ | https://www.chongbuluo.com/thread-25359-1-1.html
+[虫部落] #3 | 01:11 | 免费的两个月GPT plus会员要么？ | https://www.chongbuluo.com/thread-25170-1-1.html
+[澎湃新闻] #2 | 01:11 | “数学进入了一个新纪元”：丘成桐等三位数学家回应AI辅助证明黎曼猜想 | https://m.thepaper.cn/newsDetail_forward_34537212
+[澎湃新闻] #13 | 01:11 | 美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现 | https://m.thepaper.cn/newsDetail_forward_34537819
+[法布财经 头条] #3 | 01:11 | DeepSeek千亿融资落地？31家出资方现身，商业化能否撑起高估值 | https://www.fastbull.com/cn/news-detail/4387722_1
+[法布财经 头条] #16 | 01:11 | 英伟达是做什么的？从GPU到AI基础设施，看懂它的赚钱方式 | https://www.fastbull.com/cn/news-detail/4387587_1
+[Hacker News] #4 | 01:11 | Nvidia Reinstates Jensen Huang as CEO | https://news.ycombinator.com/item?id=50611576
+[Hacker News] #18 | 01:11 | A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth | https://news.ycombinator.com/item?id=50603845
+[知乎] #9 | 01:11 | Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？ | https://www.zhihu.com/question/2107898424943179770
+[知乎] #15 | 01:11 | NVIDIA 董事会宣布即日起恢复黄仁勋的总裁、首席执行官和董事职务。如何评价该事件？ | https://www.zhihu.com/question/2108319925819523250
+[今日头条] #11 | 01:11 | 大模型经过医考测试不实 | https://www.toutiao.com/trending/7710656106531569700/
+[今日头条] #30 | 01:11 | AI替你干活还是替掉你的工作 | https://www.toutiao.com/trending/7711318211089665599/
+[华尔街见闻 快讯] #14 | 01:11 | 马斯克告诉员工们：SpaceX在AI开放方面落后。  出租SpaceX算力更有利可图。（纽约时报） | https://wallstreetcn.com/livenews/3204420
+[华尔街见闻 快讯] #23 | 01:11 | Baird看涨英伟达，将其列为看涨优选标的。  11月11日，Baird将英伟达目标价从500美元下调至200美元，评级下调至“中性”。 | https://wallstreetcn.com/livenews/3204410
+[联合早报] #20 | 01:11 | 中国AI股市值蒸发1.7万亿美元 热门押注成亏损交易 | https://www.zaochenbao.com/news/china/202611/2386071.html
+[联合早报] #30 | 01:11 | 特朗普访华之际 美国封堵中国公司在东南亚租用AI算力的“后门” | https://www.zaochenbao.com/news/Chronicles/202611/2386053.html
+[法布财经 快讯] #27 | 01:11 | 美国总统特朗普称赞Anthropic首席执行官阿莫代伊。 | https://www.fastbull.com/cn/fastshort/4362707_212_1
+[法布财经 快讯] #29 | 01:11 | 美国总统特朗普：如果AI公司行动过快，司法部将进行干预。 | https://www.fastbull.com/cn/fastshort/4362705_1_1
+[GitHub] #1 | 01:11 | elementalsouls /      Claude-BugHunter | https://github.com/elementalsouls/Claude-BugHunter
+[雪球] #2 | 01:11 | Anthropic | https://xueqiu.com/s/ANT
+[Steam] #6 | 01:11 | AION 2 | https://store.steampowered.com/app/3393110/AION_2/
+[华尔街见闻 最热] #6 | 01:11 | Claude证明黎曼假设“大反转”：论证无效，只是空转？ | https://wallstreetcn.com/articles/3786480
+[财联社热门] #7 | 01:11 | 【焦点复盘】算力硬件股午后反攻，连续7日超4000股下跌终结，大批红利股逆势走弱 | https://www.cls.cn/detail/2541816
+[抖音] #8 | 01:11 | AI服务器厂商最高涨价45% | https://www.douyin.com/hot/2759405
+[远景论坛] #8 | 01:11 | NVIDIA驱动升级残留一键清理 | https://bbs.pcbeta.com/viewthread-2085386-1-1.html
+[凤凰网] #11 | 01:11 | 悬赏百万美元的难题先被AI破解，全世界的数学家都睡不着了 | https://news.ifeng.com/c/8yI1gE8bNzr
+[Solidot] #11 | 01:11 | Anthropic 到 2028 年使用的电力 98% 来自化石燃料 | https://www.solidot.org/story?sid=85959
+[腾讯新闻 综合早报] #11 | 01:11 | 留给人类的时间不多了，AI领域2027年或迎来“雪崩式”加速 | https://view.inews.qq.com/a/20261123A0AV3Z00
+[参考消息] #19 | 01:11 | AI泡沫忧虑致美科技股跌入熊市 Anthropic股价下挫逼近发行价 | https://ckxxapp.ckxx.net/pages/2026/11/23/a2b19ef7dfa0421ea1139555ccb2ad19.html
+[ProductHunt] #19 | 01:11 | Othor AI | https://www.producthunt.com/products/othor-ai
+[靠谱新闻] #25 | 01:11 | 纽约时报称中国军方担忧美国AI削弱核反击能力 | https://kaopu.news/story/2026-11-23/nyt-china-military-fears-us-ai-nuclear-retaliation-986075
+[虎扑] #30 | 01:11 | BF:Nike将为詹姆斯设独立产品线（KJ），规格对标 Air Jordan | https://bbs.hupu.com/644105381.html
+
+## 国际媒体与官方博客 RSS（已过滤，无排名）
+[TechCrunch AI] #- | 11-24 00:39 | Trump reportedly called into Nvidia board meeting to advocate for Huang’s return | https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/
+[TechCrunch AI] #- | 11-23 23:04 | Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing | https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/
+[The Verge] #- | 11-23 23:00 | Apple’s AirPods Pro 3 are 40 percent off ahead of Black Friday | https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale
+[TechCrunch AI] #- | 11-23 22:43 | Sierra doubles valuation to $30B within six months as demand for AI in CX takes off | https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/
+[TechCrunch AI] #- | 11-23 22:21 | Nvidia reverses course and brings Jensen Huang back as CEO | https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/
+[The Verge] #- | 11-23 22:04 | Jensen Huang is back as Nvidia’s CEO | https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated
+[Hacker News] #- | 11-23 22:00 | Nvidia Reinstates Jensen Huang as CEO | https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+[MIT Tech Review] #- | 11-23 21:10 | The Download: AI’s judgment problem and carbon removal’s crop threat | https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/
+[TechCrunch AI] #- | 11-23 09:25 | How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO | https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/
+[Hugging Face Blog] #- | 11-23 08:00 | How to build and maintain an agentic evaluation | https://huggingface.co/blog/agentic-evals
+[少数派] #- | 11-23 07:34 | 派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想 | https://sspai.com/post/119418
+[TechCrunch AI] #- | 11-23 05:14 | OpenAI’s chief scientist has thoughts on how to limit AI development | https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/
+[Hacker News] #- | 11-23 05:01 | A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth | https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
