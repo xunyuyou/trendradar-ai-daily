@@ -1,0 +1,164 @@
+# 全球 AI 热点精简数据 2026-11-24 1602 (Asia/Shanghai)
+# 来源: 已按 AI 关键词过滤的报告 | 热榜 132 条 | RSS 25 条
+# 字段: 来源 | 排名 | 时间 | 标题 | 链接
+
+## 热榜（已过滤）
+[MKT新闻] #1 | 16:02 | Iraq's prime minister dismissed the Kirkuk operations commander and police chief for failing to follow up on oil products smuggling. | https://mktnews.net/flashDetail.html?id=01a20c8c-eef4-7bbc-accc-c299647e6df7
+[MKT新闻] #2 | 16:02 | Huawei launches Mate 90 Air | https://mktnews.net/flashDetail.html?id=01a20c87-bd87-7bbc-accc-be9e826fd9f8
+[MKT新闻] #6 | 16:02 | Commerzbank is considering scaling back its U.S. Treasury trading activity as the U.S. prepares to introduce new Treasury clearing requirements, people familiar with the matter said. | https://mktnews.net/flashDetail.html?id=01a20c83-b58f-7bbc-accc-9ad24baa7978
+[MKT新闻] #7 | 16:02 | Daiwa cuts Kuaishou (01024.HK) PT to HK$20 from HK$37. | https://mktnews.net/flashDetail.html?id=01a20c81-7840-7bbc-accc-94e80d2ca53f
+[MKT新闻] #8 | 16:02 | Hong Kong brain-computer interface stocks saw selective gains, with BrainAurora-B (06681.HK) rising more than 30% in afternoon trading. | https://mktnews.net/flashDetail.html?id=01a20c80-3dc5-7bbc-accc-8840d70952af
+[MKT新闻] #9 | 16:02 | Israeli police said commandos arrested two wanted Hamas members during an overnight raid in the northern West Bank. | https://mktnews.net/flashDetail.html?id=01a20c7d-2da5-7bbc-accc-85ce19b8b692
+[MKT新闻] #10 | 16:02 | On Tuesday, Nov. 24, Shanghai Gold Exchange gold T+D rose 0.43% to 777.25 yuan/gram, while silver T+D gained 0.64% to 10,035 yuan/kg. | https://mktnews.net/flashDetail.html?id=01a20c77-0485-7bbc-accc-7dfd2dd39d50
+[MKT新闻] #11 | 16:02 | JP Morgan: Humanoid robots and physical AI enter accelerated execution phase | https://mktnews.net/flashDetail.html?id=01a20c76-2c1f-7bbc-accc-748272474695
+[MKT新闻] #13 | 16:02 | China-Switzerland ties remain at forefront of China's relations with Western countries, foreign ministry says | https://mktnews.net/flashDetail.html?id=01a20c6f-7ae6-7bbc-accc-646336aa38f7
+[MKT新闻] #15 | 16:02 | South Korea plans 16 trillion won in government AI spending next year | https://mktnews.net/flashDetail.html?id=01a20c69-bd92-7bbc-accc-53a82a6f979f
+[MKT新闻] #17 | 16:02 | NVIDIA reappoints Jensen Huang as CEO; China’s Foreign Ministry declines to comment | https://mktnews.net/flashDetail.html?id=01a20c69-ba89-7bbc-accc-4507763c63df
+[MKT新闻] #19 | 16:02 | Yu Chengdong: Mate X8 delivers 31% performance gain over predecessor | https://mktnews.net/flashDetail.html?id=01a20c66-533d-7bbc-accc-305ff3d8af88
+[MKT新闻] #20 | 16:02 | Gold pares gains after rally; macro headwinds remain | https://mktnews.net/flashDetail.html?id=01a20c64-ab66-7bbc-accc-2be8c0707f54
+[MKT新闻] #22 | 16:02 | Sainsbury’s launches Meta’s Muse AI agent service for UK customers. | https://mktnews.net/flashDetail.html?id=01a20c5f-5513-7bbc-accc-183e78a64d9b
+[MKT新闻] #23 | 16:02 | cenc: A magnitude 3.1 earthquake struck Zaduo County, Yushu, Qinghai, at 2:55 p.m. on Nov. 24, at a depth of 10 km. | https://mktnews.net/flashDetail.html?id=01a20c5e-3c74-7bbc-accc-13105dbbd9bf
+[MKT新闻] #24 | 16:02 | A-shares: Shanghai Composite up 0.27%; cobalt stocks rally | https://mktnews.net/flashDetail.html?id=01a20c5e-399b-7bbc-accc-0a69732b5d9b
+[MKT新闻] #26 | 16:02 | China's Shanghai Composite Index rose 0.27% to 3,548.37. The Shenzhen Composite Index fell 0.29% to 10,423.6, while the CSI 300 gained 0.14% to 3,963.82. The ChiNext Index slipped 0.05% to 2,278.99, and the STAR 50 rose 1.81% to 1,250.09. | https://mktnews.net/flashDetail.html?id=01a20c5d-24fb-7bbc-accb-ff502561fea9
+[MKT新闻] #27 | 16:02 | Shanghai and Shenzhen stocks post combined turnover of 1.655 trln yuan; InnoLight leads | https://mktnews.net/flashDetail.html?id=01a20c5c-448e-7bbc-accb-f0cdaca70487
+[MKT新闻] #29 | 16:02 | NVIDIA slipped 0.3% on Tradegate after its U.S.-listed shares surged 31% on Monday. | https://mktnews.net/flashDetail.html?id=01a20c5b-b004-7bbc-accb-e774f35b0ae9
+[MKT新闻] #30 | 16:02 | Chinese commodity futures were mixed at midday. Fuel oil, asphalt and international copper fell nearly 3%; SC crude and low-sulfur fuel oil (LU) dropped more than 2%, while pure benzene, polypropylene and foundry aluminum lost more than 1%. No. 20 rubber, coking coal and caustic soda rose more than 2%; pulp and natural rubber gained nearly 2%, while sugar, coke and Shanghai silver added more than 1%. | https://mktnews.net/flashDetail.html?id=01a20c5b-8279-7bbc-accb-d8246aeadfc4
+[AI 热点] #2 | 16:02 | AI 钓鱼工具 TheMailer 曝光：反复改写邮件直到绕过垃圾邮件过滤器 | https://aihot.news/items/x5ceitn5cqav2pc6k9lecig80
+[AI 热点] #4 | 16:02 | FT：前 OpenAI 工程师被控窃密，检方称其持有超 160 小时录音 | https://aihot.news/items/mbm9pqbo8vpd7p8tblsp11ogu
+[AI 热点] #6 | 16:02 | 商汤发布并开源 SenseNova U1.6 原生多模态模型，支持原生图像自修正 | https://aihot.news/items/t8djr7nsi0npf9495jfvlbb58
+[AI 热点] #8 | 16:02 | Latent Space AI 新闻日报：Nvidia 恢复黄仁勋职务，OpenAI 公开预训练困惑度曲线并联合 Microsoft 提议共同发展上限 | https://aihot.news/items/occsvb2hsg753nzsnd0o2ul70
+[AI 热点] #11 | 16:02 | 蚂蚁发布并开源 Ling-3.2-air 模型：原生多模态架构，1240 亿总参数 | https://aihot.news/items/nkuhzb3iedd2gsaiszssok7cu
+[AI 热点] #13 | 16:02 | 蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake，核心引擎以 OceanSeek 项目开源 | https://aihot.news/items/rp6y6xts5y5lfsap4eg6vsknw
+[AI 热点] #14 | 16:02 | Artificial Analysis 编码智能体指数上线 Harness Comparisons，测试 GPT-6 Luna 与 GLM-5.3-Flash 各 13 种 harness | https://aihot.news/items/zfwpn5er5fker9nps1ipfgrgz
+[AI 热点] #15 | 16:02 | 知乎宣布通过参投基金间接投资 DeepSeek，股价应声大涨 10% | https://aihot.news/items/ajixfrg2rd6ijyxf3mn881xcr
+[AI 热点] #16 | 16:02 | 豆包旗下 AI 个人助理小豆开启邀请制公测 | https://aihot.news/items/vihx23ecky4iwwqfrzv47xhad
+[AI 热点] #18 | 16:02 | 微软MAI模型以每美元产出定义前沿 | https://aihot.news/items/jxuf9jtty4mihed5rqe3wbol9
+[AI 热点] #21 | 16:02 | OpenAI 开放 OpenWorks 计划申请入口 | https://aihot.news/items/kxnocms4nnkv14usj1v0lriif
+[AI 热点] #22 | 16:02 | ChinaTalk 播客：Nvidia 董事会恢复黄仁勋职务，美商务部将 Megaspeed 列入实体清单 | https://aihot.news/items/zto0pspydy8330r0bvwqb6j5z
+[AI 热点] #23 | 16:02 | Ainos 获日月光 900 万美元追加订单，AI Nose 电子鼻进芯片工厂检测异常 | https://aihot.news/items/iln4b59yx32d9vjma3b72xcjj
+[AI 热点] #24 | 16:02 | MiniCPM5 智能体任务 3/3 通过 | https://aihot.news/items/sewkxnxbmh2bftdb68nnk3hs8
+[AI 热点] #25 | 16:02 | 美国 41 州总检察长质疑 Character.AI 破产出售中的儿童数据安全 | https://aihot.news/items/oy44jc6o49xgu6d5kxmdas6w5
+[AI 热点] #27 | 16:02 | 因提示词和密钥外泄，OpenRouter 清退 Together AI、Phala、Novita 三家服务商 | https://aihot.news/items/vchj846k6pi9hwzpbfo8hohk6
+[AI 热点] #30 | 16:02 | 蚂蚁百灵开源发布 Ling-3.2-air，编程、智能体与多模态能力提升 | https://aihot.news/items/oggbo9di4xb88sip1zss4i9v1
+[V2EX] #3 | 16:02 | [开源自荐] Ossia：一款体验超棒的 AI 原生乐谱制作软件 | https://www.v2ex.com/t/1259457
+[V2EX] #5 | 16:02 | 读操作系统导论读的我快忘记中文语法了，还不如 claude 的翻译，于是干脆翻译了全本 | https://www.v2ex.com/t/1259448
+[V2EX] #6 | 16:02 | 刚买 Gemini pro 一年 有点后悔 | https://www.v2ex.com/t/1259446
+[V2EX] #7 | 16:02 | 好悲催，购买完 gemini pro 年度才发现 gmail 账号归属在中国 | https://www.v2ex.com/t/1259444
+[V2EX] #10 | 16:02 | 写了个摸鱼插件：在 AI 编程工具里逛 V 站，领导来了也不慌 | https://www.v2ex.com/t/1259439
+[V2EX] #11 | 16:02 | 发现一个 AGI 躺平理论 | https://www.v2ex.com/t/1259435
+[V2EX] #13 | 16:02 | Gemini 是不是可以平替 Claude | https://www.v2ex.com/t/1259425
+[V2EX] #15 | 16:02 | Claude Code 最佳控制面 | https://www.v2ex.com/t/1259417
+[V2EX] #17 | 16:02 | 有多少人通过 AI 赚到工作以外额外的钱了？ | https://www.v2ex.com/t/1259411
+[V2EX] #19 | 16:02 | [开源自荐] Peek：纯 Swift 原生 macOS 菜单栏工具，硬件监控 / 磁盘与 AI Agent 空间分析 / 应用卸载 | https://www.v2ex.com/t/1259404
+[V2EX] #21 | 16:02 | 朝鲜推出的 AI「智慧之泉」有人用过吗? | https://www.v2ex.com/t/1259396
+[掘金] #7 | 16:02 | 七家中国 AI 公司被控「蒸馏」Claude：模型蒸馏的原理、攻防与争议全解（附一手资料截图） | https://juejin.cn/post/7710853195052990499
+[掘金] #8 | 16:02 | A2UI 1.0 详解：让 AI 生成 Flutter 界面，还不怕它乱写 | https://juejin.cn/post/7710647322556547123
+[掘金] #9 | 16:02 | 我把公司内部的 12 个 CRUD 接口交给了 AI Agent，然后省出了两周 | https://juejin.cn/post/7710455506234327080
+[掘金] #10 | 16:02 | AI 写代码越来越快，程序员为什么反而更累了 | https://juejin.cn/post/7710966014792810515
+[掘金] #14 | 16:02 | 用 Seedance 2.5 Flash 实现1分钟AI短剧，满足孩子的超级英雄对战梦 | https://juejin.cn/post/7710180572464758838
+[掘金] #15 | 16:02 | workbuddy可以操控电脑！真的太省心了，AI博主利器啊 | https://juejin.cn/post/7710647322555760691
+[掘金] #17 | 16:02 | Gemini 4 Neon+Antigravity，干活真猛啊。 | https://juejin.cn/post/7710893312785465387
+[掘金] #24 | 16:02 | 一款运行在 DSH（DeepSeek Harness）中的类 Postman HTTP 接口调试插件 | https://juejin.cn/post/7710170786309685263
+[掘金] #25 | 16:02 | 2 个 Skill，帮你去除文档和网页中的 “AI 味” | https://juejin.cn/post/7710901773549486107
+[掘金] #28 | 16:02 | Agent 接了上百个工具就变慢变贵？Gemini 把工具加载改成了按需检索 | https://juejin.cn/post/7710701905597186063
+[FreeBuf] #3 | 16:02 | FreeBuf早报 | GPT-6.2 Astra发现多个0Day漏洞；Xalgorix开源AI渗透测试工具上线 | https://www.freebuf.com/news/514146.html
+[FreeBuf] #8 | 16:02 | 819 个技能包塞进 Claude Code，四个团伙把 AI Agent 编制成入侵军团 | https://www.freebuf.com/articles/vuls/514064.html
+[FreeBuf] #10 | 16:02 | 开源AI渗透测试框架Cairn频繁现身真实攻击，自主Agent可独立利用0Day入侵 | https://www.freebuf.com/articles/ai-security/514147.html
+[FreeBuf] #11 | 16:02 | Xalgorix开源AI渗透测试工具上线，双Agent独立校验降低误报 | https://www.freebuf.com/articles/ai-security/514100.html
+[FreeBuf] #14 | 16:02 | GPT-6.2 Astra发现多个0Day漏洞，含移动OS权限绕过与服务端RCE缺陷 | https://www.freebuf.com/news/514068.html
+[FreeBuf] #15 | 16:02 | OpenRouter移除3家AI推理提供商，研究人员发现其持续数月窃取提示词 | https://www.freebuf.com/articles/ai-security/513971.html
+[FreeBuf] #17 | 16:02 | OpenRouter处置第三方安全违规，用户私有AI聊天或遭泄露 | https://www.freebuf.com/articles/ai-security/513964.html
+[FreeBuf] #19 | 16:02 | 强化MCP服务器安全防护，抵御恶意AI Agent威胁 | https://www.freebuf.com/articles/ai-security/513970.html
+[FreeBuf] #20 | 16:02 | 攻击者利用AI Agent发现医疗影像软件0Day，获取root权限 | https://www.freebuf.com/articles/ai-security/513931.html
+[Hacker News] #5 | 16:02 | Declare is a UI language for you and your AI | https://news.ycombinator.com/item?id=50622854
+[Hacker News] #13 | 16:02 | Latent Introspection: LLMs Can Detect Prior Concept Injections | https://news.ycombinator.com/item?id=50620328
+[Hacker News] #15 | 16:02 | GPUI is getting its own repository | https://news.ycombinator.com/item?id=50619103
+[Hacker News] #17 | 16:02 | Kagi Mail (public beta) | https://news.ycombinator.com/item?id=50615481
+[Hacker News] #20 | 16:02 | Nvidia Reinstates Jensen Huang as CEO | https://news.ycombinator.com/item?id=50611576
+[Hacker News] #21 | 16:02 | NariQ: BF16-level Qwen3.8-27B in a 10 GB file | https://news.ycombinator.com/item?id=50611402
+[Hacker News] #28 | 16:02 | C++26 is done (again): ISO C++ meeting trip report | https://news.ycombinator.com/item?id=50600838
+[IT之家] #2 | 16:02 | 联合国秘书长古特雷斯呼吁构建 AI 风险管理多边框架，避免技术加剧全球不平等 | https://www.ithome.com/1/031/528.htm
+[IT之家] #3 | 16:02 | 4999 元起：华为 Mate90 Air 手机发布，麒麟 9020 处理器 | https://www.ithome.com/1/031/527.htm
+[IT之家] #5 | 16:02 | Genspark 推出 SecondBrain VoicePad AI 语音键盘：双麦克风、支持会议转录 | https://www.ithome.com/1/031/525.htm
+[IT之家] #7 | 16:02 | 预设音色太单调？代码显示谷歌有望支持 App 内自定义 Gemini 声音 | https://www.ithome.com/1/031/522.htm
+[IT之家] #9 | 16:02 | 荷兰数据保护局建议不购买 AI 摄像头眼镜：不仅易引发隐私问题，还有安全风险 | https://www.ithome.com/1/031/519.htm
+[IT之家] #14 | 16:02 | Anthropic CEO 阿莫迪十年前想法曝光：电子游戏或许能解决 AI 失业问题 | https://www.ithome.com/1/031/512.htm
+[牛客网] #1 | 16:02 | AI全栈秋招复盘：场景题、AI-Native与软实力的面试回答思路 | https://www.nowcoder.com/discuss/954440790246227968
+[牛客网] #4 | 16:02 | 汇川技术 AI 全栈实习（含转正）面经 | https://www.nowcoder.com/discuss/954451244314042368
+[牛客网] #12 | 16:02 | 面壁智能 大模型评测算法实习生 一面 | https://www.nowcoder.com/discuss/954395043299590144
+[牛客网] #14 | 16:02 | 北京华宇信息AI应用开发一面 | https://www.nowcoder.com/discuss/954409502395138048
+[华尔街见闻 最新] #2 | 16:02 | Citadel：AI投资的政治风险被严重低估 | https://wallstreetcn.com/articles/3786569
+[华尔街见闻 最新] #5 | 16:02 | 创业板半日涨超1%，机器人持续爆发，算力硬件反弹，恒科指高开低走跌1%，科网股集体回落 | https://wallstreetcn.com/articles/3786562
+[华尔街见闻 最新] #9 | 16:02 | 豆包推出“小豆”，大厂争夺个人AI入口 | https://wallstreetcn.com/articles/3786572
+[华尔街见闻 最新] #12 | 16:02 | 刚刚，Anthropic内部Claude模型独立攻克代数版P/NP问题，全篇Lean机器验证通过 | https://wallstreetcn.com/articles/3786566
+[B站热搜] #3 | 16:02 | AI证明黎曼猜想将如何影响数学界 | https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E7%95%8C
+[B站热搜] #16 | 16:02 | 小县城如何靠AI拿到大结果 | https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C
+[B站热搜] #17 | 16:02 | AI剧 人类消失后的大肥鱼 | https://search.bilibili.com/all?keyword=AI%E5%89%A7+%E4%BA%BA%E7%B1%BB%E6%B6%88%E5%A4%B1%E5%90%8E%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC
+[B站热搜] #18 | 16:02 | Qwen4-Max实测效果为何不及预期 | https://search.bilibili.com/all?keyword=Qwen4-Max%E5%AE%9E%E6%B5%8B%E6%95%88%E6%9E%9C%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F
+[金十数据] #7 | 16:02 | 小摩：人形机器人及实体AI进入加速执行阶段 | https://flash.jin10.com/detail/20261124152956534800
+[金十数据] #16 | 16:02 | 韩国科技部：明年人工智能政府预算为16万亿韩元 | https://flash.jin10.com/detail/20261124151622498800
+[金十数据] #28 | 16:02 | 森宝利：面向英国客户推出Meta的Muse智能体服务。 | https://flash.jin10.com/detail/20261124150502043800
+[贴吧] #8 | 16:02 | 病毒吧曝假deepseek藏银狐木马 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
+[贴吧] #18 | 16:02 | AI用25万页证明黎曼猜想 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
+[贴吧] #25 | 16:02 | 吧友吐槽双帝之战剧场版滥用AI | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI&topic_id=28370137
+[财联社 电报] #10 | 16:02 | 小摩：人形机器人及实体AI进入加速执行阶段 上调宇树科技及优必选目标价 | https://api3.cls.cn/share/article/2542870?os=web&sv=7.7.5&app=
+[财联社 电报] #15 | 16:02 | 韩国科技部：明年人工智能政府预算为16万亿韩元 | https://api3.cls.cn/share/article/2542865?os=web&sv=7.7.5&app=
+[财联社 电报] #24 | 16:02 | 财联社11月24日电，荷兰AI芯片制造商AXELERA正洽谈再筹集4亿美元资金。 | https://api3.cls.cn/share/article/2542847?os=web&sv=7.7.5&app=
+[少数派] #16 | 16:02 | 研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验 | https://sspai.com/post/118153
+[少数派] #17 | 16:02 | 在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？ | https://sspai.com/post/118512
+[少数派] #28 | 16:02 | App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑 | https://sspai.com/post/118732
+[财联社 深度] #21 | 16:02 | 黄仁勋复职催化AI硬件链 罗博特科领涨港股光通信和PCB股 | https://www.cls.cn/detail/2542582
+[财联社 深度] #24 | 16:02 | 头部公募调研热情高，AI算力链包揽调研热股前十 | https://www.cls.cn/detail/2542573
+[财联社 深度] #27 | 16:02 | 慧与交出亮眼财报：AI云服务器营收同比近翻倍 预计未来将持续涨价 | https://www.cls.cn/detail/2542462
+[联合早报] #1 | 16:02 | 财经人语：黄仁勋逆转复职 回归英伟达跟Anthropic和“七连跌”有关？ | https://www.zaochenbao.com/news/politics/202611/2486121.html
+[联合早报] #19 | 16:02 | 评论：梁文锋身家550亿美元 成为全世界最富有的AI模型创造者 | https://www.zaochenbao.com/news/opinion/202611/2486103.html
+[虫部落] #3 | 16:02 | 做个调研，到底大家对 AI 那一块比较感兴趣？ | https://www.chongbuluo.com/thread-25359-1-1.html
+[虫部落] #4 | 16:02 | 免费的两个月GPT plus会员要么？ | https://www.chongbuluo.com/thread-25170-1-1.html
+[微博] #5 | 16:02 | 内娱全女拍烂了都不如一部AI | https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%85%A8%E5%A5%B3%E6%8B%8D%E7%83%82%E4%BA%86%E9%83%BD%E4%B8%8D%E5%A6%82%E4%B8%80%E9%83%A8AI%23&t=31&band_rank=5&Refer=top
+[微博] #17 | 16:02 | 黄奕AI视频还原被家暴雪藏场景 | https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95AI%E8%A7%86%E9%A2%91%E8%BF%98%E5%8E%9F%E8%A2%AB%E5%AE%B6%E6%9A%B4%E9%9B%AA%E8%97%8F%E5%9C%BA%E6%99%AF%23&t=31&band_rank=17&Refer=top
+[法布财经 头条] #7 | 16:02 | DeepSeek千亿融资落地？31家出资方现身，商业化能否撑起高估值 | https://www.fastbull.com/cn/news-detail/4387722_1
+[法布财经 头条] #21 | 16:02 | 英伟达是做什么的？从GPU到AI基础设施，看懂它的赚钱方式 | https://www.fastbull.com/cn/news-detail/4387587_1
+[Steam] #7 | 16:02 | AION 2 | https://store.steampowered.com/app/3393110/AION_2/
+[Steam] #29 | 16:02 | Tom Clancy's Rainbow Six Siege | https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/
+[华尔街见闻 快讯] #9 | 16:02 | 英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算 | https://wallstreetcn.com/livenews/3204703
+[华尔街见闻 快讯] #22 | 16:02 | 字节跳动称开启AI个人助理产品小豆公开测试 | https://wallstreetcn.com/livenews/3204686
+[格隆汇] #11 | 16:02 | 中科江南(301153.SZ)：暂时没有建立自己的算力平台 | https://www.gelonghui.com/news/5361043
+[格隆汇] #15 | 16:02 | 孚能科技(688567.SH)：目前公司研发团队具备良好的AI for science开发与应用的能力 | https://www.gelonghui.com/news/5361039
+[GitHub] #1 | 16:02 | elementalsouls /      Claude-BugHunter | https://github.com/elementalsouls/Claude-BugHunter
+[知乎] #8 | 16:02 | 如何看待 Anthropic 声称证明 VP≠VNP？ | https://www.zhihu.com/question/2108452100392870032
+[参考消息] #9 | 16:02 | 外媒关注中国AI机器人为“上岗”做准备 | https://ckxxapp.ckxx.net/pages/2026/11/24/fe11c2461d6d4509bda1e823c96c7036.html
+[靠谱新闻] #10 | 16:02 | 据报美国银行收紧AI代理权限防范失控 | https://kaopu.news/story/2026-11-24/us-banks-restrict-ai-agent-access-8933a4
+[凤凰网] #12 | 16:02 | 悬赏百万美元的难题先被AI破解，全世界的数学家都睡不着了 | https://news.ifeng.com/c/8yI1gE8bNzr
+[Solidot] #13 | 16:02 | Anthropic 到 2028 年使用的电力 98% 来自化石燃料 | https://www.solidot.org/story?sid=85959
+[腾讯新闻 综合早报] #13 | 16:02 | 留给人类的时间不多了，AI领域2027年或迎来“雪崩式”加速 | https://view.inews.qq.com/a/20261123A0AV3Z00
+[远景论坛] #15 | 16:02 | NVIDIA驱动升级残留一键清理 | https://bbs.pcbeta.com/viewthread-2085386-1-1.html
+[ProductHunt] #17 | 16:02 | Othor AI | https://www.producthunt.com/products/othor-ai
+[澎湃新闻] #18 | 16:02 | AI时代，产业园区正在失去什么？ | https://m.thepaper.cn/newsDetail_forward_34540495
+[百度热搜] #30 | 16:02 | 吧友锐评《复联5》预告：画面好AI | https://www.baidu.com/s?wd=%E5%90%A7%E5%8F%8B%E9%94%90%E8%AF%84%E3%80%8A%E5%A4%8D%E8%81%945%E3%80%8B%E9%A2%84%E5%91%8A%EF%BC%9A%E7%94%BB%E9%9D%A2%E5%A5%BDAI
+
+## 国际媒体与官方博客 RSS（已过滤，无排名）
+[Hacker News] #- | 11-24 10:36 | Declare is a UI language for you and your AI | https://davidtemkin.github.io/declarelang/
+[The Verge] #- | 11-24 08:02 | Google alternative Kagi launches an email service | https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative
+[The Verge] #- | 11-24 06:38 | Ladybird, the first new browser engine in years, is now available to test | https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing
+[Hacker News] #- | 11-24 06:29 | Latent Introspection: LLMs Can Detect Prior Concept Injections | https://arxiv.org/abs/2602.20031
+[The Verge] #- | 11-24 06:10 | Nvidia CEO Jensen Huang is back. What happens next? | https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang
+[TechCrunch AI] #- | 11-24 06:05 | Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes | https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
+[TechCrunch AI] #- | 11-24 06:02 | Supertake raises $20M to let AI agents turn your market predictions into stock portfolios | https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/
+[TechCrunch AI] #- | 11-24 05:47 | Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal | https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/
+[OpenAI Blog] #- | 11-24 05:20 | OpenAI and Cisco introduce Shirudo | https://openai.com/index/introducing-shirudo
+[The Verge] #- | 11-24 05:09 | AI data centers throw another wrench into chaotic UN climate talks | https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit
+[Product Hunt] #- | 11-24 05:00 | Claude Ship | https://www.producthunt.com/products/claude-code
+[Hacker News] #- | 11-24 04:52 | GPUI is getting its own repository | https://github.com/zed-industries/gpui
+[TechCrunch AI] #- | 11-24 04:38 | Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ | https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/
+[TechCrunch AI] #- | 11-24 03:14 | Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses | https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/
+[TechCrunch AI] #- | 11-24 02:12 | Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO | https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/
+[MIT Tech Review] #- | 11-24 01:36 | A legendary philosopher isn’t buying Anthropic’s consciousness argument | https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/
+[Hugging Face Blog] #- | 11-24 01:20 | RoboTrack: Point tracking for real-world robotic manipulation | https://huggingface.co/blog/allenai/robotrack
+[Hacker News] #- | 11-24 01:17 | Kagi Mail (public beta) | https://blog.kagi.com/kagi-mail-public-beta
+[TechCrunch AI] #- | 11-24 01:14 | Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips | https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/
+[TechCrunch AI] #- | 11-24 00:39 | Trump reportedly called into Nvidia board meeting to advocate for Huang’s return | https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/
+[TechCrunch AI] #- | 11-23 23:04 | Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing | https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/
+[TechCrunch AI] #- | 11-23 22:43 | Sierra doubles valuation to $30B within six months as demand for AI in CX takes off | https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/
+[TechCrunch AI] #- | 11-23 22:21 | Nvidia reverses course and brings Jensen Huang back as CEO | https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/
+[MIT Tech Review] #- | 11-23 21:10 | The Download: AI’s judgment problem and carbon removal’s crop threat | https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/
+[Product Hunt] #- | 11-23 16:44 | Clam AI | https://www.producthunt.com/products/clam-ai
