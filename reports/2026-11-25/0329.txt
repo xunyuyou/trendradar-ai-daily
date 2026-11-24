@@ -1,0 +1,157 @@
+# 全球 AI 热点精简数据 2026-11-25 0329 (Asia/Shanghai)
+# 来源: 已按 AI 关键词过滤的报告 | 热榜 121 条 | RSS 29 条
+# 字段: 来源 | 排名 | 时间 | 标题 | 链接
+
+## 热榜（已过滤）
+[AI 热点] #1 | 03:29 | OpenAI Astra 助高中生搜寻 1900 万恒星系外行星 | https://aihot.news/items/kv31irb5beds21rv800f3bwfz
+[AI 热点] #3 | 03:29 | OpenAI 分享两位天文爱好者用 AI 发现系外行星信号 | https://aihot.news/items/zyzlj1f00jgy2vzuyrxanb8lk
+[AI 热点] #4 | 03:29 | GPT-6.2 Astra 用 22 分钟破解 1808 年素描画作者之谜 | https://aihot.news/items/eb9lfibaf8fpouyw0x3vh63st
+[AI 热点] #5 | 03:29 | Amazon Prime Air 无人机在密歇根州撞上光纤和车库，FAA 启动调查 | https://aihot.news/items/xrti6j6e2shyyvhmmb0djqjth
+[AI 热点] #7 | 03:29 | ChatGPT Business 获重置与快速模式 | https://aihot.news/items/pfcfdoo56p8ib66uf7r4pmttv
+[AI 热点] #9 | 03:29 | Epochal 推出 Time Portal 训练智能体 | https://aihot.news/items/zb31qh89lml3l0auybb8hknpl
+[AI 热点] #12 | 03:29 | Anthropic 股价跌破 83 美元 IPO 发行价，上市不到一周最低跌至 76 美元 | https://aihot.news/items/jurm0kx9gczvzp4o14g0o35xo
+[AI 热点] #15 | 03:29 | Anthropic 开发者关系 Ado 祝 MCP 两周年并提醒优先让用户智能体通过 MCP 接入应用 | https://aihot.news/items/hmm66qqziqxsivcdu1pe1y9xo
+[AI 热点] #17 | 03:29 | David Fincher 新片 Cliff Booth 因疑似使用生成式 AI 遭观众质疑 | https://aihot.news/items/sutjyfyt2fxxooyj4x3m4z3hm
+[AI 热点] #18 | 03:29 | Boris Cherny 宣布 MCP 服务器可自带 skills，Claude Code 开箱即知如何使用 | https://aihot.news/items/n42ip1g2zxr7tzaii4pv141fo
+[AI 热点] #19 | 03:29 | Higgsfield 独家上线视频模型 MAGI-2，400B 开源权重即将推出 | https://aihot.news/items/qbf7nivrsjh9uspivkfr78aco
+[AI 热点] #20 | 03:29 | Claude MCP 连接器突破 1 万 | https://aihot.news/items/bue04ydduwel3ztfs3aufi6ea
+[AI 热点] #21 | 03:29 | MCP Tasks 功能进入 GA，服务器长任务不再阻塞 Claude | https://aihot.news/items/y36wcbv7fgmryuaewfctggstx
+[AI 热点] #23 | 03:29 | Claude 推出 Skills over MCP beta，服务器可随工具一同发布 Skills | https://aihot.news/items/wuuxhniiz4x4i7po1f4sb29by
+[AI 热点] #25 | 03:29 | 英国 NCSC 警告 AI 驱动的网络攻击正在暴露多年积累的安全弱点 | https://aihot.news/items/rig6cqk8qhu0ibfye9w6dqvjs
+[AI 热点] #26 | 03:29 | 诺华 CEO：AI 只能把药物研发缩短四年，而非治愈所有疾病 | https://aihot.news/items/iwmzps9w39ga9hvxjcjip0mif
+[AI 热点] #28 | 03:29 | OpenAI o1 联合创造者 Noam Brown 谈博弈论局限与推理模型突破，建议优秀学生辍学加入实验室 | https://aihot.news/items/dilkxbwbc38j56uj3qlfddru3
+[AI 热点] #29 | 03:29 | Amazon 用“冷热气体”模型求解仓库多智能体路径规划 | https://aihot.news/items/de5ueqr99irzaiq5ld9cmt8n0
+[AI 热点] #30 | 03:29 | Tidal 宣布 12 月 9 日起全面封禁纯 AI 生成音乐，将删除 2700 万首曲目 | https://aihot.news/items/m6nnt1i9fb8aw0mp646rukdvc
+[掘金] #4 | 03:29 | 七家中国 AI 公司被控「蒸馏」Claude：模型蒸馏的原理、攻防与争议全解（附一手资料截图） | https://juejin.cn/post/7710853195052990499
+[掘金] #6 | 03:29 | AI 写代码越来越快，程序员为什么反而更累了 | https://juejin.cn/post/7710966014792810515
+[掘金] #8 | 03:29 | A2UI 1.0 详解：让 AI 生成 Flutter 界面，还不怕它乱写 | https://juejin.cn/post/7710647322556547123
+[掘金] #9 | 03:29 | 我把公司内部的 12 个 CRUD 接口交给了 AI Agent，然后省出了两周 | https://juejin.cn/post/7710455506234327080
+[掘金] #13 | 03:29 | workbuddy可以操控电脑！真的太省心了，AI博主利器啊 | https://juejin.cn/post/7710647322555760691
+[掘金] #16 | 03:29 | Gemini 4 Neon+Antigravity，干活真猛啊。 | https://juejin.cn/post/7710893312785465387
+[掘金] #17 | 03:29 | 系统崩了，一屋子人在等 AI 出方案 | https://juejin.cn/post/7711258065815420964
+[掘金] #22 | 03:29 | 2 个 Skill，帮你去除文档和网页中的 “AI 味” | https://juejin.cn/post/7710901773549486107
+[掘金] #24 | 03:29 | Agent 接了上百个工具就变慢变贵？Gemini 把工具加载改成了按需检索 | https://juejin.cn/post/7710701905597186063
+[掘金] #27 | 03:29 | 电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑 | https://juejin.cn/post/7711164513240072192
+[掘金] #30 | 03:29 | 阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年 | https://juejin.cn/post/7711283330075377698
+[MKT新闻] #2 | 03:29 | NVIDIA CEO Jensen Huang admits violating company code of conduct, apologizes to employees | https://mktnews.net/flashDetail.html?id=01a20edd-1793-7bbc-acda-f72533864445
+[MKT新闻] #7 | 03:29 | Shanghai Gold Exchange gold T+D fell 2.17% to 764.78 yuan/g in Tuesday evening trading on Nov. 24, while silver T+D dropped 5.67% to 9,600 yuan/kg. | https://mktnews.net/flashDetail.html?id=01a20ed3-9200-7bbc-acda-cbfef0324b87
+[MKT新闻] #9 | 03:29 | Iranian Supreme National Security Council Secretary Rezaei said Trump and his defeated team’s plan to blockade Iran was as impractical and futile as their failed war strategy. The Iranian people, armed forces and state institutions remain determined to break the blockade and respond with full force to any new aggression. | https://mktnews.net/flashDetail.html?id=01a20ecc-5883-7bbc-acda-b9a2a86120e6
+[MKT新闻] #17 | 03:29 | BOC Governor Macklem: We certainly care about employment. | https://mktnews.net/flashDetail.html?id=01a20ec0-f0d7-7bbc-acda-7fe821928bbb
+[MKT新闻] #20 | 03:29 | BMO expects the BOC to raise rates in December. | https://mktnews.net/flashDetail.html?id=01a20ebe-687d-7bbc-acda-64b7a2e40522
+[MKT新闻] #21 | 03:29 | Yemen’s Houthi movement said Saudi aircraft carried out 72 air and missile strikes on civilian targets in Sanaa and the provinces of Al Jawf, Taiz, Saada, Hodeidah, Ibb and Lahij over the past 24 hours. It said F-15 and Typhoon jets operating from Khamis Mushait and Taif air bases conducted the airstrikes, while the missile attacks originated in Najran. The strikes caused civilian deaths and injuries, it said. The Saudi-led coalition has carried out 5,720 air and missile strikes since the conflict escalated, according to the Houthis. | https://mktnews.net/flashDetail.html?id=01a20ebc-4e30-7bbc-acda-5f7303631809
+[MKT新闻] #22 | 03:29 | The U.S. five-year bond yield remained lower after a $70 billion bond auction, last down 0.95 bps at 4.721%. | https://mktnews.net/flashDetail.html?id=01a20eba-b3fb-7bbc-acda-5762efc5609f
+[MKT新闻] #26 | 03:29 | MCP servers can now use Claude to deliver skills and run tasks. | https://mktnews.net/flashDetail.html?id=01a20eba-2628-7bbc-acda-303af2f3f461
+[MKT新闻] #30 | 03:29 | Ukraine's foreign minister said Putin could end the war if he objected to Ukrainian strikes on Russian refineries or wanted to prevent attacks on Russian warships. Russia has suffered 432,000 battlefield losses this year without moving closer to its invasion goals, he said, adding that Putin appeared not to care about the soldiers and should stop complaining and end the war. | https://mktnews.net/flashDetail.html?id=01a20eb4-52f0-7bbc-acda-11e5917916c8
+[Hacker News] #1 | 03:29 | OpenAI Reveals they solved VP ≠ VNP before Anthropic | https://news.ycombinator.com/item?id=50632756
+[Hacker News] #3 | 03:29 | Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark | https://news.ycombinator.com/item?id=50631210
+[Hacker News] #5 | 03:29 | Weave (YC W25) is hiring ML, AI, product, & design engineers | https://news.ycombinator.com/item?id=50631041
+[Hacker News] #6 | 03:29 | Cyberattack campaign compromising Check Point servers across 22 organizations | https://news.ycombinator.com/item?id=50630594
+[Hacker News] #10 | 03:29 | Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban | https://news.ycombinator.com/item?id=50630245
+[Hacker News] #13 | 03:29 | A training engine for your local model, using your idle compute | https://news.ycombinator.com/item?id=50629231
+[Hacker News] #15 | 03:29 | LLM agents work for their parent companies, not for you | https://news.ycombinator.com/item?id=50627340
+[Hacker News] #26 | 03:29 | Nvidia Reinstates Jensen Huang as CEO | https://news.ycombinator.com/item?id=50611576
+[财联社 深度] #1 | 03:29 | 历时12年的纯人工黎曼猜想证明草稿《素数的音乐》仓促公开 AI浪潮下将迎来什么结局？ | https://www.cls.cn/detail/2543448
+[财联社 深度] #6 | 03:29 | 黄仁勋回归带动日韩芯片股反弹 但AI投资回报仍是悬念 | https://www.cls.cn/detail/2543403
+[财联社 深度] #9 | 03:29 | 美消费电子零售巨头销售增速创五年新高 计算机、AI眼镜需求助力 | https://www.cls.cn/detail/2543382
+[财联社 深度] #10 | 03:29 | 韦德布什首次覆盖Anthropic：给予“跑赢大盘”评级 目标价120美元 | https://www.cls.cn/detail/2543371
+[财联社 深度] #22 | 03:29 | 消息称两大AI巨头员工拉响警报：模型过于强大，或难以公开发布 | https://www.cls.cn/detail/2543264
+[财联社 深度] #25 | 03:29 | 【明日主题前瞻】物理AI发展的关键资源，具身数据领域发展有望提速 | https://www.cls.cn/detail/2542902
+[FreeBuf] #1 | 03:29 | Astelia推出自主网络缓解功能，无需补丁即可拦截AI驱动漏洞利用 | https://www.freebuf.com/articles/ai-security/514332.html
+[FreeBuf] #3 | 03:29 | OpenAI与思科推出AI辅助Linux安全工具，补丁部署前就可以阻断漏洞利用 | https://www.freebuf.com/articles/system/514258.html
+[FreeBuf] #7 | 03:29 | Google Cloud CISO谈Agentic AI安全，展望SOC演进方向 | https://www.freebuf.com/articles/ai-security/514280.html
+[FreeBuf] #11 | 03:29 | FreeBuf早报 | GPT-6.2 Astra发现多个0Day漏洞；Xalgorix开源AI渗透测试工具上线 | https://www.freebuf.com/news/514146.html
+[FreeBuf] #17 | 03:29 | 开源AI渗透测试框架Cairn频繁现身真实攻击，自主Agent可独立利用0Day入侵 | https://www.freebuf.com/articles/ai-security/514147.html
+[FreeBuf] #18 | 03:29 | Xalgorix开源AI渗透测试工具上线，双Agent独立校验降低误报 | https://www.freebuf.com/articles/ai-security/514100.html
+[V2EX] #5 | 03:29 | 利用 AI 开源了一个 macOS 小工具：LocalPeek 。把本机的 Redis、MySQL 和 Web 开发服务收进一个窗口，只读浏览、实时看日志。macOS 免费开源。 | https://www.v2ex.com/t/1259576
+[V2EX] #10 | 03:29 | 开源整理了 304 个 Gemini 4 Argon 做的 3D 场景、互动游戏和网页 Demo（含 JSON 数据集与在线瀑布流） | https://www.v2ex.com/t/1259563
+[V2EX] #16 | 03:29 | [开源] 谛听 diting：抗 FOMO 的 RSS 阅读器，自定义分级 + 日报 + 知识库(LLM Wiki) | https://www.v2ex.com/t/1259553
+[V2EX] #24 | 03:29 | Ai 时代，还想掌握代码是痴心妄想吗？ | https://www.v2ex.com/t/1259519
+[V2EX] #26 | 03:29 | Deskbell：面向桌面零碎问题设计的轻量级 AI 浮窗助手 | https://www.v2ex.com/t/1259514
+[华尔街见闻 最新] #2 | 03:29 | Citadel：AI投资的政治风险被严重低估 | https://wallstreetcn.com/articles/3786569
+[华尔街见闻 最新] #5 | 03:29 | 创业板半日涨超1%，机器人持续爆发，算力硬件反弹，恒科指高开低走跌1%，科网股集体回落 | https://wallstreetcn.com/articles/3786562
+[华尔街见闻 最新] #9 | 03:29 | 豆包推出“小豆”，大厂争夺个人AI入口 | https://wallstreetcn.com/articles/3786572
+[华尔街见闻 最新] #12 | 03:29 | 刚刚，Anthropic内部Claude模型独立攻克代数版P/NP问题，全篇Lean机器验证通过 | https://wallstreetcn.com/articles/3786566
+[知乎] #5 | 03:29 | AI 短剧《丑狐》爆火后引发大量讨论，它能戳中观众的核心原因是什么？ | https://www.zhihu.com/question/2108451365806776772
+[知乎] #7 | 03:29 | 高志凯称欧洲在人工智能发展中的作用几乎是零，这一观点是否站得住脚？ | https://www.zhihu.com/question/2104246988380418941
+[知乎] #9 | 03:29 | 为什么让 AI 随机说一个 1 到 30 之间的数，大部分都会说 17？ | https://www.zhihu.com/question/2078883145160582324
+[知乎] #14 | 03:29 | 华为 Mate 90 Air，作为华为最薄的 Mate 直板机，算不算重新定义 Air 品类的行业标准？ | https://www.zhihu.com/question/2108501789800656927
+[财联社热门] #7 | 03:29 | 【焦点复盘】普涨反弹后市场现放量分歧，个股炸板率超五成，物理AI概念持续火热 | https://www.cls.cn/detail/2543050
+[财联社热门] #10 | 03:29 | 【每日收评】创业板指高开低走小幅收跌，机器人概念股延续强势，算力硬件股显著回落 | https://www.cls.cn/detail/2542971
+[财联社热门] #12 | 03:29 | 一图看懂 | 章建平、葛卫东，闯入“AI世界” | https://www.cls.cn/detail/2543038
+[IT之家] #10 | 03:29 | 华为折叠机外屏伴随式 AI 新交互将至，Mate X8 升级 HarmonyOS 7.0.0.135 可用 | https://www.ithome.com/1/031/886.htm
+[IT之家] #16 | 03:29 | 东擎发布基于英特尔酷睿 Ultra X7 处理器 358H 的整合式物理 AI 开发平台 | https://www.ithome.com/1/031/880.htm
+[IT之家] #20 | 03:29 | “谷歌替代”软件开发方 Kagi 启动电子邮件服务公测 | https://www.ithome.com/1/031/876.htm
+[IT之家] #28 | 03:29 | OpenAI“窃听”案更多细节浮出水面，当事沙特工程师借助 Codex 偷录重要会议 | https://www.ithome.com/1/031/867.htm
+[B站热搜] #14 | 03:29 | AI证明黎曼猜想将如何影响数学界 | https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E7%95%8C
+[B站热搜] #15 | 03:29 | 小县城如何靠AI拿到大结果 | https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C
+[B站热搜] #22 | 03:29 | AI剧 人类消失后的大肥鱼 | https://search.bilibili.com/all?keyword=AI%E5%89%A7+%E4%BA%BA%E7%B1%BB%E6%B6%88%E5%A4%B1%E5%90%8E%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC
+[B站热搜] #23 | 03:29 | Qwen4-Max实测效果为何不及预期 | https://search.bilibili.com/all?keyword=Qwen4-Max%E5%AE%9E%E6%B5%8B%E6%95%88%E6%9E%9C%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F
+[ProductHunt] #3 | 03:29 | Clam AI | https://www.producthunt.com/products/clam-ai
+[ProductHunt] #8 | 03:29 | Claude Ship | https://www.producthunt.com/products/claude-code
+[ProductHunt] #13 | 03:29 | Agenda Hero Magic Labs | https://www.producthunt.com/products/agenda-hero-magic
+[联合早报] #5 | 03:29 | 下午察：向AI敞开心扉 对朋友画地为牢？ | https://www.zaochenbao.com/news/china/202611/2486136.html
+[联合早报] #19 | 03:29 | 财经人语：黄仁勋逆转复职 回归英伟达跟Anthropic和“七连跌”有关？ | https://www.zaochenbao.com/news/politics/202611/2486121.html
+[联合早报] #30 | 03:29 | 评论：梁文锋身家550亿美元 成为全世界最富有的AI模型创造者 | https://www.zaochenbao.com/news/opinion/202611/2486103.html
+[Steam] #6 | 03:29 | AION 2 | https://store.steampowered.com/app/3393110/AION_2/
+[Steam] #21 | 03:29 | Tom Clancy's Rainbow Six Siege | https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/
+[Steam] #30 | 03:29 | ARC Raiders | https://store.steampowered.com/app/1808500/ARC_Raiders/
+[贴吧] #11 | 03:29 | 病毒吧曝假deepseek藏银狐木马 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
+[贴吧] #21 | 03:29 | AI用25万页证明黎曼猜想 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
+[贴吧] #28 | 03:29 | 吧友吐槽双帝之战剧场版滥用AI | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI&topic_id=28370137
+[少数派] #17 | 03:29 | 研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验 | https://sspai.com/post/118153
+[少数派] #18 | 03:29 | 在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？ | https://sspai.com/post/118512
+[少数派] #29 | 03:29 | App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑 | https://sspai.com/post/118732
+[百度热搜] #18 | 03:29 | 换脸还没消停 “AI融脸”又来了 | https://www.baidu.com/s?wd=%E6%8D%A2%E8%84%B8%E8%BF%98%E6%B2%A1%E6%B6%88%E5%81%9C+%E2%80%9CAI%E8%9E%8D%E8%84%B8%E2%80%9D%E5%8F%88%E6%9D%A5%E4%BA%86
+[百度热搜] #26 | 03:29 | Anthropic跌幅扩大至8.5% | https://www.baidu.com/s?wd=Anthropic%E8%B7%8C%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B38.5%25
+[百度热搜] #29 | 03:29 | Anthropic上市5天即破发 | https://www.baidu.com/s?wd=Anthropic%E4%B8%8A%E5%B8%825%E5%A4%A9%E5%8D%B3%E7%A0%B4%E5%8F%91
+[财联社 电报] #21 | 03:29 | Pimco称AI带来的颠覆性风险提升债券吸引力 | https://api3.cls.cn/share/article/2543447?os=web&sv=7.7.5&app=
+[财联社 电报] #22 | 03:29 | 财联社11月25日电，Anthropic股价跌幅扩大至13.6%，市值失守1万亿美元关口。 | https://api3.cls.cn/share/article/2543446?os=web&sv=7.7.5&app=
+[财联社 电报] #25 | 03:29 | 财联社11月24日电，慧与科技CEO表示，随着时间推移，客户实现AI芯片多元化是“自然而然”的。 | https://api3.cls.cn/share/article/2543443?os=web&sv=7.7.5&app=
+[牛客网] #1 | 03:29 | AI全栈秋招复盘：场景题、AI-Native与软实力的面试回答思路 | https://www.nowcoder.com/discuss/954440790246227968
+[牛客网] #10 | 03:29 | 汇川技术 AI 全栈实习（含转正）面经 | https://www.nowcoder.com/discuss/954451244314042368
+[虫部落] #3 | 03:29 | 做个调研，到底大家对 AI 那一块比较感兴趣？ | https://www.chongbuluo.com/thread-25359-1-1.html
+[虫部落] #4 | 03:29 | 免费的两个月GPT plus会员要么？ | https://www.chongbuluo.com/thread-25170-1-1.html
+[法布财经 头条] #7 | 03:29 | DeepSeek千亿融资落地？31家出资方现身，商业化能否撑起高估值 | https://www.fastbull.com/cn/news-detail/4387722_1
+[法布财经 头条] #21 | 03:29 | 英伟达是做什么的？从GPU到AI基础设施，看懂它的赚钱方式 | https://www.fastbull.com/cn/news-detail/4387587_1
+[华尔街见闻 快讯] #9 | 03:29 | 英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算 | https://wallstreetcn.com/livenews/3204703
+[华尔街见闻 快讯] #22 | 03:29 | 字节跳动称开启AI个人助理产品小豆公开测试 | https://wallstreetcn.com/livenews/3204686
+[腾讯新闻 综合早报] #10 | 03:29 | Anthropic、OpenAI员工担忧内部模型过于强大，难以安全发布 | https://view.inews.qq.com/a/20261124A0D8R000
+[腾讯新闻 综合早报] #11 | 03:29 | Anthropic上市5天即破发，2万亿美元估值昙花一现 | https://view.inews.qq.com/a/20261124A0EOF800
+[GitHub] #1 | 03:29 | elementalsouls /      Claude-BugHunter | https://github.com/elementalsouls/Claude-BugHunter
+[雪球] #2 | 03:29 | Anthropic | https://xueqiu.com/s/ANT
+[远景论坛] #3 | 03:29 | NVIDIA GeForce Game Ready 621.40 WHQL（11月24日） | https://bbs.pcbeta.com/viewthread-2085488-1-1.html
+[格隆汇] #6 | 03:29 | 昆仑万维(300418.SZ)：除AI短剧外，公司在AI综艺、AI长剧等新内容品类方向也在探索推进中 | https://www.gelonghui.com/news/5361825
+[Solidot] #9 | 03:29 | Google 申请专利为用户量身定制 AI 电视频道 | https://www.solidot.org/story?sid=85973
+[澎湃新闻] #17 | 03:29 | 知网等平台AI检测被曝算法存疑近一周系统仍未调整：马上测持续追问，平台避而不答 | https://m.thepaper.cn/newsDetail_forward_34548287
+[参考消息] #29 | 03:29 | 外媒关注中国AI机器人为“上岗”做准备 | https://ckxxapp.ckxx.net/pages/2026/11/24/fe11c2461d6d4509bda1e823c96c7036.html
+
+## 国际媒体与官方博客 RSS（已过滤，无排名）
+[Hacker News] #- | 11-25 02:55 | OpenAI reveals they solved VP ≠ VNP before Anthropic | https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026
+[TechCrunch AI] #- | 11-25 02:30 | Anthropic shares fall below IPO price, a worrying sign for AI startups | https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/
+[The Verge] #- | 11-25 02:15 | David Fincher is being dragged for suspected use of AI in his latest film | https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive
+[TechCrunch AI] #- | 11-25 02:02 | UK warns AI-driven cyberattacks are exposing years of weak security | https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/
+[The Verge] #- | 11-25 01:17 | Tidal will start banning AI-generated music next month | https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban
+[Hacker News] #- | 11-25 01:00 | Weave (YC W25) is hiring ML, AI, product, & design engineers | https://jobs.ashbyhq.com/weave-os
+[TechCrunch AI] #- | 11-25 01:00 | Meta brings its Muse AI assistant directly into Instagram DMs | https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/
+[TechCrunch AI] #- | 11-25 00:46 | Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming | https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/
+[Hacker News] #- | 11-25 00:45 | Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not? | https://news.ycombinator.com/item?id=50630809
+[The Verge] #- | 11-25 00:37 | US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia | https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list
+[Hacker News] #- | 11-25 00:32 | Active Intrusion Campaign Against Check Point Security Management Servers | https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign
+[The Verge] #- | 11-25 00:30 | Jensen Huang deepfakes are the hot new AI slop | https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes
+[TechCrunch AI] #- | 11-25 00:10 | Why a Crusoe investor is betting on solar and batteries to power future AI data centers | https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/
+[The Verge] #- | 11-25 00:09 | The New York Times warns photographers not to update Photoshop over AI features | https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
+[Hacker News] #- | 11-25 00:08 | Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban | https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/
+[TechCrunch AI] #- | 11-25 00:02 | Pinterest will now let parents limit the AI-generated content their teens see | https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/
+[TechCrunch AI] #- | 11-24 23:51 | Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia | https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/
+[MIT Tech Review] #- | 11-24 23:15 | Raising the stakes for enterprise networks with AI modernization | https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/
+[Hacker News] #- | 11-24 23:03 | A training engine for your local model, using your idle compute | https://github.com/sous-labs/songe
+[Hacker News] #- | 11-24 21:23 | Anthropic breaks below $83 IPO price | https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading
+[MIT Tech Review] #- | 11-24 21:10 | The Download: AI’s gas power boom and a consciousness reality check | https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/
+[Hacker News] #- | 11-24 20:40 | LLM agents work for their parent companies, not for you | https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/
+[Product Hunt] #- | 11-24 14:26 | Agenda Hero Magic Labs | https://www.producthunt.com/products/agenda-hero-magic
+[TechCrunch AI] #- | 11-24 06:05 | Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes | https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
+[TechCrunch AI] #- | 11-24 06:02 | Supertake raises $20M to let AI agents turn your market predictions into stock portfolios | https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/
+[TechCrunch AI] #- | 11-24 05:47 | Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal | https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/
+[OpenAI Blog] #- | 11-24 05:20 | OpenAI and Cisco introduce Shirudo | https://openai.com/index/introducing-shirudo
+[Product Hunt] #- | 11-24 05:00 | Claude Ship | https://www.producthunt.com/products/claude-code
+[TechCrunch AI] #- | 11-24 04:38 | Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ | https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/
