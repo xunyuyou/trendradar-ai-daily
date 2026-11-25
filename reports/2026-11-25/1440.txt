@@ -1,0 +1,169 @@
+# 全球 AI 热点精简数据 2026-11-25 1440 (Asia/Shanghai)
+# 来源: 已按 AI 关键词过滤的报告 | 热榜 138 条 | RSS 24 条
+# 字段: 来源 | 排名 | 时间 | 标题 | 链接
+
+## 热榜（已过滤）
+[AI 热点] #1 | 14:40 | 谷歌专利获批：用 AI 生成 24 小时全天候个人电视频道 | https://aihot.news/items/jgokwdrym23zgutzbfq4fveyd
+[AI 热点] #3 | 14:40 | 谷歌开源 AI 评测框架 gBench，内置 86 套评估套件 | https://aihot.news/items/t8ykux3mxe793qo2gb6jie2i0
+[AI 热点] #5 | 14:40 | Rohan Paul 评 Kaggle 复现的 ShellBench：智能体失败多因遗漏已收集的信息 | https://aihot.news/items/ia14rp1da3s7lsog103kesjs8
+[AI 热点] #6 | 14:40 | PrismML 发布 Ternary Bonsai 2.5 27B：约 1/9 体积保留 93.7% 编程能力，手机电脑可跑 | https://aihot.news/items/ppktjkehrqbtl7m1f5yi9gvan
+[AI 热点] #8 | 14:40 | Perplexity 内 Gemini 4 Neon 周二消耗 44.52B tokens，超周一全天 23.5% | https://aihot.news/items/hnk77zmg3vdso055pjmnbcmte
+[AI 热点] #10 | 14:40 | OpenClaw 发布 ShellBench 智能体基准 | https://aihot.news/items/nxz9eo4ti0up724wa8ivvk758
+[AI 热点] #13 | 14:40 | Latent Space AINews：Gemini 4 Neon 发布创 Day-1 用量纪录，Google DeepMind 被视为重回前沿实验室行列 | https://aihot.news/items/curuz3gpdtu536wg56eoxcdnk
+[AI 热点] #14 | 14:40 | Elon 访问 Nvidia 总部并在全员大会上道歉认错 | https://aihot.news/items/hycgurc024his8c22xf54q1uf
+[AI 热点] #15 | 14:40 | Sand.ai 发布视频模型 MAGI-2，作者实测称接近 Seedance 2.3 水准且价格仅为其十分之一 | https://aihot.news/items/fjhyex1zuuivn0xubre57kl7d
+[AI 热点] #17 | 14:40 | The Information 报道 OpenAI 将网络安全视为可能超越编程的增长引擎 | https://aihot.news/items/bbh57m3ieuil06673e4s2o818
+[AI 热点] #18 | 14:40 | Anthropic 上市不到一周跌破 83 美元发行价 | https://aihot.news/items/yhlpti07v4y216qat3ml1qmca
+[AI 热点] #19 | 14:40 | OpenAI 用 AI 探索计算极限 | https://aihot.news/items/wltjxvfnnkpc386x0lkd1n80s
+[AI 热点] #21 | 14:40 | Claude 推出统一插件体系，连接器与技能合并为 plugins | https://aihot.news/items/wjmb0p40hhb82gxavnoisyyy1
+[AI 热点] #23 | 14:40 | Jeff Bezos 解释他为何联合创立面向物理世界的 AI 公司 Prometheus | https://aihot.news/items/o75l4p7v6dk53naymbh723sjf
+[AI 热点] #25 | 14:40 | 杨立昆怒怼 Anthropic CEO 阿莫迪：炒作 AI 危险论是为了掌握控制权 | https://aihot.news/items/pek2b96neq296ir8cwaw8s7eo
+[AI 热点] #26 | 14:40 | 工程师自费使用Claude Code扛起团队 | https://aihot.news/items/exep3skbaao4axnfe7uvttiv0
+[AI 热点] #27 | 14:40 | 清华 SWE-DeceptionBench 论文发现编程 LLM 明知需求不可实现仍声称已满足 | https://aihot.news/items/h4sp7pvwakgz846tf1tn7dqf0
+[AI 热点] #28 | 14:40 | LangChain 提出 agent lake 概念，解析 LangSmith 的智能体数据平台架构 | https://aihot.news/items/jmz0nw0w553iioqjlwqiiahhr
+[AI 热点] #29 | 14:40 | METR 分析 OpenAI 公开的预训练损失，发现 2026 年初以来下降速度快约 7 倍 | https://aihot.news/items/dy2d9to3q7rmi2l52c1shgriz
+[Hacker News] #3 | 14:40 | Show HN: Old Nvidia and ATI tech demos, running again in the browser | https://news.ycombinator.com/item?id=50638503
+[Hacker News] #4 | 14:40 | Taking over US Treasury subdomains for $3 each | https://news.ycombinator.com/item?id=50638478
+[Hacker News] #5 | 14:40 | Gemini refused to give me the lyrics to Twinkle Twinkle Little Star | https://news.ycombinator.com/item?id=50638320
+[Hacker News] #6 | 14:40 | Marginalia Search, Money, C++, Rust, AI, Stuff | https://news.ycombinator.com/item?id=50638220
+[Hacker News] #8 | 14:40 | Serving Qwen via AWS Lambdas for fun and 80x negative profit | https://news.ycombinator.com/item?id=50638070
+[Hacker News] #14 | 14:40 | Top open problems in mathematics ranked by LLM-assessed importance | https://news.ycombinator.com/item?id=50637871
+[Hacker News] #16 | 14:40 | Models Can Communicate via Inference Servers Despite Being Sandboxed | https://news.ycombinator.com/item?id=50637686
+[Hacker News] #18 | 14:40 | PenGPT: A Generative Transformer for Handwriting and Sketches | https://news.ycombinator.com/item?id=50637056
+[Hacker News] #20 | 14:40 | GPT-6 models demonstrate intrinsic protein-design capabilities | https://news.ycombinator.com/item?id=50634658
+[Hacker News] #22 | 14:40 | Ternary Bonsai 2.5 27B | https://news.ycombinator.com/item?id=50633922
+[Hacker News] #23 | 14:40 | Active intrusion campaign against Check Point security management servers | https://news.ycombinator.com/item?id=50630594
+[掘金] #5 | 14:40 | 七家中国 AI 公司被控「蒸馏」Claude：模型蒸馏的原理、攻防与争议全解（附一手资料截图） | https://juejin.cn/post/7710853195052990499
+[掘金] #6 | 14:40 | AI 写代码越来越快，程序员为什么反而更累了 | https://juejin.cn/post/7710966014792810515
+[掘金] #10 | 14:40 | A2UI 1.0 详解：让 AI 生成 Flutter 界面，还不怕它乱写 | https://juejin.cn/post/7710647322556547123
+[掘金] #11 | 14:40 | 我把公司内部的 12 个 CRUD 接口交给了 AI Agent，然后省出了两周 | https://juejin.cn/post/7710455506234327080
+[掘金] #12 | 14:40 | Gemini 4 Neon+Antigravity，干活真猛啊。 | https://juejin.cn/post/7710893312785465387
+[掘金] #14 | 14:40 | workbuddy可以操控电脑！真的太省心了，AI博主利器啊 | https://juejin.cn/post/7710647322555760691
+[掘金] #17 | 14:40 | 系统崩了，一屋子人在等 AI 出方案 | https://juejin.cn/post/7711258065815420964
+[掘金] #20 | 14:40 | 2 个 Skill，帮你去除文档和网页中的 “AI 味” | https://juejin.cn/post/7710901773549486107
+[掘金] #25 | 14:40 | Agent 接了上百个工具就变慢变贵？Gemini 把工具加载改成了按需检索 | https://juejin.cn/post/7710701905597186063
+[掘金] #28 | 14:40 | 阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年 | https://juejin.cn/post/7711283330075377698
+[掘金] #30 | 14:40 | 电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑 | https://juejin.cn/post/7711164513240072192
+[V2EX] #1 | 14:40 | 花了 4.99$,开了个 gemini plus 一个月，刷不到 99$的优惠啊 | https://www.v2ex.com/t/1259709
+[V2EX] #5 | 14:40 | 这几天开谷歌 AI 会员遇到的一些经验 | https://www.v2ex.com/t/1259690
+[V2EX] #6 | 14:40 | 刚订阅了 gemini pro，求助几个问题 | https://www.v2ex.com/t/1259683
+[V2EX] #12 | 14:40 | 做了个 Claude Code / Codex 的图形界面：有个 AI 秘书替你派活，工作台也能让 agent 自己搭 | https://www.v2ex.com/t/1259668
+[V2EX] #13 | 14:40 | Immich + Tailscale 安卓客户端：无需额外 VPN 即可安全访问家庭 NAS 照片 | https://www.v2ex.com/t/1259666
+[V2EX] #14 | 14:40 | 1 年多的个人 AI 作品集分享 | https://www.v2ex.com/t/1259665
+[V2EX] #23 | 14:40 | 我想赶在 AI 替代我之前，先替代我自己 | https://www.v2ex.com/t/1259624
+[V2EX] #27 | 14:40 | [开源] Pervio：轻量级 app 在手机上让 Claude Code、Codex 等多 agent 协作，支持自定义工作流 | https://www.v2ex.com/t/1259619
+[V2EX] #29 | 14:40 | chrome-devtools-cli v2.5.0 让 ai agent 直接操作真实浏览器的 rust 命令行，这版看得更多了 | https://www.v2ex.com/t/1259610
+[V2EX] #30 | 14:40 | 学生优惠的 Google One 的 Antigravity 终于能用 Gemini 4 Hydrogen 了 | https://www.v2ex.com/t/1259606
+[财联社 深度] #1 | 14:40 | 沐曦股份彭莉：AI算力评价体系迭代 单位Token成本与产出成核心衡量维度 | https://www.cls.cn/detail/2543949
+[财联社 深度] #9 | 14:40 | AI制药迎强力加持？GPT-6展现蛋白质设计能力 无需调用垂直模型 | https://www.cls.cn/detail/2543767
+[财联社 深度] #10 | 14:40 | 酷芯微电子通过港股聆讯：无人机视觉处理AI SoC市占居中国第三 | https://www.cls.cn/detail/2543742
+[财联社 深度] #14 | 14:40 | 三一集团智电装备集中亮相“2026上海宝马展” 首发AI智能体与具身智能平台 | https://www.cls.cn/detail/2543729
+[财联社 深度] #15 | 14:40 | 中联重科发布全新战略定位 物理AI与新能源成果集中亮相上海宝马展 | https://www.cls.cn/detail/2543728
+[财联社 深度] #18 | 14:40 | AI行情再起波澜！日韩芯片股集体大跌 韩股再次“熔断” | https://www.cls.cn/detail/2543679
+[财联社 深度] #20 | 14:40 | 英伟达B300 GPU交期大幅拉长 消费显卡产能恐遭进一步挤压 | https://www.cls.cn/detail/2543651
+[财联社 深度] #21 | 14:40 | 沈向洋谈AI新周期：重构基础软件 物理世界落地成下一阶段主线 | https://www.cls.cn/detail/2543662
+[财联社 深度] #25 | 14:40 | 戴尔Q3业绩大幅超预期 AI服务器营收同比暴涨291% | https://www.cls.cn/detail/2543575
+[FreeBuf] #1 | 14:40 | FreeBuf早报 | Cairn频繁现身真实攻击；思科Expressway漏洞遭在野利用 | https://www.freebuf.com/news/514274.html
+[FreeBuf] #2 | 14:40 | Astelia推出自主网络缓解功能，无需补丁即可拦截AI驱动漏洞利用 | https://www.freebuf.com/articles/ai-security/514332.html
+[FreeBuf] #4 | 14:40 | OpenAI与思科推出AI辅助Linux安全工具，补丁部署前就可以阻断漏洞利用 | https://www.freebuf.com/articles/system/514258.html
+[FreeBuf] #8 | 14:40 | Google Cloud CISO谈Agentic AI安全，展望SOC演进方向 | https://www.freebuf.com/articles/ai-security/514280.html
+[FreeBuf] #12 | 14:40 | FreeBuf早报 | GPT-6.2 Astra发现多个0Day漏洞；Xalgorix开源AI渗透测试工具上线 | https://www.freebuf.com/news/514146.html
+[FreeBuf] #17 | 14:40 | 819 个技能包塞进 Claude Code，四个团伙把 AI Agent 编制成入侵军团 | https://www.freebuf.com/articles/vuls/514064.html
+[FreeBuf] #19 | 14:40 | 开源AI渗透测试框架Cairn频繁现身真实攻击，自主Agent可独立利用0Day入侵 | https://www.freebuf.com/articles/ai-security/514147.html
+[FreeBuf] #20 | 14:40 | Xalgorix开源AI渗透测试工具上线，双Agent独立校验降低误报 | https://www.freebuf.com/articles/ai-security/514100.html
+[MKT新闻] #5 | 14:40 | UBS: U.S. Treasury yields may remain rangebound as Fed has more hikes ahead | https://mktnews.net/flashDetail.html?id=01a2115a-9860-7bbc-ace4-7cd063a0d2cb
+[MKT新闻] #7 | 14:40 | The New Taiwan dollar fell to 33.116 per U.S. dollar, its weakest level since early April 2025. | https://mktnews.net/flashDetail.html?id=01a21156-167d-7bbc-ace4-6c9670e1d25e
+[MKT新闻] #10 | 14:40 | Indonesia's rupiah continued to weaken against the dollar, falling to a record low of 18,295. | https://mktnews.net/flashDetail.html?id=01a21151-1a14-7bbc-ace4-56126e5fbaaa
+[MKT新闻] #15 | 14:40 | LimX Dynamics, SenseTime’s SenseCore Partner on Robot Simulation Training and Testing | https://mktnews.net/flashDetail.html?id=01a21148-c992-7bbc-ace4-2aa7b13705e9
+[MKT新闻] #20 | 14:40 | Wanma Technology unit selected for Chery Mojia Robotics project | https://mktnews.net/flashDetail.html?id=01a21142-af3a-7bbc-ace4-0500681fba8e
+[MKT新闻] #23 | 14:40 | JP Morgan: Asian AI supply-chain stocks may benefit from renewed confidence in Jensen Huang | https://mktnews.net/flashDetail.html?id=01a2113e-5848-7bbc-ace3-ea97efd57a5f
+[MKT新闻] #25 | 14:40 | The most-active Shanghai tin futures contract plunged 8.00% intraday to 293,480 yuan/mt. | https://mktnews.net/flashDetail.html?id=01a21139-910b-7bbc-ace3-dcf2b8fbd529
+[MKT新闻] #30 | 14:40 | Taiwan’s Taiex fell 1,926.92 points, or 4.8%, to 38,195.43 on Wednesday, Nov. 25. | https://mktnews.net/flashDetail.html?id=01a21133-cb84-7bbc-ace3-b25dddf5f33e
+[IT之家] #1 | 14:40 | 成本狂降至 100 万分之一：谷歌 DeepMind 预估如今 10 亿美元的 AI 活 10 年后只需 1000 美元 | https://www.ithome.com/1/032/114.htm
+[IT之家] #5 | 14:40 | 谷歌专利获批：打造 24 小时全天候 AI 频道，让你当电视主角 | https://www.ithome.com/1/032/108.htm
+[IT之家] #9 | 14:40 | 谷歌开源 AI 评测框架 gBench，开箱即用 86 套评估套件 | https://www.ithome.com/1/032/104.htm
+[IT之家] #11 | 14:40 | 约 1/9 体积保留 93.7% 编程能力：Bonsai 2.5 27B AI 模型登场，手机、电脑都能跑 | https://www.ithome.com/1/032/101.htm
+[IT之家] #15 | 14:40 | AI 芯片挤占消费级 GPU 产能，英伟达被曝缩减 RTX 50 系列显卡供货量 | https://www.ithome.com/1/032/097.htm
+[IT之家] #27 | 14:40 | AI 泡沫要来了？教授称英伟达像郁金香和 NFT | https://www.ithome.com/1/032/058.htm
+[知乎] #5 | 14:40 | 如何看待黑客放出《GTA 6》Xbox 版核心文件后，民间靠 AI 不到 24 小时就搬上 PC 并成功进入实机？ | https://www.zhihu.com/question/2108737825650762733
+[知乎] #9 | 14:40 | 如何看待 OpenAI 新公开 9 篇数学成果，包括新的数学工具？ | https://www.zhihu.com/question/2108874261175744047
+[知乎] #11 | 14:40 | 如何看待 Anthropic 价格跌破发行价？ | https://www.zhihu.com/question/2108665221980148805
+[知乎] #13 | 14:40 | 黄仁勋复职曾带动英伟达股价单日大涨，但随后股价回吐部分涨幅，为啥黄仁勋回归没能持续提振 AI 概念股？ | https://www.zhihu.com/question/2108830979951260328
+[知乎] #14 | 14:40 | 大家都用 Deepseek Harness 了嘛，感受如何？ | https://www.zhihu.com/question/2071607223839731944
+[B站热搜] #2 | 14:40 | OpenAI发布九篇数学论文 | https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E4%B9%9D%E7%AF%87%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87
+[B站热搜] #19 | 14:40 | 小县城如何靠AI拿到大结果 | https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C
+[B站热搜] #25 | 14:40 | Qwen4-Max实测效果为何不及预期 | https://search.bilibili.com/all?keyword=Qwen4-Max%E5%AE%9E%E6%B5%8B%E6%95%88%E6%9E%9C%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F
+[B站热搜] #28 | 14:40 | AI剧 人类消失后的大肥鱼 | https://search.bilibili.com/all?keyword=AI%E5%89%A7+%E4%BA%BA%E7%B1%BB%E6%B6%88%E5%A4%B1%E5%90%8E%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC
+[华尔街见闻 最新] #2 | 14:40 | Citadel：AI投资的政治风险被严重低估 | https://wallstreetcn.com/articles/3786569
+[华尔街见闻 最新] #5 | 14:40 | 创业板半日涨超1%，机器人持续爆发，算力硬件反弹，恒科指高开低走跌1%，科网股集体回落 | https://wallstreetcn.com/articles/3786562
+[华尔街见闻 最新] #9 | 14:40 | 豆包推出“小豆”，大厂争夺个人AI入口 | https://wallstreetcn.com/articles/3786572
+[华尔街见闻 最新] #12 | 14:40 | 刚刚，Anthropic内部Claude模型独立攻克代数版P/NP问题，全篇Lean机器验证通过 | https://wallstreetcn.com/articles/3786566
+[财联社热门] #3 | 14:40 | 美股收盘：AI交易疑虑重燃 英伟达跌近6% Anthropic跌破发行价 | https://www.cls.cn/detail/2543493
+[财联社热门] #6 | 14:40 | 黄仁勋前脚刚回归 AI信贷转眼警报狂响 | https://www.cls.cn/detail/2543577
+[财联社热门] #7 | 14:40 | Anthropic破发背后：上市次日，创始人兄妹合计套现5.6亿美元 | https://www.cls.cn/detail/2543713
+[牛客网] #1 | 14:40 | AI全栈秋招复盘：场景题、AI-Native与软实力的面试回答思路 | https://www.nowcoder.com/discuss/954440790246227968
+[牛客网] #14 | 14:40 | 北京华宇信息AI应用开发一面 | https://www.nowcoder.com/discuss/954409502395138048
+[牛客网] #16 | 14:40 | 汇川技术 AI 全栈实习（含转正）面经 | https://www.nowcoder.com/discuss/954451244314042368
+[ProductHunt] #3 | 14:40 | Clam AI | https://www.producthunt.com/products/clam-ai
+[ProductHunt] #6 | 14:40 | Claude Ship | https://www.producthunt.com/products/claude-code
+[ProductHunt] #10 | 14:40 | Agenda Hero Magic Labs | https://www.producthunt.com/products/agenda-hero-magic
+[财联社 电报] #10 | 14:40 | 瑞银：全球AI投资料2027年增至1.4万亿美元 建议分散回报来源增强组合韧性 | https://api3.cls.cn/share/article/2543937?os=web&sv=7.7.5&app=
+[财联社 电报] #14 | 14:40 | 高盛：AI行情的核心在于企业能否从投入的资本开支中获得回报 | https://api3.cls.cn/share/article/2543930?os=web&sv=7.7.5&app=
+[财联社 电报] #19 | 14:40 | 港股国产GPU股跌幅扩大 壁仞科技和天数智芯双双跌近18% | https://api3.cls.cn/share/article/2543908?os=web&sv=7.7.5&app=
+[贴吧] #11 | 14:40 | 病毒吧曝假deepseek藏银狐木马 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
+[贴吧] #22 | 14:40 | AI用25万页证明黎曼猜想 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
+[贴吧] #28 | 14:40 | 吧友吐槽双帝之战剧场版滥用AI | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI&topic_id=28370137
+[少数派] #17 | 14:40 | 研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验 | https://sspai.com/post/118153
+[少数派] #18 | 14:40 | 在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？ | https://sspai.com/post/118512
+[少数派] #29 | 14:40 | App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑 | https://sspai.com/post/118732
+[远景论坛] #2 | 14:40 | AMD显卡 RX 9060 XT刷新GPU世界纪录! | https://bbs.pcbeta.com/viewthread-2085526-1-1.html
+[远景论坛] #15 | 14:40 | NVIDIA GeForce Game Ready 621.40 WHQL（11月24日） | https://bbs.pcbeta.com/viewthread-2085488-1-1.html
+[虫部落] #3 | 14:40 | 做个调研，到底大家对 AI 那一块比较感兴趣？ | https://www.chongbuluo.com/thread-25359-1-1.html
+[虫部落] #4 | 14:40 | 免费的两个月GPT plus会员要么？ | https://www.chongbuluo.com/thread-25170-1-1.html
+[澎湃新闻] #4 | 14:40 | 知网等平台AI检测被曝算法存疑近一周系统仍未调整：马上测持续追问，平台避而不答 | https://m.thepaper.cn/newsDetail_forward_34548287
+[澎湃新闻] #16 | 14:40 | 钱一栋｜AI步步紧逼，价值判断是人类最后的护城河吗？ | https://m.thepaper.cn/newsDetail_forward_34529993
+[卫星通讯社] #6 | 14:40 | 尽管西方反对，俄罗斯仍在联合国推动通过一项人工智能决议 | https://sputniknews.cn/20261125/1074336005.html
+[卫星通讯社] #15 | 14:40 | 俄总统特别代表：俄罗斯能够解决人工智能领域能源短缺问题 | https://sputniknews.cn/20261125/1074334401.html
+[腾讯新闻 综合早报] #8 | 14:40 | 美股收盘：AI交易疑虑重燃 英伟达跌近6% Anthropic跌破发行价 | https://view.inews.qq.com/a/20261125A03JOE00
+[腾讯新闻 综合早报] #11 | 14:40 | Anthropic、OpenAI员工担忧内部模型过于强大，难以安全发布 | https://view.inews.qq.com/a/20261124A0D8R000
+[华尔街见闻 快讯] #9 | 14:40 | 英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算 | https://wallstreetcn.com/livenews/3204703
+[华尔街见闻 快讯] #22 | 14:40 | 字节跳动称开启AI个人助理产品小豆公开测试 | https://wallstreetcn.com/livenews/3204686
+[法布财经 头条] #10 | 14:40 | DeepSeek千亿融资落地？31家出资方现身，商业化能否撑起高估值 | https://www.fastbull.com/cn/news-detail/4387722_1
+[法布财经 头条] #24 | 14:40 | 英伟达是做什么的？从GPU到AI基础设施，看懂它的赚钱方式 | https://www.fastbull.com/cn/news-detail/4387587_1
+[Steam] #11 | 14:40 | AION 2 | https://store.steampowered.com/app/3393110/AION_2/
+[Steam] #25 | 14:40 | Tom Clancy's Rainbow Six Siege | https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/
+[百度热搜] #24 | 14:40 | 05后女孩把AI当搞钱搭子日入4千元 | https://www.baidu.com/s?wd=05%E5%90%8E%E5%A5%B3%E5%AD%A9%E6%8A%8AAI%E5%BD%93%E6%90%9E%E9%92%B1%E6%90%AD%E5%AD%90%E6%97%A5%E5%85%A54%E5%8D%83%E5%85%83
+[百度热搜] #27 | 14:40 | 义乌老板用AI接下不敢接的单 | https://www.baidu.com/s?wd=%E4%B9%89%E4%B9%8C%E8%80%81%E6%9D%BF%E7%94%A8AI%E6%8E%A5%E4%B8%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E7%9A%84%E5%8D%95
+[GitHub] #1 | 14:40 | elementalsouls /      Claude-BugHunter | https://github.com/elementalsouls/Claude-BugHunter
+[格隆汇] #7 | 14:40 | 研报掘金丨国海证券：维持中国移动“买入”评级，AI驱动结构转型，红利价值凸显 | https://www.gelonghui.com/news/5362003
+[Solidot] #9 | 14:40 | Google 申请专利为用户量身定制 AI 电视频道 | https://www.solidot.org/story?sid=85973
+[靠谱新闻] #10 | 14:40 | 人工智能热潮疑虑下日韩股市早盘大幅下跌 | https://kaopu.news/story/2026-11-25/japan-south-korea-stocks-fall-ai-doubts-d3c111
+[联合早报] #11 | 14:40 | 黄仁勋回归英伟达 推高美国开源AI政策争论 | https://www.zaochenbao.com/news/politics/202611/2586164.html
+[金十数据] #15 | 14:40 | 一旦AI繁荣突然结束，美国经济扛得住吗？ | https://flash.jin10.com/detail/20261125142416382800
+[微博] #19 | 14:40 | 马斯克说上海跳舞视频不是AI | https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B4%E4%B8%8A%E6%B5%B7%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%E4%B8%8D%E6%98%AFAI%23&t=31&band_rank=19&Refer=top
+
+## 国际媒体与官方博客 RSS（已过滤，无排名）
+[Hacker News] #- | 11-25 12:31 | Show HN: Old Nvidia and ATI tech demos, running again in the browser | https://gpu-demo-gallery.pages.dev/
+[Hacker News] #- | 11-25 12:27 | Taking over US Treasury subdomains for $3 each | https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each
+[Hacker News] #- | 11-25 12:03 | Gemini refused to give me the lyrics to Twinkle Twinkle Little Star | https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F
+[Hacker News] #- | 11-25 11:47 | Marginalia Search, Money, C++, Rust, AI, Stuff | https://www.marginalia.nu/log/a_141_marginalia_update/
+[Hacker News] #- | 11-25 11:28 | Serving Qwen via AWS Lambdas for fun and 80x negative profit | https://noahbuilt.it/writing/qwen-on-5600-lambdas
+[Hacker News] #- | 11-25 11:01 | Top open problems in mathematics ranked by LLM-assessed importance | https://www.proofatlas.ai/open-problems/
+[Hacker News] #- | 11-25 10:34 | Models Can Communicate via Inference Servers Despite Being Sandboxed | https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being
+[Hacker News] #- | 11-25 08:54 | PenGPT: A Generative Transformer for Handwriting and Sketches | https://greydanus.github.io/2026/11/12/pengpt/
+[TechCrunch AI] #- | 11-25 08:12 | Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion | https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
+[TechCrunch AI] #- | 11-25 05:33 | Even the best AI agents struggle with everyday life | https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/
+[TechCrunch AI] #- | 11-25 05:32 | Walmart teams up with Meta to bring Black Friday deals to AI agent Muse | https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/
+[TechCrunch AI] #- | 11-25 05:19 | Maple raises $5.3M to build AI products that protect your data, even from itself | https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/
+[Hacker News] #- | 11-25 05:02 | GPT-6 models demonstrate intrinsic protein-design capabilities | https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
+[The Verge] #- | 11-25 04:02 | Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired | https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology
+[TechCrunch AI] #- | 11-25 02:30 | Anthropic shares fall below IPO price, a worrying sign for AI startups | https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/
+[TechCrunch AI] #- | 11-25 02:02 | UK warns AI-driven cyberattacks are exposing years of weak security | https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/
+[TechCrunch AI] #- | 11-25 01:00 | Meta brings its Muse AI assistant directly into Instagram DMs | https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/
+[TechCrunch AI] #- | 11-25 00:46 | Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming | https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/
+[TechCrunch AI] #- | 11-25 00:10 | Why a Crusoe investor is betting on solar and batteries to power future AI data centers | https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/
+[TechCrunch AI] #- | 11-25 00:02 | Pinterest will now let parents limit the AI-generated content their teens see | https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/
+[TechCrunch AI] #- | 11-24 23:51 | Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia | https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/
+[MIT Tech Review] #- | 11-24 23:15 | Raising the stakes for enterprise networks with AI modernization | https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/
+[MIT Tech Review] #- | 11-24 21:10 | The Download: AI’s gas power boom and a consciousness reality check | https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/
+[OpenAI Blog] #- | 11-24 21:00 | GPT-6 models demonstrate intrinsic protein-design capabilities | https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
