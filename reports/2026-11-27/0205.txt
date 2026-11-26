@@ -1,0 +1,142 @@
+# 全球 AI 热点精简数据 2026-11-27 0205 (Asia/Shanghai)
+# 来源: 已按 AI 关键词过滤的报告 | 热榜 111 条 | RSS 24 条
+# 字段: 来源 | 排名 | 时间 | 标题 | 链接
+
+## 热榜（已过滤）
+[AI 热点] #1 | 02:05 | OpenAI 修复 GPT-6.2 计费错误后用户额度消耗加快 | https://aihot.news/items/lk9a23znjvexu4h331w0cvnkq
+[AI 热点] #2 | 02:05 | Anthropic 用 Rust 重写 Messages API | https://aihot.news/items/zz0t0dte9yiq3rerhpesxj5hn
+[AI 热点] #3 | 02:05 | Anthropic 提醒 Claude Max 和 Team 订阅附带月度 API 额度可领取 | https://aihot.news/items/yxksz2trwbewm9oxz0h9g3nwp
+[AI 热点] #4 | 02:05 | OpenRouter 谈 LLM 使用价格弹性下降 | https://aihot.news/items/o02k0lqprlr4s2sg8aqkze7bl
+[AI 热点] #6 | 02:05 | Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图 | https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj
+[AI 热点] #7 | 02:05 | Krea 发布 AI 动态图形编辑器 Krea Motion 并免费开放 | https://aihot.news/items/tec46ore7plhh78mf2c4kbfeo
+[AI 热点] #9 | 02:05 | TechCrunch 评论：Anthropic IPO 同周，GTA VI 展示效率未必是美德 | https://aihot.news/items/b1zff9dlfo30renglnfd5ub87
+[AI 热点] #10 | 02:05 | 在 OpenAI 和 Anthropic 封禁蒸馏数据后，月之暗面转向 Google 与 Meta 模型获取训练数据 | https://aihot.news/items/g7y9qa582hic2dmfdwpmgp1i4
+[AI 热点] #12 | 02:05 | 腾讯 AI 平台 ORIDTP 从头设计双靶点多肽，成果以第一单位登上 Nature | https://aihot.news/items/u0053rtrlljwgsxa9q2g3vcn5
+[AI 热点] #13 | 02:05 | FCC 批准 SpaceX 至 2040 年部署最多 100 万颗 Starmind 卫星用于在轨 AI 数据中心 | https://aihot.news/items/oysonctc1s0cizth9lunf32y5
+[AI 热点] #20 | 02:05 | 全球多个国家和地区政府借 GTA 6 热度发布 AI 梗图引争议 | https://aihot.news/items/bgm0l45a6yhqg6vtsqsf9vp6i
+[AI 热点] #22 | 02:05 | Hugging Face 上线 llama.cpp AMD Ryzen 与 Radeon 基准测试面板 | https://aihot.news/items/rrspsi0c87cm9xoqztjaz650y
+[AI 热点] #23 | 02:05 | 美国收紧出口管制后 Nvidia 暂停向马来西亚、新加坡、泰国和印尼出货服务器 | https://aihot.news/items/jofi00ckhfizlmn6bk91oe2dr
+[AI 热点] #24 | 02:05 | 国家数据局就完善数据规则赋能人工智能创新发展公开征求意见 | https://aihot.news/items/a24vvh6z3o4289t84a344elvq
+[AI 热点] #26 | 02:05 | OpenAI 宣称证明矩阵乘法指数 ω 恰好为 9/4 | https://aihot.news/items/tok4sb9ws056eubvwud4niobl
+[AI 热点] #27 | 02:05 | 用 AI 六步读懂陌生领域：以黎曼猜想证明为例的降维理解工作流 | https://aihot.news/items/dvx3vixnhagmxxxd4qlmc9na5
+[AI 热点] #28 | 02:05 | 42 州总检察长试图阻止破产中的 Character.AI 出售用户聊天记录 | https://aihot.news/items/zuuzthgr3y5wtt0r68d691ddw
+[AI 热点] #30 | 02:05 | Terence Tao 谈如何借助 AI 阅读艰深证明 | https://aihot.news/items/xcbq9k220p9p179fvzynb7h33
+[MKT新闻] #2 | 02:05 | Iranian foreign minister holds call with Kuwaiti counterpart | https://mktnews.net/flashDetail.html?id=01a218f1-2563-7bbc-ad0f-82c28b62e503
+[MKT新闻] #4 | 02:05 | Russian Foreign Minister Lavrov said the West, including the United States, Europe and its allies elsewhere, would remain on the world stage but could no longer dictate how others live, whom they maintain friendly ties with or which countries they sanction. The West would have to resolve issues through negotiations. | https://mktnews.net/flashDetail.html?id=01a218e6-8f77-7bbc-ad0f-737de8a3e8c3
+[MKT新闻] #5 | 02:05 | Turkey’s vice president said elections will be held in 2028, potentially a few months ahead of schedule. | https://mktnews.net/flashDetail.html?id=01a218e4-0ac9-7bbc-ad0f-6af7d750af00
+[MKT新闻] #7 | 02:05 | Pakistan's foreign minister said he received a call from Kuwait's foreign minister tonight. | https://mktnews.net/flashDetail.html?id=01a218e1-a433-7bbc-ad0f-5e4dba5b514f
+[MKT新闻] #9 | 02:05 | The Euro Summit said the euro zone economy is resilient and called for an agreement on the digital euro by end-2026. | https://mktnews.net/flashDetail.html?id=01a218de-237a-7bbc-ad0f-4f98d6d4b674
+[MKT新闻] #11 | 02:05 | Eisenkot’s team postponed a meeting with Bennett that had been scheduled for Thursday local time, market sources said. | https://mktnews.net/flashDetail.html?id=01a218d6-89e3-7bbc-ad0f-3bd8f5d4cfc4
+[MKT新闻] #14 | 02:05 | Lavrov: We have never had any contact with the EU C.BANK over negotiations on the Ukraine crisis. | https://mktnews.net/flashDetail.html?id=01a218d3-ac79-7bbc-ad0f-24d6fb06ba2f
+[MKT新闻] #16 | 02:05 | Zelensky appoints new commander of Ukraine’s Support Forces | https://mktnews.net/flashDetail.html?id=01a218c7-d05e-7bbc-ad0f-1473551d6dcd
+[MKT新闻] #17 | 02:05 | Iranian Embassy in Italy denies Iran attacked Kuwait, killing two Italians | https://mktnews.net/flashDetail.html?id=01a218c6-b7d5-7bbc-ad0f-08942ee52dc0
+[MKT新闻] #19 | 02:05 | Turkish Finance Minister Simsek said the Capital Markets Board has begun work on standards for reviewing free-float ratios. He will meet MSCI officials in London next week. | https://mktnews.net/flashDetail.html?id=01a218c4-6c2d-7bbc-ad0e-ff0e07229d1d
+[MKT新闻] #20 | 02:05 | Iraq’s border forces commander said the Waleed crossing with Syria has been closed, the Iraqi News Agency reported. | https://mktnews.net/flashDetail.html?id=01a218c1-348d-7bbc-ad0e-f2a687c0a3a6
+[MKT新闻] #21 | 02:05 | Sweden’s Centre Party leader said she hopes to join a centre-right minority government led by Moderate Party leader Ulf Kristersson. | https://mktnews.net/flashDetail.html?id=01a218c0-3195-7bbc-ad0e-eaf2db1d7a35
+[MKT新闻] #23 | 02:05 | The DAX rose 2.12% to 25,258.55 on Thursday. The FTSE 100 gained 1.82% to 10,616.47, the CAC 40 rose 1.61% to 8,108.74, the EUROSTOXX 50 added 2.11% to 6,018.85, Spain’s IBEX 35 climbed 2.33% to 19,069.26 and Italy’s FTSE MIB advanced 2.43% to 48,395.00. | https://mktnews.net/flashDetail.html?id=01a218be-da9c-7bbc-ad0e-d8a4ee95c43d
+[MKT新闻] #28 | 02:05 | JP Morgan sees further gains for Indian stocks in 2027 | https://mktnews.net/flashDetail.html?id=01a21867-70af-7bbc-ad0e-b14f6ff24d35
+[MKT新闻] #30 | 02:05 | Jordan’s Foreign Ministry condemned Iran’s attack on Kuwait. | https://mktnews.net/flashDetail.html?id=01a21860-ca95-7bbc-ad0e-a4e053347243
+[掘金] #6 | 02:05 | 阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年 | https://juejin.cn/post/7711283330075377698
+[掘金] #11 | 02:05 | AI 帮我写了大半年的代码，我却越来越不会写代码了 | https://juejin.cn/post/7711645731820011535
+[掘金] #14 | 02:05 | 当 Claude 开始反对蒸馏，我想起了那 700 万份盗版书籍 | https://juejin.cn/post/7712021656399134735
+[掘金] #15 | 02:05 | 大模型蒸馏到底在蒸什么？一篇文章搞懂知识蒸馏概念 | https://juejin.cn/post/7712021656399675407
+[掘金] #16 | 02:05 | NVIDIA 全产品谱系与演进 | https://juejin.cn/post/7711658371657416744
+[掘金] #19 | 02:05 | Claude 证明黎曼猜想了吗：1700 万行 Lean 代码、社区认证与数学界的保留 | https://juejin.cn/post/7711319812089266230
+[掘金] #20 | 02:05 | 又又又用 AI 写了个小程序：我站起来猛蹬 AI，使劲薅羊毛 | https://juejin.cn/post/7711918719953895459
+[掘金] #24 | 02:05 | GLM-5.4 到了什么水平？和 Kimi、DeepSeek、GPT 放在一起看 | https://juejin.cn/post/7712027193627803658
+[掘金] #25 | 02:05 | 实测 10 个前端 UI 生成开源 Skill｜AI 输出直达上线标准 | https://juejin.cn/post/7712021656399462415
+[掘金] #26 | 02:05 | Gemini 4 很顺手，但 agy CLI 看不见上下文和额度，我做了个开源状态栏 | https://juejin.cn/post/7711753972730789922
+[掘金] #29 | 02:05 | Spring AI 还是 LangChain4j？2026 年 Java 接入大模型，我把这笔「架构赌注」的账算清楚了 | https://juejin.cn/post/7712084377979093033
+[掘金] #30 | 02:05 | OpenAI 史上最差的模型？Astra 6.2 | https://juejin.cn/post/7711659559337394176
+[Hacker News] #1 | 02:05 | AMD Specific Patches for Llama.cpp | https://news.ycombinator.com/item?id=50657265
+[Hacker News] #2 | 02:05 | One guy is doing an hunger strike at Anthropic, currently in his 3rd day | https://news.ycombinator.com/item?id=50657110
+[Hacker News] #12 | 02:05 | An algebraic quantization of gravity from the null cone | https://news.ycombinator.com/item?id=50651863
+[Hacker News] #16 | 02:05 | Tell HN: Lots of Ask HNs again | https://news.ycombinator.com/item?id=50649864
+[Hacker News] #18 | 02:05 | Bare Metal Qwen | https://news.ycombinator.com/item?id=50648365
+[Hacker News] #19 | 02:05 | The New York Times warns photographers not to update Photoshop over AI features | https://news.ycombinator.com/item?id=50647673
+[Hacker News] #30 | 02:05 | GPT-6.2 Astra is the first model to beat Googlers' code golf records | https://news.ycombinator.com/item?id=50601280
+[财联社 深度] #1 | 02:05 | 英国央行拟下调银行资本要求 并警示AI热潮背后的债务风险 | https://www.cls.cn/detail/2545947
+[财联社 深度] #4 | 02:05 | “iPod之父”：OpenAI打造AI硬件意在突破苹果数据限制 | https://www.cls.cn/detail/2545893
+[财联社 深度] #9 | 02:05 | 港股公告精选｜中教控股上财年营收超76亿元 微盟集团拟加大AI算力及云服务投入 | https://www.cls.cn/detail/2545828
+[财联社 深度] #26 | 02:05 | 铠侠涨逾12%！联手英伟达布局AI存储火热新赛道 | https://www.cls.cn/detail/2545603
+[财联社 深度] #29 | 02:05 | 融资趋冷下的具身智能：2027年行业或迎洗牌，产业多方建议创业需找准方向 | https://www.cls.cn/detail/2545620
+[财联社 深度] #30 | 02:05 | 围炉夜话｜AI商业化走到关键路口，下一轮增长机会在哪里？ | https://www.cls.cn/detail/2545583
+[FreeBuf] #7 | 02:05 | Anthropic研究显示Claude AI Agent可逃逸沙箱，访问受限数据 | https://www.freebuf.com/articles/ai-security/514456.html
+[FreeBuf] #8 | 02:05 | AI网络攻击末日预警不断，实际威胁仍来自传统渠道 | https://www.freebuf.com/articles/ai-security/514454.html
+[FreeBuf] #12 | 02:05 | FreeBuf早报 | Cairn频繁现身真实攻击；思科Expressway漏洞遭在野利用 | https://www.freebuf.com/news/514274.html
+[FreeBuf] #13 | 02:05 | Astelia推出自主网络缓解功能，无需补丁即可拦截AI驱动漏洞利用 | https://www.freebuf.com/articles/ai-security/514332.html
+[FreeBuf] #17 | 02:05 | OpenAI与思科推出AI辅助Linux安全工具，补丁部署前就可以阻断漏洞利用 | https://www.freebuf.com/articles/system/514258.html
+[FreeBuf] #20 | 02:05 | 企业AI智能体安全治理实战：MCP工具投毒、身份治理与熔断落地 | https://www.freebuf.com/articles/ai-security/514204.html
+[Solidot] #8 | 02:05 | 图库平台充斥着生成式 AI 图像 | https://www.solidot.org/story?sid=85999
+[Solidot] #13 | 02:05 | 纽约时报警告摄影师不要升级到内置 AI 功能的 Photoshop | https://www.solidot.org/story?sid=85994
+[Solidot] #14 | 02:05 | EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音 | https://www.solidot.org/story?sid=85993
+[Solidot] #15 | 02:05 | Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold | https://www.solidot.org/story?sid=85992
+[Solidot] #19 | 02:05 | 日本政府开发智能体打击盗版动漫 | https://www.solidot.org/story?sid=85988
+[华尔街见闻 最新] #2 | 02:05 | Citadel：AI投资的政治风险被严重低估 | https://wallstreetcn.com/articles/3786569
+[华尔街见闻 最新] #5 | 02:05 | 创业板半日涨超1%，机器人持续爆发，算力硬件反弹，恒科指高开低走跌1%，科网股集体回落 | https://wallstreetcn.com/articles/3786562
+[华尔街见闻 最新] #9 | 02:05 | 豆包推出“小豆”，大厂争夺个人AI入口 | https://wallstreetcn.com/articles/3786572
+[华尔街见闻 最新] #12 | 02:05 | 刚刚，Anthropic内部Claude模型独立攻克代数版P/NP问题，全篇Lean机器验证通过 | https://wallstreetcn.com/articles/3786566
+[V2EX] #5 | 02:05 | 用 3 小时 Vibe Coding 搓了个像素小游戏：《FDE 的 100 种死法》（含 100 个真实 B2B/AI 交付翻车原型） | https://www.v2ex.com/t/1260162
+[V2EX] #6 | 02:05 | 燃烧了 100 刀的 Gemini4Neon，我做了歌收公开来源的 AI 商业案例库（已整理 164 个产品与 48 篇开发者档案） | https://www.v2ex.com/t/1260155
+[V2EX] #24 | 02:05 | 大家现在 Gemini 订阅一个月花多少？ | https://www.v2ex.com/t/1260091
+[V2EX] #30 | 02:05 | 兄弟们，最近带了一批 macM4 到泰国去。那边有人可以开 Claude，本来是自己公司内部用的，现在多了几台，有人有需要没 | https://www.v2ex.com/t/1260077
+[腾讯新闻 综合早报] #9 | 02:05 | 摩根大通：大模型用量暴增79%，但价格大跌，存储只剩DRAM在涨 | https://view.inews.qq.com/a/20261126A08FCT00
+[腾讯新闻 综合早报] #10 | 02:05 | MiniMax创始人：加快采用华为和阿里AI芯片，减少对英伟达依赖 | https://view.inews.qq.com/a/20261126A0FNMG00
+[腾讯新闻 综合早报] #11 | 02:05 | 挑战Rust，一个中国团队为AI重新发明编程语言 | https://view.inews.qq.com/a/20261126A0FVS100
+[IT之家] #2 | 02:05 | 瑞士发生五起 AI 智能体网络攻击，电力供水通信系统遭入侵 | https://www.ithome.com/1/033/131.htm
+[IT之家] #8 | 02:05 | 腾讯用 AI 挑战药物研发领域前沿难题：成果登 Nature，在减重降糖、肿瘤免疫方向完成验证 | https://www.ithome.com/1/033/125.htm
+[虫部落] #3 | 02:05 | 免费的两个月GPT plus会员要么？ | https://www.chongbuluo.com/thread-25170-1-1.html
+[虫部落] #5 | 02:05 | 做个调研，到底大家对 AI 那一块比较感兴趣？ | https://www.chongbuluo.com/thread-25359-1-1.html
+[联合早报] #3 | 02:05 | 中国八部门：稳妥有序推动云计算大模型等AI服务出海 | https://www.zaochenbao.com/news/china/202611/2686251.html
+[联合早报] #10 | 02:05 | 广东官方鼓励算力中心优先使用中国国产算力晶片 | https://www.zaochenbao.com/news/china/202611/2686244.html
+[靠谱新闻] #4 | 02:05 | 知情人士称美新规影响中国AI模型发布 | https://kaopu.news/story/2026-11-26/us-chip-rules-slow-chinese-ai-models-f865d7
+[靠谱新闻] #29 | 02:05 | 罗博深称AI参与黎曼猜想证明促数学家重审研究价值 | https://kaopu.news/story/2026-11-26/po-shen-loh-ai-riemann-proof-value-0c840c
+[牛客网] #5 | 02:05 | 快手 AI应用开发 一二三面 | https://www.nowcoder.com/discuss/955480505846091776
+[牛客网] #9 | 02:05 | DeepSeek、九坤量化 or 影视飓风 | https://www.nowcoder.com/feed/main/detail/033dcb99f6ee4dabaafd10a74529dc92
+[ProductHunt] #6 | 02:05 | Kagi Mail | https://www.producthunt.com/products/kagi
+[ProductHunt] #13 | 02:05 | Transept AI | https://www.producthunt.com/products/transept-ai
+[Steam] #6 | 02:05 | AION 2 | https://store.steampowered.com/app/3393110/AION_2/
+[Steam] #26 | 02:05 | Tom Clancy's Rainbow Six Siege | https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/
+[华尔街见闻 快讯] #9 | 02:05 | 英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算 | https://wallstreetcn.com/livenews/3204703
+[华尔街见闻 快讯] #22 | 02:05 | 字节跳动称开启AI个人助理产品小豆公开测试 | https://wallstreetcn.com/livenews/3204686
+[法布财经 头条] #10 | 02:05 | DeepSeek千亿融资落地？31家出资方现身，商业化能否撑起高估值 | https://www.fastbull.com/cn/news-detail/4387722_1
+[法布财经 头条] #24 | 02:05 | 英伟达是做什么的？从GPU到AI基础设施，看懂它的赚钱方式 | https://www.fastbull.com/cn/news-detail/4387587_1
+[贴吧] #18 | 02:05 | 病毒吧曝假deepseek藏银狐木马 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
+[贴吧] #29 | 02:05 | AI用25万页证明黎曼猜想 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3&topic_id=28370066
+[少数派] #21 | 02:05 | 研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验 | https://sspai.com/post/118153
+[少数派] #22 | 02:05 | 在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？ | https://sspai.com/post/118512
+[B站热搜] #23 | 02:05 | AI证明黎曼猜想代码大幅简化 | https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%B9%85%E7%AE%80%E5%8C%96
+[B站热搜] #28 | 02:05 | 大肥鱼挑战AI类魂BOSS | https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS
+[财联社 电报] #1 | 02:05 | 欧洲股市反弹 投资者谨慎重返AI交易 | https://api3.cls.cn/share/article/2545954?os=web&sv=7.7.5&app=
+[GitHub] #1 | 02:05 | elementalsouls /      Claude-BugHunter | https://github.com/elementalsouls/Claude-BugHunter
+[卫星通讯社] #11 | 02:05 | 普京提议更新面向2036年的国家人工智能战略 | https://sputniknews.cn/20261126/1074367989.html
+[知乎] #11 | 02:05 | 曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么？ | https://www.zhihu.com/question/2109197560539604552
+[远景论坛] #16 | 02:05 | AMD显卡 RX 9060 XT刷新GPU世界纪录! | https://bbs.pcbeta.com/viewthread-2085526-1-1.html
+[今日头条] #28 | 02:05 | AI之后下一场技术革命是什么 | https://www.toutiao.com/trending/7711350064182411826/
+[百度热搜] #30 | 02:05 | 外国老哥装傻把AI逼到黑化 | https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%80%81%E5%93%A5%E8%A3%85%E5%82%BB%E6%8A%8AAI%E9%80%BC%E5%88%B0%E9%BB%91%E5%8C%96
+
+## 国际媒体与官方博客 RSS（已过滤，无排名）
+[Hacker News] #- | 11-27 01:16 | Tracking Diseases Cured by AI | https://diseasescuredbyai.com/
+[Hacker News] #- | 11-27 01:11 | AMD Specific Patches for Llama.cpp | https://devnull.land/amd-specific-llama-cpp
+[TechCrunch AI] #- | 11-27 00:00 | As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue | https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/
+[The Verge] #- | 11-26 23:55 | GTA VI developers vote against unionization | https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb
+[MIT Tech Review] #- | 11-26 21:10 | The Download: Better bionic hands and AI’s natural-gas boom | https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/
+[Hugging Face Blog] #- | 11-26 19:37 | Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon | https://huggingface.co/blog/ggml-org/llamacpp-amd-bench
+[少数派] #- | 11-26 17:30 | App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具 | https://sspai.com/post/116773
+[Product Hunt] #- | 11-26 15:58 | Claude-Mem Cloud Sync | https://www.producthunt.com/products/claude-mem
+[Product Hunt] #- | 11-26 15:11 | Fairwind | https://www.producthunt.com/products/fairwind
+[少数派] #- | 11-26 15:00 | 论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图 | https://sspai.com/post/119563
+[Hacker News] #- | 11-26 13:37 | An algebraic quantization of gravity from the null cone | https://arxiv.org/abs/2611.34924
+[Hugging Face Blog] #- | 11-26 13:05 | Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference | https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin
+[少数派] #- | 11-26 11:13 | 我用AI做了一张两千年的中国历史地图 | https://sspai.com/post/117510
+[Hacker News] #- | 11-26 08:43 | Tell HN: Lots of Ask HNs again | https://news.ycombinator.com/item?id=50649864
+[少数派] #- | 11-26 08:08 | 派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等 | https://sspai.com/post/119560
+[Hugging Face Blog] #- | 11-26 08:00 | Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems | https://huggingface.co/blog/training-swarms
+[TechCrunch AI] #- | 11-26 06:44 | S&P considers Nvidia credit downgrade over governance and ‘key man’ risks | https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
+[Hacker News] #- | 11-26 06:15 | Bare Metal Qwen | https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os
+[Hacker News] #- | 11-26 05:18 | The New York Times warns photographers not to update Photoshop over AI features | https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
+[TechCrunch AI] #- | 11-26 04:03 | OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work | https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/
+[TechCrunch AI] #- | 11-26 03:54 | Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it | https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/
+[TechCrunch AI] #- | 11-26 03:44 | Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’ | https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/
+[Hugging Face Blog] #- | 11-26 02:52 | Where scientists draw the line on AI agents | https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents
+[TechCrunch AI] #- | 11-26 02:11 | Want to buy your kid an AI toy this Christmas? Not in New York | https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/
