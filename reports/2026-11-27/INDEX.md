@@ -2,7 +2,9 @@
 
 ## 推荐读取：精简纯文本（已过滤，仅来源/排名/时间/标题/链接）
 - https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/reports/2026-11-27/0205.txt
+- https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/reports/2026-11-27/1421.txt
 
 ## 完整 HTML 报告（仅当精简文本不可用时读取）
 最新汇总: https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/index.html
 - https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/reports/2026-11-27/0205.html
+- https://raw.githubusercontent.com/xunyuyou/trendradar-ai-daily/master/reports/2026-11-27/1421.html
