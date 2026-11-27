@@ -1,0 +1,123 @@
+# 全球 AI 热点精简数据 2026-11-28 0149 (Asia/Shanghai)
+# 来源: 已按 AI 关键词过滤的报告 | 热榜 105 条 | RSS 11 条
+# 字段: 来源 | 排名 | 时间 | 标题 | 链接
+
+## 热榜（已过滤）
+[AI 热点] #4 | 01:49 | OpenAI 正打造代号 Athena 的数据平台，减少 AI 智能体猜测 | https://aihot.news/items/kog71yczj35pu8coarou5v7xi
+[AI 热点] #5 | 01:49 | SemiAnalysis 深度实测 Trainium3 推理性能与微架构 | https://aihot.news/items/c6s6ntej33wpsjjwuxk6dc17e
+[AI 热点] #6 | 01:49 | GTA 6 主机版发售仅数日，AI 编码智能体加速非官方 PC 移植冲击 Rockstar 商业模式 | https://aihot.news/items/cywyqaz29ks23jyw2ycez5hkl
+[AI 热点] #7 | 01:49 | SAP 拟裁员至少 1 万人以转向 AI | https://aihot.news/items/w6u8ut3hxm4qa2qtcoqv4qfsj
+[AI 热点] #10 | 01:49 | Unsloth 让本地 LLM 自动操控 Unreal Engine、Unity 与 Blender | https://aihot.news/items/s4b9u1azhr00j57zzrkgyedtt
+[AI 热点] #11 | 01:49 | 韩国教育部新规防 AI 作弊，学校抢购金属探测器致供不应求 | https://aihot.news/items/zwpwyimscog9vnzb0avydy1bf
+[AI 热点] #14 | 01:49 | Philipp Schmid 为 Gemini 4 Neon 构建实验性 deep research skill，让 coding agent 变身研究员 | https://aihot.news/items/fpsryso7jw0zy7c28t70usemy
+[AI 热点] #17 | 01:49 | 美团王兴：与微信小微合作按计划推进，预计明年 AI 资本开支将低于今年 | https://aihot.news/items/srd2q271agszemkfczg1961p7
+[AI 热点] #18 | 01:49 | 美国限制中国远程使用 Nvidia B300 后，Blackwell 算力租金两地分化 | https://aihot.news/items/xb6j3mt84w59qpzi6674sr6d9
+[AI 热点] #19 | 01:49 | Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报 | https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc
+[AI 热点] #21 | 01:49 | 腾讯混元 Hy-MT3-30B-A3B 发布 GGUF 版本，支持 llama.cpp 本地部署 | https://aihot.news/items/fqaisbasw72zd1s8ppl5xwozy
+[AI 热点] #22 | 01:49 | 微信视觉团队开源 WeMM-Ecom 多模态模型家族，覆盖 0.8B 到 35B-A3B 五款规格 | https://aihot.news/items/ds9x67emhnl3j9xqs87asvo1r
+[AI 热点] #24 | 01:49 | Character AI 破产致超 2100 万账户聊天记录被出售，含 210 万未成年人账户 | https://aihot.news/items/zrwvcchg8zwqph7a1eejf7bwp
+[AI 热点] #26 | 01:49 | 李香凝谈用 AI 在大银幕复活李小龙：像是在走钢丝 | https://aihot.news/items/h0ppgzd1saav6j6bj62xcw5b6
+[AI 热点] #27 | 01:49 | NVIDIA 论文 TimeTravelContainer 让 AI Agent 实时 fork 沙盒，23.7 小时任务 2.5 小时完成 | https://aihot.news/items/lz7knp2i9aj8e7prm87lyml3f
+[AI 热点] #28 | 01:49 | 卡巴斯基 CEO 警告：AI 短期不会毁灭人类，但正成为黑客新武器 | https://aihot.news/items/qfqv0vv5llsgo0y7wqz3blzro
+[AI 热点] #29 | 01:49 | CCFA 与德勤报告：近八成零售企业已开展 AI 智能体应用 | https://aihot.news/items/wx2k82hk3p08x83smz0i7l5te
+[AI 热点] #30 | 01:49 | 知乎宣布与 DeepSeek 展开内容合作，间接投资后再进一步 | https://aihot.news/items/m1q1gr2ulgda2mq8684g0mh5j
+[掘金] #6 | 01:49 | 大模型蒸馏到底在蒸什么？一篇文章搞懂知识蒸馏概念 | https://juejin.cn/post/7712021656399675407
+[掘金] #7 | 01:49 | 当 Claude 开始反对蒸馏，我想起了那 700 万份盗版书籍 | https://juejin.cn/post/7712021656399134735
+[掘金] #8 | 01:49 | Spring AI 还是 LangChain4j？2026 年 Java 接入大模型，我把这笔「架构赌注」的账算清楚了 | https://juejin.cn/post/7712084377979093033
+[掘金] #9 | 01:49 | 实测 10 个前端 UI 生成开源 Skill｜AI 输出直达上线标准 | https://juejin.cn/post/7712021656399462415
+[掘金] #11 | 01:49 | 🧠2026主流知识库技术对比：RAG、MD+grep、LLM Wiki优劣与落地场景 | https://juejin.cn/post/7712561672912896027
+[掘金] #12 | 01:49 | Gemini 4 很顺手，但 agy CLI 看不见上下文和额度，我做了个开源状态栏 | https://juejin.cn/post/7711753972730789922
+[掘金] #18 | 01:49 | 前端和后端，转 AI 全栈怎么转 | https://juejin.cn/post/7712564916964065299
+[掘金] #20 | 01:49 | 我写的 12 个 AI Skill，三个月后 8 个在吃空饷 | https://juejin.cn/post/7712307777096007720
+[掘金] #22 | 01:49 | 货拉拉大数据智能运维AI Agent探索实践 | https://juejin.cn/post/7711915892027883535
+[掘金] #26 | 01:49 | async/await 和 Promise 到底怎么选？ | https://juejin.cn/post/7711798594807037979
+[掘金] #27 | 01:49 | Spring AI 2.1 正式发布 ，新增一个重要功能 | https://juejin.cn/post/7712619868504014888
+[Hacker News] #4 | 01:49 | GPT 6.2 Astra Solves a Historical Mystery | https://news.ycombinator.com/item?id=50667744
+[Hacker News] #10 | 01:49 | US Air Force's cloud computing platform hacked | https://news.ycombinator.com/item?id=50666375
+[Hacker News] #14 | 01:49 | AI on brink of making online security useless, mathematicians fear | https://news.ycombinator.com/item?id=50665488
+[Hacker News] #16 | 01:49 | Claude sabotaging ML research tasks? | https://news.ycombinator.com/item?id=50664325
+[Hacker News] #17 | 01:49 | Group chat where your AI talks behind your back | https://news.ycombinator.com/item?id=50663595
+[Hacker News] #19 | 01:49 | The need for a formally verifiable mainstream programming language | https://news.ycombinator.com/item?id=50663089
+[Hacker News] #20 | 01:49 | "What's Claude's fursona?" and other questions | https://news.ycombinator.com/item?id=50662933
+[Hacker News] #22 | 01:49 | AI made self-hosting fun again | https://news.ycombinator.com/item?id=50660180
+[Hacker News] #28 | 01:49 | AMD-specific fork of llama.cpp | https://news.ycombinator.com/item?id=50657265
+[Hacker News] #30 | 01:49 | Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email | https://news.ycombinator.com/item?id=50653477
+[V2EX] #1 | 01:49 | 上次把 DeepSeek 放在网页旁，这次把豆包和自己的 API 也接进来了 | https://www.v2ex.com/t/1260475
+[V2EX] #2 | 01:49 | 做了一个 MAGI-2 AI 视频生成器 | https://www.v2ex.com/t/1260473
+[V2EX] #3 | 01:49 | 让 Claude Code 重构了一个 1500 多行的函数，测试全过了，但我还是不太放心 | https://www.v2ex.com/t/1260469
+[V2EX] #10 | 01:49 | Casdoor 这一个月：Keycloak、Auth0、Okta 能迁了，AI Agent 也能通过 MCP 来管 | https://www.v2ex.com/t/1260446
+[V2EX] #15 | 01:49 | [开源自荐]买谷歌黑五半价 pro 的看过来-在 dsh 中不违反 tos 的情况下使用 agy-gemini | https://www.v2ex.com/t/1260422
+[V2EX] #18 | 01:49 | 作为从传统编码到现在 AI Coding 的 码农 | https://www.v2ex.com/t/1260418
+[V2EX] #21 | 01:49 | 妳的 AI 会在背后说妳坏话 | https://www.v2ex.com/t/1260411
+[V2EX] #24 | 01:49 | 给 DeepSeek Harness 做了个 GTA 6 主题插件：通缉星级随 Agent 状态亮起 | https://www.v2ex.com/t/1260405
+[V2EX] #26 | 01:49 | 做了个免登录试用的 AI 图生图工具站，支持局部改图、老房改造、像素画和 4K 放大 | https://www.v2ex.com/t/1260403
+[华尔街见闻 最新] #1 | 01:49 | DeepSeek APP突然更新账单，网友：要收费了？ | https://wallstreetcn.com/articles/3786869
+[华尔街见闻 最新] #2 | 01:49 | AI交易回暖，纳指涨1.5%，闪迪涨超8%，中概指数涨3%，金银大涨，美债回落 | https://wallstreetcn.com/articles/3786838
+[华尔街见闻 最新] #6 | 01:49 | “打不过，”马斯克公开认输AI模型之争，向员工承认“落后于对手”，警告浪费GPU者将被开除 | https://wallstreetcn.com/articles/3786866
+[华尔街见闻 最新] #8 | 01:49 | AI股抛售潮接近尾声？摩根大通警告：真正的风险可能在2027年 | https://wallstreetcn.com/articles/3786864
+[华尔街见闻 最新] #10 | 01:49 | AI巨头被曝藏着密码学“核弹”，量子计算大牛Scott Aaronson博客刷屏 | https://wallstreetcn.com/articles/3786862
+[华尔街见闻 最新] #11 | 01:49 | 美团电话会：王兴复盘美团优选“重大错误” ，外卖竞争迎来拐点、四季度UE将明显改善，明年AI资本开支将下降 | https://wallstreetcn.com/articles/3786861
+[华尔街见闻 最新] #12 | 01:49 | “笑死，谷歌亲自教你怎么蒸馏 Gemini” | https://wallstreetcn.com/articles/3786858
+[FreeBuf] #2 | 01:49 | 企业AI安全管理建设实战：从攻击面认知到落地治理 | https://www.freebuf.com/articles/ai-security/513465.html
+[FreeBuf] #4 | 01:49 | FreeBuf早报 | 1Password披露安全事件；Anthropic研究显示Claude AI Agent可逃逸沙箱 | https://www.freebuf.com/news/514658.html
+[FreeBuf] #5 | 01:49 | 一封邮件偷走企业数据：AI助手提示注入链还原 | https://www.freebuf.com/articles/ai-security/514616.html
+[FreeBuf] #10 | 01:49 | 不用0day，也能搬空加密机构：百个AI Agent昼夜攻击实录 | https://www.freebuf.com/articles/514693.html
+[FreeBuf] #12 | 01:49 | 107 秒 1,175 个 User-Agent：冒充 AI 爬虫的机器，一次模型都没调 | https://www.freebuf.com/articles/ai-security/514531.html
+[FreeBuf] #19 | 01:49 | Anthropic研究显示Claude AI Agent可逃逸沙箱，访问受限数据 | https://www.freebuf.com/articles/ai-security/514456.html
+[FreeBuf] #20 | 01:49 | AI网络攻击末日预警不断，实际威胁仍来自传统渠道 | https://www.freebuf.com/articles/ai-security/514454.html
+[IT之家] #3 | 01:49 | 华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计 | https://www.ithome.com/1/033/769.htm
+[IT之家] #8 | 01:49 | 防考生利用 AI 作弊，韩国学校抢购金属探测器 | https://www.ithome.com/1/033/763.htm
+[IT之家] #14 | 01:49 | 美团王兴：与微信小微合作按计划推进，预计明年 AI 资本开支将低于今年 | https://www.ithome.com/1/033/748.htm
+[IT之家] #17 | 01:49 | 微信公布 2026 年 11 月朋友圈热度谣言，含“监管要求基金公司上报全部产品 AI 敞口”等 | https://www.ithome.com/1/033/745.htm
+[IT之家] #26 | 01:49 | 网信办：我国超 64% 成年公民具备初级及以上数字素养与技能，近半数具备人工智能素养 | https://www.ithome.com/1/033/732.htm
+[IT之家] #30 | 01:49 | 字节火山引擎：豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等推出量产电视 | https://www.ithome.com/1/033/718.htm
+[B站热搜] #2 | 01:49 | 鉴定AI在物理领域的新成就 | https://search.bilibili.com/all?keyword=%E9%89%B4%E5%AE%9AAI%E5%9C%A8%E7%89%A9%E7%90%86%E9%A2%86%E5%9F%9F%E7%9A%84%E6%96%B0%E6%88%90%E5%B0%B1
+[B站热搜] #17 | 01:49 | Claude开发搜打撤游戏 | https://search.bilibili.com/all?keyword=Claude%E5%BC%80%E5%8F%91%E6%90%9C%E6%89%93%E6%92%A4%E6%B8%B8%E6%88%8F
+[B站热搜] #26 | 01:49 | AI包装的烂奇迹能算原创吗 | https://search.bilibili.com/all?keyword=AI%E5%8C%85%E8%A3%85%E7%9A%84%E7%83%82%E5%A5%87%E8%BF%B9%E8%83%BD%E7%AE%97%E5%8E%9F%E5%88%9B%E5%90%97
+[ProductHunt] #2 | 01:49 | Depost AI | https://www.producthunt.com/products/depost-ai
+[ProductHunt] #12 | 01:49 | Prosed AI 2.0 + MCP | https://www.producthunt.com/products/prosed-turn-your-content-into-a-book
+[ProductHunt] #17 | 01:49 | Spark AI | https://www.producthunt.com/products/spark-ai-7
+[财联社 深度] #3 | 01:49 | 近岸蛋白业绩继续增收不增利  赋能AI相关业务收入占比不足2% |直击业绩会 | https://www.cls.cn/detail/2547077
+[财联社 深度] #4 | 01:49 | DeepSeek开始“算细账”：AI大模型免费换流量的时代正在收尾 | https://www.cls.cn/detail/2547076
+[财联社 深度] #7 | 01:49 | 欧洲AI数据中心开发商LIAN选定伦敦上市 拟募资约5亿美元 | https://www.cls.cn/detail/2547043
+[Solidot] #2 | 01:49 | Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上 | https://www.solidot.org/story?sid=86014
+[Solidot] #17 | 01:49 | 图库平台充斥着生成式 AI 图像 | https://www.solidot.org/story?sid=85999
+[虫部落] #4 | 01:49 | 免费的两个月GPT plus会员要么？ | https://www.chongbuluo.com/thread-25170-1-1.html
+[虫部落] #5 | 01:49 | 做个调研，到底大家对 AI 那一块比较感兴趣？ | https://www.chongbuluo.com/thread-25359-1-1.html
+[Steam] #6 | 01:49 | AION 2 | https://store.steampowered.com/app/3393110/AION_2/
+[Steam] #26 | 01:49 | Tom Clancy's Rainbow Six Siege | https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/
+[贴吧] #7 | 01:49 | 吧友反问AI是否懂人味 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%8F%8D%E9%97%AEAI%E6%98%AF%E5%90%A6%E6%87%82%E4%BA%BA%E5%91%B3&topic_id=28370365
+[贴吧] #25 | 01:49 | 病毒吧曝假deepseek藏银狐木马 | https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC&topic_id=28370146
+[华尔街见闻 快讯] #7 | 01:49 | Anthropic涨幅扩大至10%，刷新日高。标普目前涨1.3%，道指涨1.1%，纳指涨1.7%，纳斯达克100指数涨1.98%，半导体指数涨3.1%。 | https://wallstreetcn.com/livenews/3207218
+[华尔街见闻 快讯] #26 | 01:49 | 波兰与帕兰提尔签署3亿美元防务AI协议 | https://wallstreetcn.com/livenews/3207198
+[牛客网] #9 | 01:49 | DeepSeek、九坤量化 or 影视飓风 | https://www.nowcoder.com/feed/main/detail/033dcb99f6ee4dabaafd10a74529dc92
+[牛客网] #13 | 01:49 | 快手 AI应用开发 一二三面 | https://www.nowcoder.com/discuss/955480505846091776
+[法布财经 头条] #12 | 01:49 | DeepSeek千亿融资落地？31家出资方现身，商业化能否撑起高估值 | https://www.fastbull.com/cn/news-detail/4387722_1
+[法布财经 头条] #26 | 01:49 | 英伟达是做什么的？从GPU到AI基础设施，看懂它的赚钱方式 | https://www.fastbull.com/cn/news-detail/4387587_1
+[少数派] #24 | 01:49 | 研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验 | https://sspai.com/post/118153
+[少数派] #25 | 01:49 | 在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？ | https://sspai.com/post/118512
+[GitHub] #1 | 01:49 | elementalsouls /      Claude-BugHunter | https://github.com/elementalsouls/Claude-BugHunter
+[雪球] #3 | 01:49 | Anthropic | https://xueqiu.com/s/ANT
+[财联社 电报] #5 | 01:49 | 财联社11月28日电，Anthropic涨幅扩大至10%，创盘中高点。 | https://api3.cls.cn/share/article/2547109?os=web&sv=7.7.5&app=
+[格隆汇] #5 | 01:49 | 长安汽车(000625.SZ)：已取得国内首块L3级自动驾驶专用正式号牌和L4级自研Robotaxi测试牌照 | https://www.gelonghui.com/news/5365454
+[金十数据] #5 | 01:49 | Anthropic盘中涨超10% | https://flash.jin10.com/detail/20261128010409769800
+[联合早报] #5 | 01:49 | 增人手查走私 出新规限算力 美封堵中企获取先进晶片与算力渠道 | https://www.zaochenbao.com/news/politics/202611/2786309.html
+[远景论坛] #9 | 01:49 | Nvidia 最新发布的 621.40 版驱动程序存在显示问题，部分用户更新后显示器无法唤醒。 | https://bbs.pcbeta.com/viewthread-2085710-1-1.html
+[腾讯新闻 综合早报] #10 | 01:49 | 冯骥约八千字长文谈AI冲击：创作工具平权了，分钱方式没有平权 | https://view.inews.qq.com/a/20261127A0GJDT00
+[卫星通讯社] #13 | 01:49 | 专家：金砖国家需要人工智能合作体系，所有国家都应从技术中获得最大收益 | https://sputniknews.cn/20261127/1074385197.html
+[澎湃新闻] #15 | 01:49 | 国产大模型集体进军AI4S：年内融资突破200亿元，大模型从“会聊天”转向“做科研”？ | https://m.thepaper.cn/newsDetail_forward_34547146
+[今日头条] #24 | 01:49 | 普京与印度AI领域天才少年自拍 | https://www.toutiao.com/trending/7712748822061125170/
+[快讯通] #28 | 01:49 | 市场消息：俄罗斯总统弗拉基米尔·普京在莫斯科举行的“人工智能之旅”会议上，与被称为“印度人工智能神童”的印度企业家、人工智能开发者劳尔·约翰·阿朱讨论了人工智能在教育领域的风险。 | https://www.fastbull.com/cn/fastshort/4366713_212_1
+
+## 国际媒体与官方博客 RSS（已过滤，无排名）
+[The Verge] #- | 11-28 00:30 | The best Black Friday deals on AirPods, MacBooks, and other Apple gear | https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026
+[The Verge] #- | 11-27 23:15 | Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday | https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale
+[Hacker News] #- | 11-27 23:03 | GPT 6.2 Astra Solves a Historical Mystery | https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical
+[Hacker News] #- | 11-27 20:54 | US Air Force's cloud computing platform hacked | https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163
+[Hacker News] #- | 11-27 16:28 | Claude sabotaging ML research tasks? | https://twitter.com/RealAstropulse/status/2126119408997466389
+[Hacker News] #- | 11-27 14:44 | Group chat where your AI talks behind your back | https://construct22.com/
+[Hacker News] #- | 11-27 13:22 | The need for a formally verifiable mainstream programming language | https://blainehansen.me/post/mainstream-verifiable-language/
+[Hacker News] #- | 11-27 12:56 | "What's Claude's fursona?" and other questions | https://herecomesthemoon.net/2026/11/whats-claudes-fursona/
+[Product Hunt] #- | 11-27 11:17 | Depost AI | https://www.producthunt.com/products/depost-ai
+[Hugging Face Blog] #- | 11-27 08:00 | Taking Trainium3 to the Track: Generating Videos with LTX-2.5 | https://huggingface.co/blog/video-trainium3
+[TechCrunch AI] #- | 11-27 04:03 | Nvidia hits pause on chip shipments to Southeast Asia | https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/
